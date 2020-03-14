@@ -1,0 +1,317 @@
+<table id="schedule-table">
+<tbody>
+</tbody><thead>
+<tr>
+<th scope="col" width="12"></th>
+<th scope="col" style="width:40px"></th><th scope="col"></th>
+<th style="text-align:left;width:136px;">Opponent</th>
+<th scope="col" style="width:64px;">Result</th>
+<th scope="col" style="width:20px"></th>
+<th scope="col" style="width:62px">Site</th>
+<th scope="col"></th>
+<th width="17"></th>
+<th scope="col">St</th><th scope="col">MP</th>
+<th scope="col">ORtg</th><th scope="col">%Ps</th>
+<th scope="col">Pts</th><th scope="col" style="width:37px">2Pt</th>
+<th scope="col" style="width:37px">3Pt</th><th scope="col" style="width:37px">FT</th>
+<th scope="col" style="width:18px">OR</th><th scope="col" style="width:18px">DR</th>
+<th scope="col" style="width:18px">A</th><th scope="col" style="width:18px">TO</th>
+<th scope="col" style="width:18px">Blk</th><th scope="col" style="width:18px">Stl</th>
+<th scope="col" style="width:18px">PF</th>
+<th scope="col" width="12"></th>
+</tr>
+</thead>
+<tbody><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-03-13">Mar 13</a></td>
+<td class="rank">167</td><td class="opp"><a href="team.php?team=Radford">Radford</a></td>
+<td><a href="box.php?g=5934">L, 71-61</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td style="font-size:10px">NCAA-T</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-03-06">Mar 6</a></td>
+<td class="rank">177</td><td class="opp"><a href="team.php?team=Wagner">Wagner</a></td>
+<td><a href="box.php?g=5693">W, 71-61</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">NEC-T</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-03-03">Mar 3</a></td>
+<td class="rank">276</td><td class="opp"><a href="team.php?team=Fairleigh+Dickinson">Fairleigh Dickinson</a></td>
+<td><a href="box.php?g=5654">W, 78-77</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">NEC-T</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-02-28">Feb 28</a></td>
+<td class="rank">312</td><td class="opp"><a href="team.php?team=St.+Francis+NY">St. Francis NY</a></td>
+<td><a href="box.php?g=5603">W, 73-50</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">NEC-T</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-02-24">Feb 24</a></td>
+<td class="rank">304</td><td class="opp"><a href="team.php?team=Sacred+Heart">Sacred Heart</a></td>
+<td><a href="box.php?g=5088">W, 88-77</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">NEC</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-02-22">Feb 22</a></td>
+<td class="rank">312</td><td class="opp"><a href="team.php?team=St.+Francis+NY">St. Francis NY</a></td>
+<td><a href="box.php?g=4964">W, 81-76</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">NEC</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-02-17">Feb 17</a></td>
+<td class="rank">177</td><td class="opp"><a href="team.php?team=Wagner">Wagner</a></td>
+<td><a href="box.php?g=4815">L, 78-74</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">NEC</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-02-15">Feb 15</a></td>
+<td class="rank">312</td><td class="opp"><a href="team.php?team=St.+Francis+NY">St. Francis NY</a></td>
+<td><a href="box.php?g=4654">L, 84-79</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">NEC</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-02-10">Feb 10</a></td>
+<td class="rank">249</td><td class="opp"><a href="team.php?team=Robert+Morris">Robert Morris</a></td>
+<td><a href="box.php?g=4407">L, 96-82</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">NEC</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-02-08">Feb 8</a></td>
+<td class="rank">205</td><td class="opp"><a href="team.php?team=St.+Francis+PA">St. Francis PA</a></td>
+<td><a href="box.php?g=4293">W, 83-67</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">NEC</td><td></td><td></td>
+<td>2</td>
+<td>-</td><td>-</td>
+<td>0</td>
+<td class="zero">0-0</td>
+<td class="zero">0-0</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-02-03">Feb 3</a></td>
+<td class="rank">344</td><td class="opp"><a href="team.php?team=Bryant">Bryant</a></td>
+<td><a href="box.php?g=4025">W, 84-71</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">NEC</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-02-01">Feb 1</a></td>
+<td class="rank">304</td><td class="opp"><a href="team.php?team=Sacred+Heart">Sacred Heart</a></td>
+<td><a href="box.php?g=3974">W, 69-60</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">NEC</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-01-27">Jan 27</a></td>
+<td class="rank">310</td><td class="opp"><a href="team.php?team=Central+Connecticut">Central Connecticut</a></td>
+<td><a href="box.php?g=3743">W, 94-89</a></td>
+<td style="font-size:12px">OT</td><td style="font-size:12px">Home</td><td style="font-size:10px">NEC</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-01-25">Jan 25</a></td>
+<td class="rank">237</td><td class="opp"><a href="team.php?team=Mount+St.+Mary%27s">Mount St. Mary's</a></td>
+<td><a href="box.php?g=3647">L, 86-80</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">NEC</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-01-20">Jan 20</a></td>
+<td class="rank">310</td><td class="opp"><a href="team.php?team=Central+Connecticut">Central Connecticut</a></td>
+<td><a href="box.php?g=3375">L, 72-63</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">NEC</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-01-18">Jan 18</a></td>
+<td class="rank">344</td><td class="opp"><a href="team.php?team=Bryant">Bryant</a></td>
+<td><a href="box.php?g=3301">W, 83-79</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">NEC</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-01-13">Jan 13</a></td>
+<td class="rank">177</td><td class="opp"><a href="team.php?team=Wagner">Wagner</a></td>
+<td><a href="box.php?g=3072">W, 69-67</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">NEC</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-01-11">Jan 11</a></td>
+<td class="rank">276</td><td class="opp"><a href="team.php?team=Fairleigh+Dickinson">Fairleigh Dickinson</a></td>
+<td><a href="box.php?g=2943">W, 90-85</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">NEC</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-01-06">Jan 6</a></td>
+<td class="rank">249</td><td class="opp"><a href="team.php?team=Robert+Morris">Robert Morris</a></td>
+<td><a href="box.php?g=2775">L, 88-79</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">NEC</td><td></td><td></td>
+<td>2</td>
+<td>-</td><td>-</td>
+<td>0</td>
+<td class="zero">0-0</td>
+<td class="zero">0-0</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-01-04">Jan 4</a></td>
+<td class="rank">205</td><td class="opp"><a href="team.php?team=St.+Francis+PA">St. Francis PA</a></td>
+<td><a href="box.php?g=2638">L, 85-68</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">NEC</td><td></td><td></td>
+<td>2</td>
+<td>-</td><td>-</td>
+<td>0</td>
+<td class="zero">0-0</td>
+<td>0-1</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="divide"></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2017-12-31">Dec 31</a></td>
+<td class="rank">237</td><td class="opp"><a href="team.php?team=Mount+St.+Mary%27s">Mount St. Mary's</a></td>
+<td><a href="box.php?g=2466">W, 71-57</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">NEC</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2017-12-29">Dec 29</a></td>
+<td class="rank">276</td><td class="opp"><a href="team.php?team=Fairleigh+Dickinson">Fairleigh Dickinson</a></td>
+<td><a href="box.php?g=2320">L, 82-71</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">NEC</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2017-12-22">Dec 22</a></td>
+<td class="rank">302</td><td class="opp"><a href="team.php?team=Binghamton">Binghamton</a></td>
+<td><a href="box.php?g=2129">W, 74-66</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2017-12-17">Dec 17</a></td>
+<td class="rank">216</td><td class="opp"><a href="team.php?team=Saint+Peter%27s">Saint Peter's</a></td>
+<td><a href="box.php?g=1895">L, 71-56</a></td>
+<td></td><td style="font-size:12px">Semi-Home</td><td></td><td></td><td></td>
+<td>19</td>
+<td>111</td>
+<td>15</td>
+<td>6</td>
+<td>0-1</td>
+<td>2-6</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>4</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2017-12-10">Dec 10</a></td>
+<td class="rank">211</td><td class="opp"><a href="team.php?team=Fairfield">Fairfield</a></td>
+<td><a href="box.php?g=1671">L, 76-72</a></td>
+<td></td><td style="font-size:12px">Semi-Home</td><td></td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2017-12-04">Dec 4</a></td>
+<td class="rank">228</td><td class="opp"><a href="team.php?team=Stony+Brook">Stony Brook</a></td>
+<td><a href="box.php?g=1380">W, 75-71</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2017-11-30">Nov 30</a></td>
+<td class="rank">221</td><td class="opp"><a href="team.php?team=Hartford">Hartford</a></td>
+<td><a href="box.php?g=1178">W, 79-78</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2017-11-28">Nov 28</a></td>
+<td class="rank">255</td><td class="opp"><a href="team.php?team=NJIT">NJIT</a></td>
+<td><a href="box.php?g=1061">L, 73-69</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2017-11-25">Nov 25</a></td>
+<td class="rank">271</td><td class="opp"><a href="team.php?team=Brown">Brown</a></td>
+<td><a href="box.php?g=897">L, 94-86</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td></td>
+<td>19</td>
+<td>110</td>
+<td>16</td>
+<td>8</td>
+<td>1-2</td>
+<td>1-2</td>
+<td>3-3</td>
+<td>1</td>
+<td>3</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2017-11-22">Nov 22</a></td>
+<td class="rank">293</td><td class="opp"><a href="team.php?team=UMass+Lowell">UMass Lowell</a></td>
+<td><a href="box.php?g=815">L, 74-66</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td></td>
+<td>3</td>
+<td>-</td><td>-</td>
+<td>0</td>
+<td class="zero">0-0</td>
+<td>0-1</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2017-11-18">Nov 18</a></td>
+<td class="rank">221</td><td class="opp"><a href="team.php?team=Hartford">Hartford</a></td>
+<td><a href="box.php?g=555">W, 86-84</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td></td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2017-11-17">Nov 17</a></td>
+<td class="rank">193</td><td class="opp"><a href="team.php?team=Miami+OH">Miami OH</a></td>
+<td><a href="box.php?g=510">L, 78-74</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td></td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2017-11-15">Nov 15</a></td>
+<td class="rank">NR</td><td class="opp">New Rochelle</td>
+<td><a href="box.php?g=5416">W, 104-68</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td></td>
+<td>8</td>
+<td>-</td><td>-</td>
+<td>7</td>
+<td>1-1</td>
+<td>1-2</td>
+<td>2-2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2017-11-13">Nov 13</a></td>
+<td class="rank">291</td><td class="opp"><a href="team.php?team=Fordham">Fordham</a></td>
+<td><a href="box.php?g=264">L, 81-68</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2017-11-10">Nov 10</a></td>
+<td class="rank">168</td><td class="opp"><a href="team.php?team=Tulane">Tulane</a></td>
+<td><a href="box.php?g=110">L, 102-96</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr></tbody><thead>
+<tr>
+<th scope="col" width="12"></th>
+<th scope="col" style="width:40px"></th><th scope="col"></th>
+<th style="text-align:left;width:136px;">Opponent</th>
+<th scope="col" style="width:64px;">Result</th>
+<th scope="col" style="width:20px"></th>
+<th scope="col" style="width:62px">Site</th>
+<th scope="col"></th>
+<th width="17"></th>
+<th scope="col">St</th><th scope="col">MP</th>
+<th scope="col">ORtg</th><th scope="col">%Ps</th>
+<th scope="col">Pts</th><th scope="col" style="width:37px">2Pt</th>
+<th scope="col" style="width:37px">3Pt</th><th scope="col" style="width:37px">FT</th>
+<th scope="col" style="width:18px">OR</th><th scope="col" style="width:18px">DR</th>
+<th scope="col" style="width:18px">A</th><th scope="col" style="width:18px">TO</th>
+<th scope="col" style="width:18px">Blk</th><th scope="col" style="width:18px">Stl</th>
+<th scope="col" style="width:18px">PF</th>
+<th scope="col" width="12"></th>
+</tr>
+</thead>
+</table>

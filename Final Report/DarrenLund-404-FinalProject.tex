@@ -1,0 +1,117 @@
+%Formatting taken in part from Journal article template by Frits Wenneker at www.LaTeXTemplates.com
+
+
+\documentclass[twoside,twocolumn,11pt]{article}
+%\documentclass[11pt]{article}
+
+\usepackage{blindtext} % Package to generate dummy text throughout this template 
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage[none]{hyphenat}
+
+\usepackage[T1]{fontenc} % Use 8-bit encoding that has 256 glyphs
+
+\usepackage{microtype} % Slightly tweak font spacing for aesthetics
+
+\usepackage[english]{babel} % Language hyphenation and typographical rules
+
+\usepackage[hmarginratio=1:1,top=32mm,columnsep=20pt]{geometry} % Document margins
+\usepackage[hang, small,labelfont=bf,up,textfont=it,up]{caption} % Custom captions under/above floats in tables or figures
+\usepackage{booktabs} % Horizontal rules in tables
+
+\usepackage{lettrine} % The lettrine is the first enlarged letter at the beginning of the text
+
+\usepackage{import}
+
+\usepackage{enumitem} % Customized lists
+\setlist[itemize]{noitemsep} % Make itemize lists more compact
+
+\usepackage{abstract} % Allows abstract customization
+\renewcommand{\abstractnamefont}{\normalfont\bfseries} % Set the "Abstract" text to bold
+\renewcommand{\abstracttextfont}{\normalfont\small\itshape} % Set the abstract itself to small italic text
+
+\usepackage{titlesec} % Allows customization of titles
+\renewcommand\thesection{\Roman{section}} % Roman numerals for the sections
+\renewcommand\thesubsection{\roman{subsection}} % roman numerals for subsections
+\titleformat{\section}[block]{\large\scshape\centering}{\thesection.}{1em}{} % Change the look of the section titles
+\titleformat{\subsection}[block]{\large}{\thesubsection.}{1em}{} % Change the look of the section titles
+
+\usepackage{fancyhdr} % Headers and footers
+\pagestyle{fancy} % All pages have headers and footers
+\fancyhead{} % Blank out the default header
+\fancyfoot{} % Blank out the default footer
+\fancyhead[C]{Predicting March Madness} % Custom header text
+\fancyfoot[RO,LE]{\thepage} % Custom footer text
+
+\usepackage{titling} % Customizing the title section
+
+\usepackage{hyperref} % For hyperlinks in the PDF
+\usepackage[final]{pdfpages}
+
+\usepackage{tikz} % For implementing graphs
+\usetikzlibrary{arrows} % Self-explanatory
+
+\usepackage{graphicx} % Allows us to insert .png files
+\graphicspath{./../}
+%\usepackage{acronym} % Makes acronym usage easier
+%\newacronym{GNB}{GNB}{Gaussian naive-bayes}
+%\newacronym{LR}{LR}{logistic regression}
+%\newacronym{SVM}{SVM}{support vector machine}
+%\newacronym{RF}{RF}{random forest classifier}
+
+
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION
+%----------------------------------------------------------------------------------------
+
+\setlength{\droptitle}{-4\baselineskip} % Move the title up
+
+\pretitle{\begin{center}\Huge\bfseries} % Article title formatting
+\posttitle{\end{center}} % Article title closing formatting
+\title{Predicting March Madness \\ \large A Player Based Approach} % Article title
+\author{%
+\textsc{Darren Lund}\\[1ex] % Your name
+\normalsize Brigham Young University  \\ % Your institution
+\normalsize \href{mailto:darrenlund59@byu.net}{darrenlund@byu.net} % Your email address
+%\and % Uncomment if 2 authors are required, duplicate these 4 lines if more
+%\textsc{Jane Smith}\thanks{Corresponding author} \\[1ex] % Second author's name
+%\normalsize University of Utah \\ % Second author's institution
+%\normalsize \href{mailto:jane@smith.com}{jane@smith.com} % Second author's email address
+}
+\date{\today} % Leave empty to omit a date
+\renewcommand{\maketitlehookd}{%
+\begin{abstract}
+\noindent The NCAA March Madness Tournament provides a unique opportunity for sports analytics.  Every year, millions of fans try to predict who will win each and every game, with no one managing to achieve a perfect bracket.  Due to the vast amount of data collected in sporting events, the task for achieving the perfect bracket is well-suited for prediction algorithms.  While many different methods have already been implemented, this project outlines a player based approach to predict some of the more nuanced factors of basketball, and thus more accurately predict upsets and appropriately named cinderella teams that bust brackets year after year.  Data for this project was scraped from \href{https://kenpom.com}{https://kenpom.com}.
+\end{abstract}
+}
+\begin{document}
+\maketitle
+
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+\section*{Problem Statement}
+\subimport{.}{problem_statement}
+\section*{Previous Studies}
+\subimport{.}{previous_studies}
+\section*{Data}
+\subimport{.}{data}
+\section*{Methods}
+\subsection*{Regular Classification Methods}
+\subimport{.}{regular_classifiers}
+\subsection*{My Classification Method}
+My classifier (MYC) went about things in a rather unique way.  
+It tried to select which players will contribute the most to the tournament, and then divide scoring opportunities among them.  
+\subsubsection*{Player Selection}
+\subimport{.}{player_selection}
+\subsubsection*{Scoring}
+\subimport{.}{scoring}
+\section*{Results}
+\subimport{.}{results}
+\section*{Analysis}
+\subimport{.}{analysis}
+\section*{Conclusion}
+\subimport{.}{conclusion}
+
+\end{document}

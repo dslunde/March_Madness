@@ -1,0 +1,719 @@
+<table id="schedule-table">
+<tbody>
+</tbody><thead>
+<tr>
+<th scope="col" width="12"></th>
+<th scope="col" style="width:40px"></th><th scope="col"></th>
+<th style="text-align:left;width:136px;">Opponent</th>
+<th scope="col" style="width:64px;">Result</th>
+<th scope="col" style="width:20px"></th>
+<th scope="col" style="width:62px">Site</th>
+<th scope="col"></th>
+<th width="17"></th>
+<th scope="col">St</th><th scope="col">MP</th>
+<th scope="col">ORtg</th><th scope="col">%Ps</th>
+<th scope="col">Pts</th><th scope="col" style="width:37px">2Pt</th>
+<th scope="col" style="width:37px">3Pt</th><th scope="col" style="width:37px">FT</th>
+<th scope="col" style="width:18px">OR</th><th scope="col" style="width:18px">DR</th>
+<th scope="col" style="width:18px">A</th><th scope="col" style="width:18px">TO</th>
+<th scope="col" style="width:18px">Blk</th><th scope="col" style="width:18px">Stl</th>
+<th scope="col" style="width:18px">PF</th>
+<th scope="col" width="12"></th>
+</tr>
+</thead>
+<tbody><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2013-03-22">Mar 22</a></td>
+<td class="rank">3</td><td class="opp"><a href="team.php?team=Indiana&amp;y=2013">Indiana</a></td>
+<td><a href="box.php?g=5896&amp;y=2013">L, 83-62</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td style="font-size:10px">NCAA-T</td><td></td><td>•</td>
+<td>33</td>
+<td>156</td>
+<td>28</td>
+<td>24</td>
+<td>7-10</td>
+<td>3-6</td>
+<td>1-2</td>
+<td>1</td>
+<td>3</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>5</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-03-20">Mar 20</a></td>
+<td class="rank">192</td><td class="opp"><a href="team.php?team=LIU+Brooklyn&amp;y=2013">LIU Brooklyn</a></td>
+<td><a href="box.php?g=5834&amp;y=2013">W, 68-55</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td style="font-size:10px">NCAA-T</td><td><span style="font-size:10px; color:#a17f1a; font-style:italic">MVP</span></td><td>•</td>
+<td>38</td>
+<td>131</td>
+<td>21</td>
+<td>14</td>
+<td>5-7</td>
+<td>1-5</td>
+<td>1-2</td>
+<td>1</td>
+<td>6</td>
+<td>4</td>
+<td>1</td>
+<td>5</td>
+<td>1</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-03-11">Mar 11</a></td>
+<td class="rank">178</td><td class="opp"><a href="team.php?team=Northeastern&amp;y=2013">Northeastern</a></td>
+<td><a href="box.php?g=5667&amp;y=2013">W, 70-57</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td style="font-size:10px">CAA-T</td><td></td><td>•</td>
+<td>33</td>
+<td>94</td>
+<td>19</td>
+<td>10</td>
+<td>1-4</td>
+<td>1-3</td>
+<td>5-5</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+<td>3</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-03-10">Mar 10</a></td>
+<td class="rank">167</td><td class="opp"><a href="team.php?team=Delaware&amp;y=2013">Delaware</a></td>
+<td><a href="box.php?g=5638&amp;y=2013">W, 58-57</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td style="font-size:10px">CAA-T</td><td></td><td>•</td>
+<td>32</td>
+<td>67</td>
+<td>33</td>
+<td>12</td>
+<td>3-9</td>
+<td>1-4</td>
+<td>3-6</td>
+<td class="zero">0</td>
+<td>4</td>
+<td class="zero">0</td>
+<td>3</td>
+<td>5</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-03-09">Mar 9</a></td>
+<td class="rank">214</td><td class="opp"><a href="team.php?team=William+%26+Mary&amp;y=2013">William &amp; Mary</a></td>
+<td><a href="box.php?g=5501&amp;y=2013">W, 72-67</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td style="font-size:10px">CAA-T</td><td></td><td>•</td>
+<td>26</td>
+<td>100</td>
+<td>18</td>
+<td>7</td>
+<td>2-5</td>
+<td>1-3</td>
+<td>0-1</td>
+<td>2</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>5</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-03-02">Mar 2</a></td>
+<td class="rank">214</td><td class="opp"><a href="team.php?team=William+%26+Mary&amp;y=2013">William &amp; Mary</a></td>
+<td><a href="box.php?g=4921&amp;y=2013">W, 69-67</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">CAA</td><td></td><td></td>
+<td>18</td>
+<td>124</td>
+<td>20</td>
+<td>8</td>
+<td>1-2</td>
+<td>1-3</td>
+<td>3-4</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-02-23">Feb 23</a></td>
+<td class="rank">187</td><td class="opp"><a href="team.php?team=Georgia+St.&amp;y=2013">Georgia St.</a></td>
+<td><a href="box.php?g=4611&amp;y=2013">L, 66-62</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">CAA</td><td></td><td></td>
+<td>26</td>
+<td>79</td>
+<td>24</td>
+<td>7</td>
+<td>2-6</td>
+<td>1-2</td>
+<td class="zero">0-0</td>
+<td>1</td>
+<td>3</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-02-20">Feb 20</a></td>
+<td class="rank">178</td><td class="opp"><a href="team.php?team=Northeastern&amp;y=2013">Northeastern</a></td>
+<td><a href="box.php?g=4491&amp;y=2013">L, 66-64</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">CAA</td><td></td><td>•</td>
+<td>29</td>
+<td>57</td>
+<td>14</td>
+<td>2</td>
+<td>1-4</td>
+<td>0-3</td>
+<td class="zero">0-0</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-02-17">Feb 17</a></td>
+<td class="rank">167</td><td class="opp"><a href="team.php?team=Delaware&amp;y=2013">Delaware</a></td>
+<td><a href="box.php?g=4429&amp;y=2013">W, 72-71</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">CAA</td><td></td><td>•</td>
+<td>24</td>
+<td>45</td>
+<td>13</td>
+<td>2</td>
+<td>1-3</td>
+<td>0-1</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>4</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>3</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-02-12">Feb 12</a></td>
+<td class="rank">175</td><td class="opp"><a href="team.php?team=Towson&amp;y=2013">Towson</a></td>
+<td><a href="box.php?g=4127&amp;y=2013">W, 75-70</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">CAA</td><td></td><td>•</td>
+<td>28</td>
+<td>155</td>
+<td>18</td>
+<td>14</td>
+<td>3-3</td>
+<td>2-2</td>
+<td>2-4</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>4</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-02-10">Feb 10</a></td>
+<td class="rank">168</td><td class="opp"><a href="team.php?team=Drexel&amp;y=2013">Drexel</a></td>
+<td><a href="box.php?g=4098&amp;y=2013">L, 60-48</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">CAA</td><td></td><td>•</td>
+<td>32</td>
+<td>57</td>
+<td>18</td>
+<td>4</td>
+<td>0-2</td>
+<td>1-5</td>
+<td>1-2</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-02-06">Feb 6</a></td>
+<td class="rank">214</td><td class="opp"><a href="team.php?team=William+%26+Mary&amp;y=2013">William &amp; Mary</a></td>
+<td><a href="box.php?g=3827&amp;y=2013">W, 81-71</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">CAA</td><td></td><td>•</td>
+<td>24</td>
+<td>118</td>
+<td>27</td>
+<td>10</td>
+<td>1-4</td>
+<td>1-4</td>
+<td>5-6</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>3</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-02-02">Feb 2</a></td>
+<td class="rank">133</td><td class="opp"><a href="team.php?team=George+Mason&amp;y=2013">George Mason</a></td>
+<td><a href="box.php?g=3667&amp;y=2013">L, 74-63</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">CAA</td><td></td><td>•</td>
+<td>30</td>
+<td>54</td>
+<td>15</td>
+<td>4</td>
+<td>2-3</td>
+<td>0-4</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-01-31">Jan 31</a></td>
+<td class="rank">303</td><td class="opp"><a href="team.php?team=Hofstra&amp;y=2013">Hofstra</a></td>
+<td><a href="box.php?g=3557&amp;y=2013">W, 62-41</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">CAA</td><td></td><td>•</td>
+<td>28</td>
+<td>163</td>
+<td>22</td>
+<td>13</td>
+<td>0-1</td>
+<td>3-4</td>
+<td>4-4</td>
+<td class="zero">0</td>
+<td>3</td>
+<td>4</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-01-28">Jan 28</a></td>
+<td class="rank">287</td><td class="opp"><a href="team.php?team=UNC+Wilmington&amp;y=2013">UNC Wilmington</a></td>
+<td><a href="box.php?g=3454&amp;y=2013">W, 63-56</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">CAA</td><td></td><td>•</td>
+<td>30</td>
+<td>102</td>
+<td>23</td>
+<td>11</td>
+<td>2-6</td>
+<td>0-2</td>
+<td>7-10</td>
+<td>2</td>
+<td>3</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-01-26">Jan 26</a></td>
+<td class="rank">276</td><td class="opp"><a href="team.php?team=Old+Dominion&amp;y=2013">Old Dominion</a></td>
+<td><a href="box.php?g=3347&amp;y=2013">W, 56-46</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">CAA</td><td><span style="font-size:10px; color:#a17f1a; font-style:italic">MVP</span></td><td>•</td>
+<td>32</td>
+<td>116</td>
+<td>24</td>
+<td>14</td>
+<td>4-7</td>
+<td>0-2</td>
+<td>6-7</td>
+<td>1</td>
+<td>6</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-01-23">Jan 23</a></td>
+<td class="rank">167</td><td class="opp"><a href="team.php?team=Delaware&amp;y=2013">Delaware</a></td>
+<td><a href="box.php?g=3246&amp;y=2013">W, 64-50</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">CAA</td><td></td><td>•</td>
+<td>23</td>
+<td>160</td>
+<td>19</td>
+<td>12</td>
+<td>2-5</td>
+<td>2-3</td>
+<td>2-2</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>4</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-01-19">Jan 19</a></td>
+<td class="rank">175</td><td class="opp"><a href="team.php?team=Towson&amp;y=2013">Towson</a></td>
+<td><a href="box.php?g=2964&amp;y=2013">L, 73-47</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">CAA</td><td></td><td></td>
+<td>31</td>
+<td>85</td>
+<td>20</td>
+<td>9</td>
+<td>1-4</td>
+<td>1-4</td>
+<td>4-4</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>4</td>
+<td>1</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/b.gif"/></td><td class="divide"><a href="fanmatch.php?d=2013-01-15">Jan 15</a></td>
+<td class="rank">133</td><td class="opp"><a href="team.php?team=George+Mason&amp;y=2013">George Mason</a></td>
+<td><a href="box.php?g=2890&amp;y=2013">L, 68-57</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">CAA</td><td></td><td></td>
+<td>16</td>
+<td>62</td>
+<td>17</td>
+<td>2</td>
+<td>0-1</td>
+<td>0-2</td>
+<td>2-2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/b.gif"/></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-01-12">Jan 12</a></td>
+<td class="rank">168</td><td class="opp"><a href="team.php?team=Drexel&amp;y=2013">Drexel</a></td>
+<td><a href="box.php?g=2703&amp;y=2013">W, 51-43</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">CAA</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-01-09">Jan 9</a></td>
+<td class="rank">287</td><td class="opp"><a href="team.php?team=UNC+Wilmington&amp;y=2013">UNC Wilmington</a></td>
+<td><a href="box.php?g=2520&amp;y=2013">W, 78-50</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">CAA</td><td></td><td>•</td>
+<td>25</td>
+<td>132</td>
+<td>20</td>
+<td>12</td>
+<td>3-5</td>
+<td>1-2</td>
+<td>3-4</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-01-07">Jan 7</a></td>
+<td class="rank">273</td><td class="opp"><a href="team.php?team=Hampton&amp;y=2013">Hampton</a></td>
+<td><a href="box.php?g=2472&amp;y=2013">L, 69-65</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td>•</td>
+<td>34</td>
+<td>116</td>
+<td>19</td>
+<td>13</td>
+<td>4-5</td>
+<td>0-5</td>
+<td>5-6</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-01-05">Jan 5</a></td>
+<td class="rank">187</td><td class="opp"><a href="team.php?team=Georgia+St.&amp;y=2013">Georgia St.</a></td>
+<td><a href="box.php?g=2351&amp;y=2013">L, 68-52</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">CAA</td><td></td><td>•</td>
+<td>24</td>
+<td>51</td>
+<td>25</td>
+<td>4</td>
+<td>0-5</td>
+<td>1-4</td>
+<td>1-2</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-01-02">Jan 2</a></td>
+<td class="rank">276</td><td class="opp"><a href="team.php?team=Old+Dominion&amp;y=2013">Old Dominion</a></td>
+<td><a href="box.php?g=2214&amp;y=2013">W, 58-55</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">CAA</td><td></td><td>•</td>
+<td>33</td>
+<td>79</td>
+<td>18</td>
+<td>5</td>
+<td>0-4</td>
+<td>1-2</td>
+<td>2-4</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>2</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2012-12-23">Dec 23</a></td>
+<td class="rank">170</td><td class="opp"><a href="team.php?team=San+Diego&amp;y=2013">San Diego</a></td>
+<td><a href="box.php?g=1966&amp;y=2013">W, 62-59</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td></td><td></td><td>•</td>
+<td>17</td>
+<td>45</td>
+<td>21</td>
+<td>2</td>
+<td>0-2</td>
+<td>0-2</td>
+<td>2-2</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2012-12-22">Dec 22</a></td>
+<td class="rank">305</td><td class="opp"><a href="team.php?team=San+Jose+St.&amp;y=2013">San Jose St.</a></td>
+<td><a href="box.php?g=1903&amp;y=2013">W, 77-68</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td></td><td></td><td>•</td>
+<td>17</td>
+<td>141</td>
+<td>22</td>
+<td>7</td>
+<td>3-4</td>
+<td>0-1</td>
+<td>1-2</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>1</td>
+<td>4</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2012-12-16">Dec 16</a></td>
+<td class="rank">286</td><td class="opp"><a href="team.php?team=UNC+Greensboro&amp;y=2013">UNC Greensboro</a></td>
+<td><a href="box.php?g=1636&amp;y=2013">W, 85-73</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td>•</td>
+<td>16</td>
+<td>95</td>
+<td>15</td>
+<td>3</td>
+<td class="zero">0-0</td>
+<td>1-2</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>4</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2012-12-08">Dec 8</a></td>
+<td class="rank">83</td><td class="opp"><a href="team.php?team=Richmond&amp;y=2013">Richmond</a></td>
+<td><a href="box.php?g=1416&amp;y=2013">L, 83-82</a></td>
+<td style="font-size:12px">OT</td><td style="font-size:12px">Home</td><td></td><td></td><td>•</td>
+<td>20</td>
+<td>147</td>
+<td>20</td>
+<td>8</td>
+<td>2-2</td>
+<td>1-2</td>
+<td>1-2</td>
+<td>2</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>5</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2012-12-05">Dec 5</a></td>
+<td class="rank">319</td><td class="opp"><a href="team.php?team=East+Tennessee+St.&amp;y=2013">East Tennessee St.</a></td>
+<td><a href="box.php?g=1262&amp;y=2013">W, 70-45</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td><span style="font-size:10px; color:#a17f1a; font-style:italic">MVP</span></td><td>•</td>
+<td>23</td>
+<td>120</td>
+<td>22</td>
+<td>11</td>
+<td>4-7</td>
+<td>1-3</td>
+<td class="zero">0-0</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>3</td>
+<td>5</td>
+<td class="zero">0</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2012-12-01">Dec 1</a></td>
+<td class="rank">278</td><td class="opp"><a href="team.php?team=Winthrop&amp;y=2013">Winthrop</a></td>
+<td><a href="box.php?g=1095&amp;y=2013">W, 71-61</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td>•</td>
+<td>35</td>
+<td>91</td>
+<td>20</td>
+<td>9</td>
+<td>2-6</td>
+<td>1-5</td>
+<td>2-4</td>
+<td class="zero">0</td>
+<td>4</td>
+<td>6</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2012-11-28">Nov 28</a></td>
+<td class="rank">111</td><td class="opp"><a href="team.php?team=George+Washington&amp;y=2013">George Washington</a></td>
+<td><a href="box.php?g=949&amp;y=2013">L, 54-53</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td><span style="font-size:10px; color:#a17f1a; font-style:italic">MVP</span></td><td>•</td>
+<td>35</td>
+<td>121</td>
+<td>24</td>
+<td>19</td>
+<td>5-10</td>
+<td>3-4</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>4</td>
+<td>5</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2012-11-24">Nov 24</a></td>
+<td class="rank">241</td><td class="opp"><a href="team.php?team=Miami+OH&amp;y=2013">Miami OH</a></td>
+<td><a href="box.php?g=792&amp;y=2013">L, 76-58</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td>•</td>
+<td>31</td>
+<td>69</td>
+<td>23</td>
+<td>8</td>
+<td>2-3</td>
+<td>0-3</td>
+<td>4-8</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/b.gif"/></td><td class="divide"><a href="fanmatch.php?d=2012-11-21">Nov 21</a></td>
+<td class="rank">75</td><td class="opp"><a href="team.php?team=North+Dakota+St.&amp;y=2013">North Dakota St.</a></td>
+<td><a href="box.php?g=694&amp;y=2013">L, 66-44</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td></td><td></td><td></td>
+<td>26</td>
+<td>92</td>
+<td>23</td>
+<td>10</td>
+<td>0-3</td>
+<td>2-4</td>
+<td>4-4</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/b.gif"/></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2012-11-20">Nov 20</a></td>
+<td class="rank">191</td><td class="opp"><a href="team.php?team=Youngstown+St.&amp;y=2013">Youngstown St.</a></td>
+<td><a href="box.php?g=626&amp;y=2013">W, 69-68</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td></td><td></td><td></td>
+<td>28</td>
+<td>112</td>
+<td>18</td>
+<td>10</td>
+<td>4-5</td>
+<td>0-3</td>
+<td>2-2</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>3</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2012-11-19">Nov 19</a></td>
+<td class="rank">240</td><td class="opp"><a href="team.php?team=Duquesne&amp;y=2013">Duquesne</a></td>
+<td><a href="box.php?g=604&amp;y=2013">L, 90-88</a></td>
+<td style="font-size:12px">OT</td><td style="font-size:12px">Away</td><td></td><td></td><td></td>
+<td>32</td>
+<td>178</td>
+<td>16</td>
+<td>19</td>
+<td>2-2</td>
+<td>3-6</td>
+<td>6-7</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2012-11-15">Nov 15</a></td>
+<td class="rank">46</td><td class="opp"><a href="team.php?team=UCLA&amp;y=2013">UCLA</a></td>
+<td><a href="box.php?g=419&amp;y=2013">L, 100-70</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td></td>
+<td>24</td>
+<td>68</td>
+<td>14</td>
+<td>5</td>
+<td>1-5</td>
+<td>1-3</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr></tbody><thead>
+<tr>
+<th scope="col" width="12"></th>
+<th scope="col" style="width:40px"></th><th scope="col"></th>
+<th style="text-align:left;width:136px;">Opponent</th>
+<th scope="col" style="width:64px;">Result</th>
+<th scope="col" style="width:20px"></th>
+<th scope="col" style="width:62px">Site</th>
+<th scope="col"></th>
+<th width="17"></th>
+<th scope="col">St</th><th scope="col">MP</th>
+<th scope="col">ORtg</th><th scope="col">%Ps</th>
+<th scope="col">Pts</th><th scope="col" style="width:37px">2Pt</th>
+<th scope="col" style="width:37px">3Pt</th><th scope="col" style="width:37px">FT</th>
+<th scope="col" style="width:18px">OR</th><th scope="col" style="width:18px">DR</th>
+<th scope="col" style="width:18px">A</th><th scope="col" style="width:18px">TO</th>
+<th scope="col" style="width:18px">Blk</th><th scope="col" style="width:18px">Stl</th>
+<th scope="col" style="width:18px">PF</th>
+<th scope="col" width="12"></th>
+</tr>
+</thead>
+</table>

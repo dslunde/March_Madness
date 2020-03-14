@@ -1,0 +1,84 @@
+<div id="report">
+<h3>Scouting Report <a href="blog/help-with-team-page/"><img src="assets/help.gif" style="vertical-align:top"/></a></h3>
+<span class="otherinfo">Stats include games against D-I teams only<br/>
+<form id="confcheck" name="confstats"><label>
+<input name="confselect" type="checkbox"/> Conference only
+</label></form>
+<table id="report-table">
+<tbody><tr><th scope="col">Category</th><th scope="col">Offense</th><th scope="col">Defense</th><th scope="col">D-I Avg</th></tr>
+</tbody><tbody>
+<tr><td id="effText">Adj. Efficiency</td>
+<td id="OE" style="background-color: rgb(244, 194, 195);"><a href="summary.php?s=RankAdjOE&amp;y=2015">96.6</a> <span class="seed">303</span></td>
+<td id="DE" style="background-color: rgb(238, 250, 249);"><a href="summary.php?s=RankAdjDE&amp;y=2015">104.0</a> <span class="seed">164</span></td>
+<td>104.2</td></tr>
+<tr><td id="tempoText">Adj. Tempo</td>
+<td colspan="2" id="Tempo"><span style="background-color:#f8b186; padding:3px 8px"><a href="summary.php?s=RankAdjTempo&amp;y=2015">69.2</a> <span class="seed">15</span></span></td>
+<td>64.4</td></tr>
+<tr>
+<td><a href="blog/behold-average-possession-length" target="_blank">Avg. Poss. Length</a></td>
+<td id="APLO" style="background-color: rgb(245, 215, 192);"><a href="summary.php?s=RankAPL_Off&amp;y=2015">17.2</a> <span class="seed">60</span></td>
+<td id="APLD" style="background-color: rgb(247, 189, 152);"><a href="summary.php?s=RankAPL_Def&amp;y=2015">17.1</a> <span class="seed">24</span></td>
+<td>18.4</td></tr>
+<tr><td class="label" colspan="4">Four Factors</td></tr>
+<tr><td>Effective FG%:</td><td id="eFG" style="background-color: rgb(245, 193, 194);"><a href="stats.php?s=RankeFG_Pct&amp;y=2015">45.6</a> <span class="seed">304</span></td><td id="DeFG" style="background-color: rgb(199, 250, 208);"><a href="stats.php?s=RankDeFG_Pct&amp;y=2015">46.4</a> <span class="seed">68</span></td>
+<td>49.0</td></tr>
+<tr><td>Turnover %:</td><td id="TOPct" style="background-color: rgb(243, 223, 223);"><a href="stats.php?s=RankTO_Pct&amp;y=2015">20.2</a> <span class="seed">256</span></td><td id="DTOPct" style="background-color: rgb(220, 250, 230);"><a href="stats.php?s=RankDTO_Pct&amp;y=2015">20.1</a> <span class="seed">111</span></td>
+<td>19.1</td></tr>
+<tr><td>Off. Reb. %:</td><td id="ORPct" style="background-color: rgb(231, 250, 241);"><a href="stats.php?s=RankOR_Pct&amp;y=2015">31.8</a> <span class="seed">140</span></td><td id="DORPct" style="background-color: rgb(237, 250, 248);"><a href="stats.php?s=RankDOR_Pct&amp;y=2015">30.9</a> <span class="seed">161</span></td>
+<td>31.0</td></tr>
+<tr><td>FTA/FGA:</td><td id="FTR" style="background-color: rgb(171, 251, 178);"><a href="stats.php?s=RankFT_Rate&amp;y=2015">43.8</a> <span class="seed">32</span></td><td id="DFTR" style="background-color: rgb(245, 178, 178);"><a href="stats.php?s=RankDFT_Rate&amp;y=2015">45.5</a> <span class="seed">320</span></td>
+<td>37.0</td></tr>
+<tr><td class="label" colspan="4">Miscellaneous Components</td></tr>
+<tr><td>3P%:</td><td id="3Pct" style="background-color: rgb(245, 183, 184);"><a href="teamstats.php?s=RankFG3Pct&amp;y=2015">30.4</a> <span class="seed">315</span></td><td id="D3Pct" style="background-color: rgb(235, 250, 246);"><a href="teamstats.php?s=RankFG3Pct&amp;y=2015&amp;od=d">33.9</a> <span class="seed">155</span></td>
+<td>34.3</td></tr>
+<tr><td>2P%:</td><td id="2Pct" style="background-color: rgb(243, 219, 220);"><a href="teamstats.php?s=RankFG2Pct&amp;y=2015">45.6</a> <span class="seed">263</span></td><td id="D2Pct" style="background-color: rgb(192, 251, 201);"><a href="teamstats.php?s=RankFG2Pct&amp;y=2015&amp;od=d">44.5</a> <span class="seed">57</span></td>
+<td>47.8</td></tr>
+<tr><td>FT%:</td><td id="FTPct" style="background-color: rgb(245, 191, 191);"><a href="teamstats.php?s=RankFTPct&amp;y=2015">65.2</a> <span class="seed">307</span></td><td id="DFTPct" style="background-color: rgb(225, 250, 236);"><a href="teamstats.php?s=RankFTPct&amp;y=2015&amp;od=d">68.5</a> <span class="seed">125</span></td>
+<td>69.3</td></tr>
+<tr><td>Block%:</td><td id="BlockPct" style="background-color: rgb(242, 242, 243);"><a href="teamstats.php?s=RankBlockPct&amp;y=2015">10.0</a> <span class="seed">206</span></td><td id="DBlockPct" style="background-color: rgb(225, 250, 235);"><a href="teamstats.php?s=RankBlockPct&amp;y=2015&amp;od=d">10.5</a> <span class="seed">123</span></td>
+<td>9.6</td></tr>
+<tr><td>Steal%:</td><td id="StlRate" style="background-color: rgb(172, 251, 180);"><a href="teamstats.php?s=RankStlRate&amp;y=2015">7.8</a> <span class="seed">33</span></td><td id="DStlRate" style="background-color: rgb(233, 250, 243);"><a href="teamstats.php?s=RankStlRate&amp;y=2015&amp;od=d">9.6</a> <span class="seed">146</span></td>
+<td>9.4</td></tr>
+<tr><td class="label" colspan="4">Style Components</td></tr>
+<tr><td>3PA/FGA:</td><td id="3PARate"><a href="teamstats.php?s=RankF3GRate&amp;y=2015">32.6</a> <span class="seed">221</span></td><td id="D3PARate"><a href="teamstats.php?s=RankF3GRate&amp;y=2015&amp;od=d">30.2</a> <span class="seed">57</span></td>
+<td>34.2</td></tr>
+<tr><td>A/FGM:</td><td id="ARate"><a href="teamstats.php?s=RankARate&amp;y=2015">46.7</a> <span class="seed">303</span></td><td id="DARate"><a href="teamstats.php?s=RankARate&amp;y=2015&amp;od=d">45.9</a> <span class="seed">19</span></td>
+<td>53.1</td></tr>
+<tr><td><a href="blog/defensive-fingerprint/">Defensive Fingerprint:</a></td>
+<td colspan="2">Mostly Man</td><td></td><td> </td></tr>
+<tr><td class="label" colspan="4">Point Distribution (% of total points)</td></tr>
+<tr><td>3-Pointers:</td><td id="PD3"><a href="pointdist.php?s=RankOff_3&amp;y=2015">24.8</a> <span class="seed">267</span></td><td id="DPD3"><a href="pointdist.php?s=RankDef_3&amp;y=2015">24.8</a> <span class="seed">302</span></td>
+<td>28.5</td></tr>
+<tr><td>2-Pointers:</td><td id="PD2"><a href="pointdist.php?s=RankOff_2&amp;y=2015">51.3</a> <span class="seed">160</span></td><td id="DPD2"><a href="pointdist.php?s=RankDef_2&amp;y=2015">50.1</a> <span class="seed">204</span></td>
+<td>50.8</td></tr>
+<tr><td>Free Throws:</td><td id="PD1"><a href="pointdist.php?s=RankOff_1&amp;y=2015">23.9</a> <span class="seed">30</span></td><td id="DPD1"><a href="pointdist.php?s=RankDef_1&amp;y=2015">25.1</a> <span class="seed">28</span></td>
+<td>20.7</td></tr>
+<tr><td class="label" colspan="4">Strength of Schedule</td></tr>
+<tr><td>Components:</td>
+<td><a href="index.php?s=RankSOSO&amp;y=2015">99.5</a> <span class="seed">337</span></td>
+<td><a href="index.php?s=RankSOSD&amp;y=2015">106.9</a> <span class="seed">271</span></td>
+<td>104.2</td></tr>
+<tr><td>Overall:</td>
+<td colspan="2"><a href="index.php?s=RankSOSPythag&amp;y=2015">-7.48</a> <span class="seed">336</span></td>
+<td>0.00</td></tr>
+<tr><td>Non-conference:</td>
+<td colspan="2"><a href="index.php?s=RankNCSOS&amp;y=2015">-0.55</a> <span class="seed">176</span></td>
+<td>0.00</td></tr>
+<tr><td class="label" colspan="4">Personnel</td></tr>
+<tr><td>Bench Minutes:</td>
+<td colspan="2"><a href="height.php?s=BenchRank&amp;y=2015">35.2%</a> <span class="seed">106</span></td>
+<td>32.1%</td>
+</tr>
+<tr><td>Experience:</td>
+<td colspan="2"><a href="height.php?s=ExpRank&amp;y=2015">1.99 yrs</a> <span class="seed">79</span></td>
+<td>1.67</td>
+</tr>
+<tr><td><a href="blog/measuring-continuity">Minutes Continuity</a>:</td>
+<td colspan="2"><a href="height.php?s=ContRank&amp;y=2015">61.1%</a> <span class="seed">81</span></td>
+<td>49.4%</td>
+</tr>
+<tr><td>Average Height:</td>
+<td colspan="2"><a href="height.php?s=SizeRank&amp;y=2015">75.8"</a> <span class="seed">289</span></td>
+<td>76.7"</td>
+</tr>
+</tbody></table></span></div>

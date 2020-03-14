@@ -1,0 +1,639 @@
+<table id="schedule-table">
+<tbody>
+</tbody><thead>
+<tr>
+<th scope="col" width="12"></th>
+<th scope="col" style="width:40px"></th><th scope="col"></th>
+<th style="text-align:left;width:136px;">Opponent</th>
+<th scope="col" style="width:64px;">Result</th>
+<th scope="col" style="width:20px"></th>
+<th scope="col" style="width:62px">Site</th>
+<th scope="col"></th>
+<th width="17"></th>
+<th scope="col">St</th><th scope="col">MP</th>
+<th scope="col">ORtg</th><th scope="col">%Ps</th>
+<th scope="col">Pts</th><th scope="col" style="width:37px">2Pt</th>
+<th scope="col" style="width:37px">3Pt</th><th scope="col" style="width:37px">FT</th>
+<th scope="col" style="width:18px">OR</th><th scope="col" style="width:18px">DR</th>
+<th scope="col" style="width:18px">A</th><th scope="col" style="width:18px">TO</th>
+<th scope="col" style="width:18px">Blk</th><th scope="col" style="width:18px">Stl</th>
+<th scope="col" style="width:18px">PF</th>
+<th scope="col" width="12"></th>
+</tr>
+</thead>
+<tbody><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-03-10">Mar 10</a></td>
+<td class="rank">330</td><td class="opp"><a href="team.php?team=Arkansas+Pine+Bluff">Arkansas Pine Bluff</a></td>
+<td><a href="box.php?g=5877">W, 84-69</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td style="font-size:10px">SWAC-T</td><td></td><td>•</td>
+<td>40</td>
+<td>107</td>
+<td>20</td>
+<td>13</td>
+<td>0-2</td>
+<td>4-7</td>
+<td>1-2</td>
+<td class="zero">0</td>
+<td>4</td>
+<td>6</td>
+<td>4</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-03-09">Mar 9</a></td>
+<td class="rank">272</td><td class="opp"><a href="team.php?team=Prairie+View+A%26M">Prairie View A&amp;M</a></td>
+<td><a href="box.php?g=5799">W, 88-74</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td style="font-size:10px">SWAC-T</td><td></td><td>•</td>
+<td>32</td>
+<td>117</td>
+<td>23</td>
+<td>18</td>
+<td>3-8</td>
+<td>4-8</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>5</td>
+<td>3</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-03-06">Mar 6</a></td>
+<td class="rank">339</td><td class="opp"><a href="team.php?team=Alabama+St.">Alabama St.</a></td>
+<td><a href="box.php?g=5748">W, 90-76</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">SWAC-T</td><td></td><td>•</td>
+<td>39</td>
+<td>91</td>
+<td>15</td>
+<td>12</td>
+<td>2-6</td>
+<td>2-3</td>
+<td>2-2</td>
+<td class="zero">0</td>
+<td>6</td>
+<td>2</td>
+<td>4</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-03-03">Mar 3</a></td>
+<td class="rank">336</td><td class="opp"><a href="team.php?team=Alcorn+St.">Alcorn St.</a></td>
+<td><a href="box.php?g=5318">W, 78-71</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">SWAC</td><td></td><td>•</td>
+<td>40</td>
+<td>116</td>
+<td>16</td>
+<td>14</td>
+<td>1-6</td>
+<td>2-6</td>
+<td>6-6</td>
+<td>1</td>
+<td>5</td>
+<td>3</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-03-01">Mar 1</a></td>
+<td class="rank">326</td><td class="opp"><a href="team.php?team=Southern">Southern</a></td>
+<td><a href="box.php?g=5282">W, 90-88</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">SWAC</td><td></td><td>•</td>
+<td>40</td>
+<td>82</td>
+<td>14</td>
+<td>9</td>
+<td>2-7</td>
+<td>0-2</td>
+<td>5-7</td>
+<td>1</td>
+<td>5</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-02-26">Feb 26</a></td>
+<td class="rank">339</td><td class="opp"><a href="team.php?team=Alabama+St.">Alabama St.</a></td>
+<td><a href="box.php?g=5196">W, 95-77</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">SWAC</td><td></td><td>•</td>
+<td>38</td>
+<td>156</td>
+<td>28</td>
+<td>37</td>
+<td>4-8</td>
+<td>8-13</td>
+<td>5-5</td>
+<td>2</td>
+<td>6</td>
+<td>1</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-02-24">Feb 24</a></td>
+<td class="rank">351</td><td class="opp"><a href="team.php?team=Alabama+A%26M">Alabama A&amp;M</a></td>
+<td><a href="box.php?g=5139">W, 106-71</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">SWAC</td><td><span style="font-size:10px; color:#a17f1a; font-style:italic">MVP</span></td><td>•</td>
+<td>40</td>
+<td>193</td>
+<td>19</td>
+<td>35</td>
+<td>4-7</td>
+<td>9-12</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>4</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-02-19">Feb 19</a></td>
+<td class="rank">330</td><td class="opp"><a href="team.php?team=Arkansas+Pine+Bluff">Arkansas Pine Bluff</a></td>
+<td><a href="box.php?g=4848">L, 62-61</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">SWAC</td><td></td><td>•</td>
+<td>35</td>
+<td>66</td>
+<td>24</td>
+<td>6</td>
+<td>0-3</td>
+<td>2-8</td>
+<td class="zero">0-0</td>
+<td>1</td>
+<td>3</td>
+<td>4</td>
+<td>3</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-02-17">Feb 17</a></td>
+<td class="rank">348</td><td class="opp"><a href="team.php?team=Mississippi+Valley+St.">Mississippi Valley St.</a></td>
+<td><a href="box.php?g=4768">W, 72-71</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">SWAC</td><td></td><td>•</td>
+<td>40</td>
+<td>93</td>
+<td>27</td>
+<td>17</td>
+<td>3-7</td>
+<td>3-10</td>
+<td>2-2</td>
+<td>2</td>
+<td>10</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-02-12">Feb 12</a></td>
+<td class="rank">296</td><td class="opp"><a href="team.php?team=Grambling+St.">Grambling St.</a></td>
+<td><a href="box.php?g=4525">L, 78-55</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">SWAC</td><td></td><td>•</td>
+<td>37</td>
+<td>45</td>
+<td>13</td>
+<td>4</td>
+<td>0-1</td>
+<td>1-5</td>
+<td>1-2</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-02-10">Feb 10</a></td>
+<td class="rank">337</td><td class="opp"><a href="team.php?team=Jackson+St.">Jackson St.</a></td>
+<td><a href="box.php?g=4465">W, 86-75</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">SWAC</td><td></td><td>•</td>
+<td>33</td>
+<td>77</td>
+<td>18</td>
+<td>6</td>
+<td>2-5</td>
+<td>0-5</td>
+<td>2-3</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>4</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-02-03">Feb 3</a></td>
+<td class="rank">272</td><td class="opp"><a href="team.php?team=Prairie+View+A%26M">Prairie View A&amp;M</a></td>
+<td><a href="box.php?g=4114">L, 96-82</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">SWAC</td><td></td><td></td>
+<td>22</td>
+<td>97</td>
+<td>48</td>
+<td>19</td>
+<td>4-6</td>
+<td>2-8</td>
+<td>5-5</td>
+<td class="zero">0</td>
+<td>3</td>
+<td>1</td>
+<td>5</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-01-29">Jan 29</a></td>
+<td class="rank">339</td><td class="opp"><a href="team.php?team=Alabama+St.">Alabama St.</a></td>
+<td><a href="box.php?g=3839">W, 97-82</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">SWAC</td><td></td><td>•</td>
+<td>40</td>
+<td>128</td>
+<td>24</td>
+<td>25</td>
+<td>5-10</td>
+<td>3-9</td>
+<td>6-9</td>
+<td>1</td>
+<td>5</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-01-27">Jan 27</a></td>
+<td class="rank">351</td><td class="opp"><a href="team.php?team=Alabama+A%26M">Alabama A&amp;M</a></td>
+<td><a href="box.php?g=3729">W, 58-56</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">SWAC</td><td></td><td>•</td>
+<td>28</td>
+<td>34</td>
+<td>23</td>
+<td>2</td>
+<td>0-4</td>
+<td>0-4</td>
+<td>2-2</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-01-22">Jan 22</a></td>
+<td class="rank">330</td><td class="opp"><a href="team.php?team=Arkansas+Pine+Bluff">Arkansas Pine Bluff</a></td>
+<td><a href="box.php?g=3533">L, 74-72</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">SWAC</td><td></td><td>•</td>
+<td>39</td>
+<td>123</td>
+<td>23</td>
+<td>25</td>
+<td>5-8</td>
+<td>3-10</td>
+<td>6-7</td>
+<td class="zero">0</td>
+<td>5</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-01-20">Jan 20</a></td>
+<td class="rank">348</td><td class="opp"><a href="team.php?team=Mississippi+Valley+St.">Mississippi Valley St.</a></td>
+<td><a href="box.php?g=3475">W, 91-77</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">SWAC</td><td></td><td></td>
+<td>37</td>
+<td>113</td>
+<td>16</td>
+<td>16</td>
+<td>2-3</td>
+<td>3-5</td>
+<td>3-3</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-01-15">Jan 15</a></td>
+<td class="rank">296</td><td class="opp"><a href="team.php?team=Grambling+St.">Grambling St.</a></td>
+<td><a href="box.php?g=3177">L, 79-78</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">SWAC</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-01-13">Jan 13</a></td>
+<td class="rank">337</td><td class="opp"><a href="team.php?team=Jackson+St.">Jackson St.</a></td>
+<td><a href="box.php?g=3067">L, 85-80</a></td>
+<td style="font-size:12px">OT</td><td style="font-size:12px">Away</td><td style="font-size:10px">SWAC</td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-01-06">Jan 6</a></td>
+<td class="rank">272</td><td class="opp"><a href="team.php?team=Prairie+View+A%26M">Prairie View A&amp;M</a></td>
+<td><a href="box.php?g=2791">W, 100-94</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">SWAC</td><td></td><td>•</td>
+<td>39</td>
+<td>120</td>
+<td>21</td>
+<td>22</td>
+<td>0-3</td>
+<td>6-12</td>
+<td>4-4</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>4</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-01-03">Jan 3</a></td>
+<td class="rank">336</td><td class="opp"><a href="team.php?team=Alcorn+St.">Alcorn St.</a></td>
+<td><a href="box.php?g=2592">W, 85-70</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">SWAC</td><td><span style="font-size:10px; color:#a17f1a; font-style:italic">MVP</span></td><td>•</td>
+<td>39</td>
+<td>152</td>
+<td>20</td>
+<td>25</td>
+<td>3-6</td>
+<td>5-12</td>
+<td>4-4</td>
+<td>2</td>
+<td>5</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2018-01-01">Jan 1</a></td>
+<td class="rank">326</td><td class="opp"><a href="team.php?team=Southern">Southern</a></td>
+<td><a href="box.php?g=2497">W, 78-66</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">SWAC</td><td><span style="font-size:10px; color:#a17f1a; font-style:italic">MVP</span></td><td>•</td>
+<td>35</td>
+<td>150</td>
+<td>24</td>
+<td>28</td>
+<td>1-3</td>
+<td>8-12</td>
+<td>2-3</td>
+<td>1</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2017-12-23">Dec 23</a></td>
+<td class="rank">70</td><td class="opp"><a href="team.php?team=BYU">BYU</a></td>
+<td><a href="box.php?g=2211">L, 73-52</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2017-12-18">Dec 18</a></td>
+<td class="rank">22</td><td class="opp"><a href="team.php?team=TCU">TCU</a></td>
+<td><a href="box.php?g=1947">L, 91-72</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td>•</td>
+<td>22</td>
+<td>40</td>
+<td>15</td>
+<td>2</td>
+<td>0-1</td>
+<td>0-3</td>
+<td>2-2</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/b.gif"/></td><td class="divide"><a href="fanmatch.php?d=2017-12-16">Dec 16</a></td>
+<td class="rank">115</td><td class="opp"><a href="team.php?team=Wyoming">Wyoming</a></td>
+<td><a href="box.php?g=1874">L, 72-66</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td>•</td>
+<td>26</td>
+<td>65</td>
+<td>22</td>
+<td>7</td>
+<td>0-4</td>
+<td>2-4</td>
+<td>1-2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>1</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/b.gif"/></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2017-12-14">Dec 14</a></td>
+<td class="rank">33</td><td class="opp"><a href="team.php?team=Baylor">Baylor</a></td>
+<td><a href="box.php?g=1755">L, 99-68</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td>•</td>
+<td>19</td>
+<td>24</td>
+<td>14</td>
+<td>0</td>
+<td>0-4</td>
+<td>0-1</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2017-12-11">Dec 11</a></td>
+<td class="rank">72</td><td class="opp"><a href="team.php?team=Oregon">Oregon</a></td>
+<td><a href="box.php?g=1693">L, 74-68</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td></td>
+<td>30</td>
+<td>123</td>
+<td>16</td>
+<td>12</td>
+<td>3-6</td>
+<td>2-3</td>
+<td class="zero">0-0</td>
+<td>1</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/b.gif"/></td><td class="divide"><a href="fanmatch.php?d=2017-12-02">Dec 2</a></td>
+<td class="rank">116</td><td class="opp"><a href="team.php?team=Toledo">Toledo</a></td>
+<td><a href="box.php?g=1318">L, 71-69</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td colspan="15" style="font-size:12px"><i>Did not play</i></td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/b.gif"/></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2017-11-30">Nov 30</a></td>
+<td class="rank">179</td><td class="opp"><a href="team.php?team=Oakland">Oakland</a></td>
+<td><a href="box.php?g=1183">L, 97-87</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td>•</td>
+<td>29</td>
+<td>78</td>
+<td>17</td>
+<td>7</td>
+<td>1-2</td>
+<td>1-5</td>
+<td>2-2</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2017-11-24">Nov 24</a></td>
+<td class="rank">19</td><td class="opp"><a href="team.php?team=Clemson">Clemson</a></td>
+<td><a href="box.php?g=848">L, 84-77</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td>•</td>
+<td>26</td>
+<td>100</td>
+<td>23</td>
+<td>12</td>
+<td>2-3</td>
+<td>2-7</td>
+<td>2-2</td>
+<td class="zero">0</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2017-11-21">Nov 21</a></td>
+<td class="rank">9</td><td class="opp"><a href="team.php?team=Kansas">Kansas</a></td>
+<td><a href="box.php?g=729">L, 114-71</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td></td>
+<td>15</td>
+<td>55</td>
+<td>25</td>
+<td>5</td>
+<td>1-2</td>
+<td>1-3</td>
+<td>0-1</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>3</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2017-11-18">Nov 18</a></td>
+<td class="rank">56</td><td class="opp"><a href="team.php?team=Syracuse">Syracuse</a></td>
+<td><a href="box.php?g=594">L, 80-67</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td>•</td>
+<td>24</td>
+<td>120</td>
+<td>22</td>
+<td>10</td>
+<td>2-2</td>
+<td>1-3</td>
+<td>3-4</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>4</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>4</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2017-11-16">Nov 16</a></td>
+<td class="rank">15</td><td class="opp"><a href="team.php?team=Ohio+St.">Ohio St.</a></td>
+<td><a href="box.php?g=475">L, 82-64</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td>•</td>
+<td>34</td>
+<td>82</td>
+<td>27</td>
+<td>14</td>
+<td>3-6</td>
+<td>2-6</td>
+<td>2-2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>3</td>
+<td>5</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>2</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2017-11-12">Nov 12</a></td>
+<td class="rank">182</td><td class="opp"><a href="team.php?team=Washington+St.">Washington St.</a></td>
+<td><a href="box.php?g=228">L, 86-84</a></td>
+<td style="font-size:12px">OT</td><td style="font-size:12px">Away</td><td></td><td></td><td>•</td>
+<td>37</td>
+<td>98</td>
+<td>20</td>
+<td>13</td>
+<td>1-3</td>
+<td>3-8</td>
+<td>2-3</td>
+<td>1</td>
+<td>5</td>
+<td>2</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>5</td>
+<td class="divide"></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2017-11-10">Nov 10</a></td>
+<td class="rank">8</td><td class="opp"><a href="team.php?team=Gonzaga">Gonzaga</a></td>
+<td><a href="box.php?g=126">L, 97-69</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td>•</td>
+<td>23</td>
+<td>35</td>
+<td>11</td>
+<td>2</td>
+<td>1-5</td>
+<td>0-2</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>3</td>
+<td>3</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr></tbody><thead>
+<tr>
+<th scope="col" width="12"></th>
+<th scope="col" style="width:40px"></th><th scope="col"></th>
+<th style="text-align:left;width:136px;">Opponent</th>
+<th scope="col" style="width:64px;">Result</th>
+<th scope="col" style="width:20px"></th>
+<th scope="col" style="width:62px">Site</th>
+<th scope="col"></th>
+<th width="17"></th>
+<th scope="col">St</th><th scope="col">MP</th>
+<th scope="col">ORtg</th><th scope="col">%Ps</th>
+<th scope="col">Pts</th><th scope="col" style="width:37px">2Pt</th>
+<th scope="col" style="width:37px">3Pt</th><th scope="col" style="width:37px">FT</th>
+<th scope="col" style="width:18px">OR</th><th scope="col" style="width:18px">DR</th>
+<th scope="col" style="width:18px">A</th><th scope="col" style="width:18px">TO</th>
+<th scope="col" style="width:18px">Blk</th><th scope="col" style="width:18px">Stl</th>
+<th scope="col" style="width:18px">PF</th>
+<th scope="col" width="12"></th>
+</tr>
+</thead>
+</table>

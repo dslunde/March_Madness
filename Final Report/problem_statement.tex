@@ -1,0 +1,17 @@
+The art of predicting the outcome of a competition is at least as old as the ancient Roman Empire.  
+Just as contests and competitions of skill have intrigued humankind, people have wanted to determine beforehand who the victor would be.  
+One of the biggest instances of this in our day and age is the NCAA March Madness (Men's College Basketball) Tournament.  
+A total of 68 teams coming together in a single elimination tournament to determine who will come out on top...and millions of fans predicting who will win each game.  
+
+The goal of the NCAA bracket competition, like so many others, is to score more points than others.  
+Points are scored by correctly guessing which of two teams, paired against each other, will win in a single game at a neutral location.  
+Games further along in the tournament are worth more than the initial games, with each successive round worth double the points of the previous round.  
+For example, in the round of 64 (where there are 64 teams competing), games are worth 10 points.  In the round of 32, games are worth 20 points, the sweet 16 games are worth 40, elite 8 are worth 80, final four worth 160, and the championship game worth a total of 320 points. 
+The goal then, is to choose teams to maximize the bracket's total score by maximizing the weighted number of correctly chosen games.   
+This project will seek to accomplish that by correctly predicting each game independent of where it is in the tournament, in the hopes that this will increase the total number of correctly predicted games.    
+Thus, instead of just optimizing the bracket's score, this project seeks to also have the most number of winners correctly predicted.  
+There are two principal ways that it will attempt to do this.  
+The first is through some typical classification algorithms discussed in the methods section using the data organized in a fundamentally different way than this information is typically used.  
+The second is through a method developed specifically for this task by the author.  
+It will do this by predicting the final score of each game individually, round by round, through estimating the number of points scored by each player individually, and thus determining the winner.  
+Testing data was originally used on the 2017 tournament in order to pick preferred parameters, but due to recent finish of the 2018 tournament, analysis will be done on it's results in the 2018 tournament (with the 2017 data included in training).  

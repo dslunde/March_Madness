@@ -1,0 +1,13 @@
+All data was scraped from \href{https://kenpom.com}{kenpom.com}, a website managed by Ken Pomeroy.  
+The scraping process involved using Selenium to crawl through the website to find player and team data for the 68 competing teams for the years 2013-2018, then parsing the html through BeautifulSoup to save the tables that contained the data.  
+The html tables were then transformed into panda dataframes, which were cleaned, then saved as csv files.  
+Since Ken keeps the data stored so well, there was no missing data to infer, merely transforming it into a usable format throughout.  
+This process involved taking every player's seasonal statistics (such as points scored, offense rating, steals, personal fouls...) and averaging them into a single vector (in the same format as is stored for a single game).  Then for each team, all their player's data was averaged together into a single vector of the same form, so that each team was represented as an average of all player's stats.  
+These stats were then appended to the offensive and defensive team stats from the scouting report, creating one vector with 68 entries.  
+Ken has collected college basketball data for years, is independent of all teams in the NCAA, and readily gave me permission to use his data for this project when emailed.  
+As such, there is no reason for any of the data to be biased, one way or another.  
+His data is used by many prominent basketball analysts, including Tim Chartier.  
+Since the purpose of this project is to predict the results of the NCAA tournament (and thus get a perfect bracket) as opposed to predict who will end up participating in the tournament, data was gathered on the 68 teams per year that have participated in the tournament since 2013.  
+This data includes individual player statistics for each player of these teams on a game-by-game basis, as well as a yearly team scouting report, which contains data for how the team works as a unit.  
+The tournament itself was stored as a dictionary.  
+The keys were the number of teams in a given round, and the values were the teams that made it to that round.  

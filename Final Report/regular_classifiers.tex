@@ -1,0 +1,24 @@
+There were five different "out of the box" classifiers that were used to try to predict the games.  
+These were the PageRank algorithm, Gaussian naive-bayes (GNB), logistic regression (LR), support vector machine (SVM) and random forest (RF) classifiers.  
+Other classifiers, like XGBoost weren't considered; in xgboost's case, this was because the number of data points collected was deemed insufficient to gain much advantage on just using the RF classifier, especially considering the increase in training time.  
+Due to the fact that the data is in $\mathbb{R}^{68}$, the SVM classifier was considered a good option, particularly for reducing the dimension.  
+For all of these prediction algorithms, the data was reorganized into a new form.  
+This was done by storing the each game in the training data as the difference between the "first" team and the "second" team.  
+The result was then classified as a one (1) if the "first" team won, and a zero (0) if the "second" team won.  
+This was done with the averaged player statistics (across all season games and all players), the scouting report, and a combination of the two.  
+Thus each team was represented by a single vector, which then could be subtracted from any other team for any given match up.  
+A general Gridsearch was used to determine the parameters that performed best for the LR, SVM, and RF classifiers, as well as each combination of data (strictly player, strictly team, or combination of both).  
+Not surprisingly, the best results came from using the combined player and team data.  
+The parameters that were used for the classifiers on the 2018 data were as follows: \newline\newline
+\begin{tabular}{|c|l|}
+\hline
+Classifier & Parameters \\
+\hline
+LR & $C=0.1$ \\
+SVM & ker=linear \\
+RF & $max\_dep=5$, $num\_est=40$ \\
+\hline
+\end{tabular} \newline\newline
+While for the RF classifier these parameters were the best when tested on the 2017 data, the others were chosen after the 2018 data had been determined and tested.  
+This is because one interesting finding of this project is that in different years, different parameters do better than others.  
+This is discussed in the results and analysis section.

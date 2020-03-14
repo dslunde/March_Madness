@@ -1,0 +1,16 @@
+Once the players have been determined, the next step is to predict how much each team will score.  
+This is done by 1) approximating the number of scoring possessions each team will get; 2) removing the predicted number of scoring possessions lost due to turnovers; 3) using that number of scoring possessions and rebound probabilities to determine the number of scoring opportunities each team will receive.  
+Those scoring opportunities are then divided among two point and three point attempts, with free-throw attempts calculated separately (due to the fact that free-throws can come from scoring attempts or non-shooting fouls if the team is in the bonus).  
+These percentages were taken directly from the teams scouting report.  
+Those shots are then distributed to the players most likely to shoot them, and the player's data is used to determine how many they will make.  
+The distribution was determined by averaging the percentage of the team's two-point, three-point, and free throw shots that each player took over the season.  
+Thus, if a certain player, on average, shot $20\%$ of the teams three-point shots, then $20\%$ of the number of three-point shots calculated were assigned to that player.  
+Then say that that player had a $50\%$ average for three-point attempts.  
+Then $10\%$ of the teams three-point shots are assigned as "made," contributing $3$ points to the team's total score each.  
+This was done for all combinations of shot type and player.  
+%This process will involve multiple machine learning algorithms, and Gibbs Sampling for determining player shot distributions.  
+%Each shot will be randomly drawn from said distributions, with the game run many times to get an average winning percentage for each team.  
+%This will give the probability that each team will win the game.  
+After totaling the points from made baskets, the team with the most points is predicted to be the winner.  
+Ties went to the team that was ranked with the higher seed in the tournament.  
+During this process, all number of possessions, attempts, and made shots are rounded to integers to prevent illogical calculations (such as Nigel-Williams Goss of Gonzaga making 6.024 of his 7.593 three point shots).  

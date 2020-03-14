@@ -1,0 +1,1251 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<meta name="viewport" content="width=device-width, initial-scale=1"><LINK REL=stylesheet TYPE="text/css" HREF="css/team.css?1451706912">
+<TITLE>2017 scouting report for North Carolina</TITLE>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+ 
+<!-- try to use css link for google fonts --> 
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Signika:600,400|Open+Sans+Condensed:300,700&text=1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz:%c3%97%C3%A9%c2%b7%C2%A9%20%26%2B%2D%2C%2E%25%27%28%29%2a%7C%95%3F" />
+<link rel="Shortcut Icon" type="image/ico" href="assets/favicon.ico" />
+<LINK REL=stylesheet TYPE="text/css" HREF="css/master.css?1500523941">
+
+</head>
+ 
+<body>
+<div id="wrapper">
+<div id="container">
+
+<div id="logged-in">
+Logged in as: darrenlund59@gmail.com (<a href="team.php?team=BYU">BYU</a>)  | subscription expires 7/28/18 | <a href="index.php?logout">Logout</a> | <a href="change.php">Change Password</a>
+<!-- 
+<div id="logo-header">
+ <img name="header" src="assets/header.png" width="1000" height="35" border="0" usemap="#header" />
+ <map name="header">
+ <area shape="rect" coords="811,0,968,32" href="http://thecourtguru.com" target="_blank" title="CourtIntelligence powered by kenpom.com" alt="CourtIntelligence powered by kenpom.com" />
+ </map>
+</div> <!-- end logo-header div -->
+
+ 
+<!-- new navigation bar -->
+<div id="logo-header">
+ <img name="header" src="assets/header3.png" border="0" style="padding-top:10px" />
+</div> <!-- end logo-header div -->
+
+<div id="nav2">
+ <ul>
+  <li class="kenpom"><a href="/"><img src="assets/kenpom.png" /></a></li>
+ <li class="stats"><a href="#">Stats</a>
+ 	<ul>
+ 	<li><a href="summary.php">Efficiency</a></li>
+ 	<li><a href="stats.php">Four Factors</a></li>
+ 	<li><a href="playerstats.php">Player Stats</a></li>
+ 	<li><a href="pointdist.php">Point Distribution</a></li> 	
+ 	<li><a href="height.php">Height/Experience</a></li>
+ 	<li><a href="teamstats.php">Misc. Team Stats</a></li>
+ 	</ul>
+ </li>
+ <li class="stats"><a href="blog" title="Blog">Blog</a></li>		   
+ <li><a href="fanmatch.php" title="FanMatch">FanMatch</a></li>
+ <li class="search">
+  <form action="team.php">
+  <input id="teams" name="team" placeholder="Search teams"/>
+  </form>
+  <form action="history.php">
+  <input id="coaches" name="c" placeholder="Search coaches"/>
+  </form>
+<!--   <form action="getplayer.php">
+  <input id="players2" name="x" placeholder="Search players"/>
+  </form>  -->
+ </li>
+ <li><a href="contact.php" title="Contact">Contact</a></li>		   
+ </ul>
+</div>
+<img name="header" src="assets/header4.png" border="0" />
+</div>
+
+<!-- The content header -->
+<div id="content-header">
+<div id="title-container"><h5><span class="rank">3</span> North Carolina <span class="rank">(33-7)</span> </h5>
+Tar Heels &middot; Chapel Hill, NC<br />
+<span class="coach">Head coach: <a href="history.php?c=Roy+Williams">Roy Williams</a></span><br />
+<span class="otherinfo"><a href="conf.php?c=ACC">Atlantic Coast Conference</a><br>
+ <a href="/team.php?team=North+Carolina&y=2002">2002</a>
+ <a href="/team.php?team=North+Carolina&y=2003">2003</a>
+ <a href="/team.php?team=North+Carolina&y=2004">2004</a>
+ <a href="/team.php?team=North+Carolina&y=2005">2005</a>
+ <a href="/team.php?team=North+Carolina&y=2006">2006</a>
+ <a href="/team.php?team=North+Carolina&y=2007">2007</a>
+ <a href="/team.php?team=North+Carolina&y=2008">2008</a>
+ <a href="/team.php?team=North+Carolina&y=2009">2009</a>
+ <a href="/team.php?team=North+Carolina&y=2010">2010</a>
+ <a href="/team.php?team=North+Carolina&y=2011">2011</a>
+ <a href="/team.php?team=North+Carolina&y=2012">2012</a>
+ <a href="/team.php?team=North+Carolina&y=2013">2013</a>
+ <a href="/team.php?team=North+Carolina&y=2014">2014</a>
+ <a href="/team.php?team=North+Carolina&y=2015">2015</a>
+ <a href="/team.php?team=North+Carolina&y=2016">2016</a>
+ 2017 <a href="/history.php?t=North+Carolina">All</a></span><br>
+</div>
+<!--  <div style="page-break-after:always;"></div>  -->
+
+<div id="report">
+<h3>Scouting Report <a href="blog/help-with-team-page/"><img src="assets/help.gif" style="vertical-align:top"></a></h3>
+<b><span class="update">Data through games of <a href="fanmatch.php?d=2017-04-03">Monday, April 3</a></span></b>
+<form name="confstats" id="confcheck"><label>
+<input type="checkbox" name="confselect" /> Conference only
+</label></form>
+
+<table id="report-table">
+<tr><th scope="col">Category</th><th scope="col">Offense</th><th scope="col">Defense</th><th scope="col">D-I Avg</th></tr>
+<tbody>
+
+<tr><td id="effText"></td>
+<td id="OE"></td>
+<td id="DE"></td>
+<td>104.7</td></tr>
+<tr><td id="tempoText"></td>
+<td id="Tempo" colspan="2"></td>
+<td>68.0</td></tr>
+<tr>
+<td><a href="blog/behold-average-possession-length" target="_blank">Avg. Poss. Length</a></td>
+<td id="APLO"></td>
+<td id="APLD"></td>
+<td>17.3</td></tr>
+<tr><td colspan=4 class="label">Four Factors</td></tr>
+<tr><td>Effective FG%:</td><td id="eFG"></td><td id="DeFG"></td>
+<td>50.5</td></tr>
+<tr><td>Turnover %:</td><td id="TOPct"></td><td id="DTOPct"></td>
+<td>18.5</td></tr>
+<tr><td>Off. Reb. %:</td><td id="ORPct"></td><td id="DORPct"></td>
+<td>29.3</td></tr>
+<tr><td>FTA/FGA:</td><td id="FTR"></td><td id="DFTR"></td>
+<td>35.3</td></tr>
+<tr><td colspan=4 class="label">Miscellaneous Components</td></tr>
+<tr><td>3P%:</td><td id="3Pct"></td><td id="D3Pct"></td>
+<td>35.0</td></tr>
+<tr><td>2P%:</td><td id="2Pct"></td><td id="D2Pct"></td>
+<td>49.3</td></tr>
+<tr><td>FT%:</td><td id="FTPct"></td><td id="DFTPct"></td>
+<td>70.4</td></tr>
+<tr><td>Block%:</td><td id="BlockPct"></td><td id="DBlockPct"></td>
+<td>9.2</td></tr>
+<tr><td>Steal%:</td><td id="StlRate"></td><td id="DStlRate"></td>
+<td>8.7</td></tr>
+<tr><td colspan=4 class="label">Style Components</td></tr>
+<tr><td>3PA/FGA:</td><td id="3PARate"></td><td id="D3PARate"></td>
+<td>36.4</td></tr>
+<tr><td>A/FGM:</td><td id="ARate"></td><td id="DARate"></td>
+<td>52.4</td></tr>
+<tr><td><a href="blog/defensive-fingerprint/">Defensive Fingerprint:</a></td>
+<TD colspan=2>Inconclusive<td><td>&nbsp;</td></tr>
+<tr><td colspan=4 class="label">Point Distribution (% of total points)</td></tr>
+<tr><td>3-Pointers:</td><td id="PD3"></td><td id="DPD3"></td>
+<td>30.4</td></tr>
+<tr><td>2-Pointers:</td><td id="PD2"></td><td id="DPD2"></td>
+<td>49.8</td></tr>
+<tr><td>Free Throws:</td><td id="PD1"></td><td id="DPD1"></td>
+<td>19.8</td></tr>
+<tr><td colspan=4 class="label">Strength of Schedule</td></tr>
+<tr><td>Components:</td>
+<td><a href="index.php?s=RankSOSO">112.0</a> <span class="seed">4</span></td>
+<td><a href="index.php?s=RankSOSD">99.5</a> <span class="seed">19</span></td>
+<td>104.7</td></tr>
+<tr><td>Overall:</td>
+<td colspan=2><a href="index.php?s=RankSOSPythag">+12.49</a> <span class="seed">6</span></td>
+<td>0.00</td></tr>
+<tr><td>Non-conference:</td>
+<td colspan=2><a href="index.php?s=RankNCSOS">+3.87</a> <span class="seed">53</span></td>
+<td>0.00</td></tr>
+<tr><td colspan=4 class="label">Personnel</td></tr>
+<tr><td>Bench Minutes:</td>
+<td colspan=2><a href="height.php?s=BenchRank">36.6%</a> <span class="seed">69</span></td>
+<td>31.9%</td>
+</tr>
+<tr><td>Experience:</td>
+<td colspan=2><a href="height.php?s=ExpRank">1.91 yrs</a> <span class="seed">103</span></td>
+<td>1.70</td>
+</tr>
+<tr><td><a href="blog/measuring-continuity">Minutes Continuity</a>:</td>
+<td colspan=2><a href="height.php?s=ContRank">64.4%</a> <span class="seed">51</span></td>
+<td>49.4%</td>
+</tr>
+<tr><td>Average Height:</td>
+<td colspan=2><a href="height.php?s=SizeRank">77.9"</a> <span class="seed">35</span></td>
+<td>76.8"</td>
+</tr>
+
+</tbody></table></div>
+
+<div id="schedule">
+<h3>2017 Schedule <a href="blog/help-with-team-page/"><img src="assets/help.gif" style="vertical-align:top"></a></h3>
+<a href="gameplan.php?team=North+Carolina">Game Plan</a> | <a href="opptracker.php?team=North+Carolina">Opponent Tracker</a>
+<table id="schedule-table">
+<tr><th scope="col">Date</th>
+<th scope="col">Rk</th><th scope="col" colspan=2 style="text-align:left">Opponent</th><th scope="col">Result</th><th scope="col">&nbsp;</th>
+<th scope="col">&nbsp;</th><th scope="col">Location</th><th scope="col">Record</th><th scope="col">Conf</th><th scope="col"></th></tr>
+<tbody>
+<tr class="w">
+<td><a href="fanmatch.php?d=2016-11-11">Fri Nov 11</a></td>
+<td><span class="seed-gray">5</span></td><td style="text-align:right"><span class="seed">241</span></td><td style="text-align:left"><a href="team.php?team=Tulane">Tulane</a></td><td><a href="box.php?g=106"><b>W</b>, 95-75</td></a><td class="pace" style="color:red">76</td><td>&nbsp</td></td>
+<td><a title="New Orleans, LA" href="https://maps.google.com?q=Smoothie+King+Center,+New Orleans, LA&z=9&num=1&t=m"  target="_blank">Semi-Away</a></td>
+<td>1-0</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2016-11-13">Sun Nov 13</a></td>
+<td><span class="seed-gray">4</span></td><td style="text-align:right"><span class="seed">114</span></td><td style="text-align:left"><a href="team.php?team=Chattanooga">Chattanooga</a></td><td><a href="box.php?g=229"><b>W</b>, 97-57</td></a><td class="pace" style="color:red"><b>78</b></td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Dean+E.+Smith+Center,+Chapel Hill, NC&z=9&num=1&t=m" target="_blank">Home</a></td>
+<td>2-0</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2016-11-15">Tue Nov 15</a></td>
+<td><span class="seed-gray">3</span></td><td style="text-align:right"><span class="seed">225</span></td><td style="text-align:left"><a href="team.php?team=Long+Beach+St.">Long Beach St.</a></td><td><a href="box.php?g=384"><b>W</b>, 93-67</td></a><td class="pace" style="color:red">76</td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Dean+E.+Smith+Center,+Chapel Hill, NC&z=9&num=1&t=m" target="_blank">Home</a></td>
+<td>3-0</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2016-11-18">Fri Nov 18</a></td>
+<td><span class="seed-gray">4</span></td><td style="text-align:right"><span class="seed">269</span></td><td style="text-align:left"><a href="team.php?team=Hawaii">Hawaii</a></td><td><a href="box.php?g=547"><b>W</b>, 83-68</td></a><td class="pace" style="color:red">72</td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Stan+Sheriff+Center,+Honolulu, HI&z=9&num=1&t=m" target="_blank">Away</a></td>
+<td>4-0</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2016-11-21">Mon Nov 21</a></td>
+<td><span class="seed-gray">5</span></td><td style="text-align:right"><span class="seed">NR</span></td><td style="text-align:left">Chaminade</td><td><a href="box.php?g=722"><b>W</b>, 104-61</td></a><td class="pace" style="color:red">76</td><td>&nbsp</td></td>
+<td><a title="Lahaina, HI" href="https://maps.google.com?q=Lahaina+Civic+Center,+Lahaina, HI&z=9&num=1&t=m"  target="_blank">Semi-Away</a></td>
+<td>5-0</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2016-11-22">Tue Nov 22</a></td>
+<td><span class="seed-gray">5</span></td><td style="text-align:right"><span class="seed">22</span></td><td style="text-align:left"><a href="team.php?team=Oklahoma+St.">Oklahoma St.</a></td><td><a href="box.php?g=5467"><b>W</b>, 107-75</td></a><td class="pace" style="color:red"><b>78</b></td><td>&nbsp</td></td>
+<td><a title="Lahaina, HI" href="https://maps.google.com?q=Lahaina+Civic+Center,+Lahaina, HI&z=9&num=1&t=m"  target="_blank">Neutral</a></td>
+<td>6-0</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2016-11-23">Wed Nov 23</a></td>
+<td><span class="seed-gray">3</span></td><td style="text-align:right"><span class="seed">21</span></td><td style="text-align:left"><a href="team.php?team=Wisconsin">Wisconsin</a></td><td><a href="box.php?g=5479"><b>W</b>, 71-56</td></a><td class="pace">67</td><td>&nbsp</td></td>
+<td><a title="Lahaina, HI" href="https://maps.google.com?q=Lahaina+Civic+Center,+Lahaina, HI&z=9&num=1&t=m"  target="_blank">Neutral</a></td>
+<td>7-0</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr class="l">
+<td><a href="fanmatch.php?d=2016-11-30">Wed Nov 30</a></td>
+<td><span class="seed-gray">3</span></td><td style="text-align:right"><span class="seed">44</span></td><td style="text-align:left"><a href="team.php?team=Indiana">Indiana</a></td><td><a href="box.php?g=1166"><b>L</b>, 76-67</td></a><td class="pace" style="color:red">72</td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Assembly+Hall,+Bloomington, IN&z=9&num=1&t=m" target="_blank">Away</a></td>
+<td>7-1</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2016-12-04">Sun Dec 4</a></td>
+<td><span class="seed-gray">3</span></td><td style="text-align:right"><span class="seed">296</span></td><td style="text-align:left"><a href="team.php?team=Radford">Radford</a></td><td><a href="box.php?g=1383"><b>W</b>, 95-50</td></a><td class="pace" style="color:red"><b>77</b></td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Dean+E.+Smith+Center,+Chapel Hill, NC&z=9&num=1&t=m" target="_blank">Home</a></td>
+<td>8-1</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2016-12-07">Wed Dec 7</a></td>
+<td><span class="seed-gray">3</span></td><td style="text-align:right"><span class="seed">85</span></td><td style="text-align:left"><a href="team.php?team=Davidson">Davidson</a></td><td><a href="box.php?g=1509"><b>W</b>, 83-74</td></a><td class="pace" style="color:red"><b>78</b></td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Dean+E.+Smith+Center,+Chapel Hill, NC&z=9&num=1&t=m" target="_blank">Home</a></td>
+<td>9-1</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2016-12-11">Sun Dec 11</a></td>
+<td><span class="seed-gray">3</span></td><td style="text-align:right"><span class="seed">57</span></td><td style="text-align:left"><a href="team.php?team=Tennessee">Tennessee</a></td><td><a href="box.php?g=1687"><b>W</b>, 73-71</td></a><td class="pace" style="color:red">71</td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Dean+E.+Smith+Center,+Chapel Hill, NC&z=9&num=1&t=m" target="_blank">Home</a></td>
+<td>10-1</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/b.gif" height="12"/></a></td></tr>
+<tr class="l">
+<td><a href="fanmatch.php?d=2016-12-17">Sat Dec 17</a></td>
+<td><span class="seed-gray">6</span></td><td style="text-align:right"><span class="seed">4</span></td><td style="text-align:left"><a href="team.php?team=Kentucky">Kentucky</a></td><td><a href="box.php?g=1852"><b>L</b>, 103-100</td></a><td class="pace" style="color:red"><b>79</b></td><td>&nbsp</td></td>
+<td><a title="Las Vegas, NV" href="https://maps.google.com?q=T-Mobile+Arena,+Las Vegas, NV&z=9&num=1&t=m"  target="_blank">Neutral</a></td>
+<td>10-2</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2016-12-21">Wed Dec 21</a></td>
+<td><span class="seed-gray">6</span></td><td style="text-align:right"><span class="seed">169</span></td><td style="text-align:left"><a href="team.php?team=Northern+Iowa">Northern Iowa</a></td><td><a href="box.php?g=2079"><b>W</b>, 85-42</td></a><td class="pace">66</td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Dean+E.+Smith+Center,+Chapel Hill, NC&z=9&num=1&t=m" target="_blank">Home</a></td>
+<td>11-2</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2016-12-28">Wed Dec 28</a></td>
+<td><span class="seed-gray">5</span></td><td style="text-align:right"><span class="seed">81</span></td><td style="text-align:left"><a href="team.php?team=Monmouth">Monmouth</a></td><td><a href="box.php?g=2240"><b>W</b>, 102-74</td></a><td class="pace" style="color:red"><b>88</b></td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Dean+E.+Smith+Center,+Chapel Hill, NC&z=9&num=1&t=m" target="_blank">Home</a></td>
+<td>12-2</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"></td></tr>
+<tr class="l">
+<td><a href="fanmatch.php?d=2016-12-31">Sat Dec 31</a></td>
+<td><span class="seed-gray">4</span></td><td style="text-align:right"><span class="seed">77</span></td><td style="text-align:left"><a href="team.php?team=Georgia+Tech">Georgia Tech</a></td><td><a href="box.php?g=2453"><b>L</b>, 75-63</td></a><td class="pace" style="color:red"><b>78</b></td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=McCamish+Pavilion,+Atlanta, GA&z=9&num=1&t=m" target="_blank">Away</a></td>
+<td>12-3</td>
+<td class=c>0-1</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2017-01-03">Tue Jan 3</a></td>
+<td><span class="seed-gray">8</span></td><td style="text-align:right"><span class="seed">45</span></td><td style="text-align:left"><a href="team.php?team=Clemson">Clemson</a></td><td><a href="box.php?g=2544"><b>W</b>, 89-86</td></a><td class="pace">79</td><td>OT</td></td>
+<td><a href="https://maps.google.com?q=Littlejohn+Coliseum,+Clemson, SC&z=9&num=1&t=m" target="_blank">Away</a></td>
+<td>13-3</td>
+<td class=c>1-1</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2017-01-08">Sun Jan 8</a></td>
+<td><span class="seed-gray">8</span></td><td style="text-align:right"><span class="seed">109</span></td><td style="text-align:left"><a href="team.php?team=North+Carolina+St.">North Carolina St.</a></td><td><a href="box.php?g=5552"><b>W</b>, 107-56</td></a><td class="pace" style="color:red"><b>85</b></td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Dean+E.+Smith+Center,+Chapel Hill, NC&z=9&num=1&t=m" target="_blank">Home</a></td>
+<td>14-3</td>
+<td class=c>2-1</td><td style="border-left:1px dotted black"></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2017-01-11">Wed Jan 11</a></td>
+<td><span class="seed-gray">6</span></td><td style="text-align:right"><span class="seed">36</span></td><td style="text-align:left"><a href="team.php?team=Wake+Forest">Wake Forest</a></td><td><a href="box.php?g=2934"><b>W</b>, 93-87</td></a><td class="pace" style="color:red">75</td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Joel+Coliseum,+Winston-Salem, NC&z=9&num=1&t=m" target="_blank">Away</a></td>
+<td>15-3</td>
+<td class=c>3-1</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2017-01-14">Sat Jan 14</a></td>
+<td><span class="seed-gray">6</span></td><td style="text-align:right"><span class="seed">26</span></td><td style="text-align:left"><a href="team.php?team=Florida+St.">Florida St.</a></td><td><a href="box.php?g=3044"><b>W</b>, 96-83</td></a><td class="pace" style="color:red"><b>85</b></td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Dean+E.+Smith+Center,+Chapel Hill, NC&z=9&num=1&t=m" target="_blank">Home</a></td>
+<td>16-3</td>
+<td class=c>4-1</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2017-01-16">Mon Jan 16</a></td>
+<td><span class="seed-gray">6</span></td><td style="text-align:right"><span class="seed">55</span></td><td style="text-align:left"><a href="team.php?team=Syracuse">Syracuse</a></td><td><a href="box.php?g=3204"><b>W</b>, 85-68</td></a><td class="pace">68</td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Dean+E.+Smith+Center,+Chapel Hill, NC&z=9&num=1&t=m" target="_blank">Home</a></td>
+<td>17-3</td>
+<td class=c>5-1</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/b.gif" height="12"/></a></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2017-01-21">Sat Jan 21</a></td>
+<td><span class="seed-gray">6</span></td><td style="text-align:right"><span class="seed">173</span></td><td style="text-align:left"><a href="team.php?team=Boston+College">Boston College</a></td><td><a href="box.php?g=3460"><b>W</b>, 90-82</td></a><td class="pace" style="color:red">75</td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Conte+Forum,+Chestnut Hill, MA&z=9&num=1&t=m" target="_blank">Away</a></td>
+<td>18-3</td>
+<td class=c>6-1</td><td style="border-left:1px dotted black"></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2017-01-26">Thu Jan 26</a></td>
+<td><span class="seed-gray">8</span></td><td style="text-align:right"><span class="seed">50</span></td><td style="text-align:left"><a href="team.php?team=Virginia+Tech">Virginia Tech</a></td><td><a href="box.php?g=3647"><b>W</b>, 91-72</td></a><td class="pace">65</td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Dean+E.+Smith+Center,+Chapel Hill, NC&z=9&num=1&t=m" target="_blank">Home</a></td>
+<td>19-3</td>
+<td class=c>7-1</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/b.gif" height="12"/></a></td></tr>
+<tr class="l">
+<td><a href="fanmatch.php?d=2017-01-28">Sat Jan 28</a></td>
+<td><span class="seed-gray">7</span></td><td style="text-align:right"><span class="seed">42</span></td><td style="text-align:left"><a href="team.php?team=Miami+FL">Miami FL</a></td><td><a href="box.php?g=3693"><b>L</b>, 77-62</td></a><td class="pace">70</td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Watsco+Center,+Coral Gables, FL&z=9&num=1&t=m" target="_blank">Away</a></td>
+<td>19-4</td>
+<td class=c>7-2</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2017-01-31">Tue Jan 31</a></td>
+<td><span class="seed-gray">9</span></td><td style="text-align:right"><span class="seed">79</span></td><td style="text-align:left"><a href="team.php?team=Pittsburgh">Pittsburgh</a></td><td><a href="box.php?g=3889"><b>W</b>, 80-78</td></a><td class="pace" style="color:blue">60</td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Dean+E.+Smith+Center,+Chapel Hill, NC&z=9&num=1&t=m" target="_blank">Home</a></td>
+<td>20-4</td>
+<td class=c>8-2</td><td style="border-left:1px dotted black"></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2017-02-05">Sun Feb 5</a></td>
+<td><span class="seed-gray">11</span></td><td style="text-align:right"><span class="seed">27</span></td><td style="text-align:left"><a href="team.php?team=Notre+Dame">Notre Dame</a></td><td><a href="box.php?g=5559"><b>W</b>, 83-76</td></a><td class="pace">68</td><td>&nbsp</td></td>
+<td><a title="Greensboro, NC" href="https://maps.google.com?q=Greensboro+Coliseum,+Greensboro, NC&z=9&num=1&t=m"  target="_blank">Semi-Home</a></td>
+<td>21-4</td>
+<td class=c>9-2</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr class="l">
+<td><a href="fanmatch.php?d=2017-02-09">Thu Feb 9</a></td>
+<td><span class="seed-gray">11</span></td><td style="text-align:right"><span class="seed">14</span></td><td style="text-align:left"><a href="team.php?team=Duke">Duke</a></td><td><a href="box.php?g=4310"><b>L</b>, 86-78</td></a><td class="pace">68</td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Cameron+Indoor+Stadium,+Durham, NC&z=9&num=1&t=m" target="_blank">Away</a></td>
+<td>21-5</td>
+<td class=c>9-3</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2017-02-15">Wed Feb 15</a></td>
+<td><span class="seed-gray">10</span></td><td style="text-align:right"><span class="seed">109</span></td><td style="text-align:left"><a href="team.php?team=North+Carolina+St.">North Carolina St.</a></td><td><a href="box.php?g=4608"><b>W</b>, 97-73</td></a><td class="pace" style="color:red">72</td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=PNC+Arena,+Raleigh, NC&z=9&num=1&t=m" target="_blank">Away</a></td>
+<td>22-5</td>
+<td class=c>10-3</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/b.gif" height="12"/></a></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2017-02-18">Sat Feb 18</a></td>
+<td><span class="seed-gray">10</span></td><td style="text-align:right"><span class="seed">12</span></td><td style="text-align:left"><a href="team.php?team=Virginia">Virginia</a></td><td><a href="box.php?g=4823"><b>W</b>, 65-41</td></a><td class="pace" style="color:blue">61</td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Dean+E.+Smith+Center,+Chapel Hill, NC&z=9&num=1&t=m" target="_blank">Home</a></td>
+<td>23-5</td>
+<td class=c>11-3</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2017-02-22">Wed Feb 22</a></td>
+<td><span class="seed-gray">6</span></td><td style="text-align:right"><span class="seed">9</span></td><td style="text-align:left"><a href="team.php?team=Louisville">Louisville</a></td><td><a href="box.php?g=4945"><b>W</b>, 74-63</td></a><td class="pace" style="color:red">73</td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Dean+E.+Smith+Center,+Chapel Hill, NC&z=9&num=1&t=m" target="_blank">Home</a></td>
+<td>24-5</td>
+<td class=c>12-3</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2017-02-25">Sat Feb 25</a></td>
+<td><span class="seed-gray">5</span></td><td style="text-align:right"><span class="seed">79</span></td><td style="text-align:left"><a href="team.php?team=Pittsburgh">Pittsburgh</a></td><td><a href="box.php?g=5122"><b>W</b>, 85-67</td></a><td class="pace">65</td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Petersen+Events+Center,+Pittsburgh, PA&z=9&num=1&t=m" target="_blank">Away</a></td>
+<td>25-5</td>
+<td class=c>13-3</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr class="l">
+<td><a href="fanmatch.php?d=2017-02-27">Mon Feb 27</a></td>
+<td><span class="seed-gray">3</span></td><td style="text-align:right"><span class="seed">12</span></td><td style="text-align:left"><a href="team.php?team=Virginia">Virginia</a></td><td><a href="box.php?g=5202"><b>L</b>, 53-43</td></a><td class="pace" style="color:blue"><b>55</b></td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=John+Paul+Jones+Arena,+Charlottesville, VA&z=9&num=1&t=m" target="_blank">Away</a></td>
+<td>25-6</td>
+<td class=c>13-4</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2017-03-04">Sat Mar 4</a></td>
+<td><span class="seed-gray">4</span></td><td style="text-align:right"><span class="seed">14</span></td><td style="text-align:left"><a href="team.php?team=Duke">Duke</a></td><td><a href="box.php?g=5362"><b>W</b>, 90-83</td></a><td class="pace" style="color:red">72</td><td>&nbsp</td></td>
+<td><a href="https://maps.google.com?q=Dean+E.+Smith+Center,+Chapel Hill, NC&z=9&num=1&t=m" target="_blank">Home</a></td>
+<td>26-6</td>
+<td class=c>14-4</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr><td class="label" colspan=11>Atlantic Coast Conference Tournament</td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2017-03-09">Thu Mar 9</a></td>
+<td><span class="seed-gray">5</span></td><td style="text-align:right"><span class="seed">42</span></td><td style="text-align:left"><a href="team.php?team=Miami+FL">Miami FL</a></td><td><a href="box.php?g=5757"><b>W</b>, 78-53</td></a><td class="pace">64</td><td>&nbsp</td></td>
+<td><a title="Brooklyn, NY" href="https://maps.google.com?q=Barclays+Center,+Brooklyn, NY&z=9&num=1&t=m"  target="_blank">Neutral</a></td>
+<td>27-6</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr class="l">
+<td><a href="fanmatch.php?d=2017-03-10">Fri Mar 10</a></td>
+<td><span class="seed-gray">3</span></td><td style="text-align:right"><span class="seed">14</span></td><td style="text-align:left"><a href="team.php?team=Duke">Duke</a></td><td><a href="box.php?g=5791"><b>L</b>, 93-83</td></a><td class="pace" style="color:red">74</td><td>&nbsp</td></td>
+<td><a title="Brooklyn, NY" href="https://maps.google.com?q=Barclays+Center,+Brooklyn, NY&z=9&num=1&t=m"  target="_blank">Neutral</a></td>
+<td>27-7</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr><td class="label" colspan=11>NCAA Tournament</td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2017-03-17">Fri Mar 17</a></td>
+<td><span class="seed-gray">3</span></td><td style="text-align:right"><span class="seed">212</span></td><td style="text-align:left"><a href="team.php?team=Texas+Southern">Texas Southern</a></td><td><a href="box.php?g=5874"><b>W</b>, 103-64</td></a><td class="pace" style="color:red">76</td><td>&nbsp</td></td>
+<td><a title="Greenville, SC" href="https://maps.google.com?q=Bon+Secours+Wellness+Arena,+Greenville, SC&z=9&num=1&t=m"  target="_blank">Neutral</a></td>
+<td>28-7</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2017-03-19">Sun Mar 19</a></td>
+<td><span class="seed-gray">4</span></td><td style="text-align:right"><span class="seed">35</span></td><td style="text-align:left"><a href="team.php?team=Arkansas">Arkansas</a></td><td><a href="box.php?g=5965"><b>W</b>, 72-65</td></a><td class="pace" style="color:red">74</td><td>&nbsp</td></td>
+<td><a title="Greenville, SC" href="https://maps.google.com?q=Bon+Secours+Wellness+Arena,+Greenville, SC&z=9&num=1&t=m"  target="_blank">Neutral</a></td>
+<td>29-7</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2017-03-24">Fri Mar 24</a></td>
+<td><span class="seed-gray">5</span></td><td style="text-align:right"><span class="seed">25</span></td><td style="text-align:left"><a href="team.php?team=Butler">Butler</a></td><td><a href="box.php?g=5978"><b>W</b>, 92-80</td></a><td class="pace" style="color:red">73</td><td>&nbsp</td></td>
+<td><a title="Memphis, TN" href="https://maps.google.com?q=FedExForum,+Memphis, TN&z=9&num=1&t=m"  target="_blank">Neutral</a></td>
+<td>30-7</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2017-03-26">Sun Mar 26</a></td>
+<td><span class="seed-gray">5</span></td><td style="text-align:right"><span class="seed">4</span></td><td style="text-align:left"><a href="team.php?team=Kentucky">Kentucky</a></td><td><a href="box.php?g=5998"><b>W</b>, 75-73</td></a><td class="pace" style="color:red">73</td><td>&nbsp</td></td>
+<td><a title="Memphis, TN" href="https://maps.google.com?q=FedExForum,+Memphis, TN&z=9&num=1&t=m"  target="_blank">Neutral</a></td>
+<td>31-7</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2017-04-01">Sat Apr 1</a></td>
+<td><span class="seed-gray">3</span></td><td style="text-align:right"><span class="seed">10</span></td><td style="text-align:left"><a href="team.php?team=Oregon">Oregon</a></td><td><a href="box.php?g=6002"><b>W</b>, 77-76</td></a><td class="pace" style="color:red">75</td><td>&nbsp</td></td>
+<td><a title="Glendale, AZ" href="https://maps.google.com?q=University+of+Phoenix+Stadium,+Glendale, AZ&z=9&num=1&t=m"  target="_blank">Neutral</a></td>
+<td>32-7</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr class="w">
+<td><a href="fanmatch.php?d=2017-04-03">Mon Apr 3</a></td>
+<td><span class="seed-gray">3</span></td><td style="text-align:right"><span class="seed">1</span></td><td style="text-align:left"><a href="team.php?team=Gonzaga">Gonzaga</a></td><td><a href="box.php?g=6006"><b>W</b>, 71-65</td></a><td class="pace" style="color:red">74</td><td>&nbsp</td></td>
+<td><a title="Glendale, AZ" href="https://maps.google.com?q=University+of+Phoenix+Stadium,+Glendale, AZ&z=9&num=1&t=m"  target="_blank">Neutral</a></td>
+<td>33-7</td>
+<td class=c>&nbsp;</td><td style="border-left:1px dotted black"><a href="blog/tiers-of-joy"><img src="/assets/a.gif" height="12"/></a></td></tr>
+<tr><td colspan="11" style="text-align:left">Home games played at <a href="https://maps.google.com?q=Dean+E.+Smith+Center,+Chapel+Hill,+NC&z=9&num=1&t=m" target="_blank">Dean E. Smith Center</a> (21,750, 4th largest in D-I)</td></tr>
+<tr><td colspan="11" style="text-align:left">Home court advantage: 3.5 (96th in D-I)</td></tr>
+</tbody></table>
+	</tbody>
+</table>
+</div>
+
+<div style="page-break-after:always;"></div>
+
+
+<div id="players">
+<h3>Player Stats <a href="blog/help-with-team-page/"><img src="assets/help.gif" style="vertical-align:top"></a></h3>
+<a href="player-expanded.php?team=North+Carolina">Expanded Player Page</a>
+<br />
+<span class="update">Player stats/rankings include games against <b>D-I</b> competition through Monday, April 3</span><br /><span class="update">(2163 players eligible for national rank, except 1280 in eFG%, TS%, and FTRate.)</span><br />
+<table id="player-table">
+<thead>
+<tr>
+<th scope="col">&nbsp;</th><th scope="col">&nbsp;</th><th scope="col">Ht</th>
+<th scope="col">Wt</th><th scope="col">Yr</th><th scope="col">G</th>
+			
+<th scope="col" class="divide"><a href="playerstats.php?s=PctMin">%Min</a></th>
+<th scope="col" class="divide"><a href="playerstats.php?s=ORtg">ORtg</a></th>
+<th scope="col"><a href="playerstats.php?s=PctPoss">%Poss</a></th>
+<th scope="col"><a href="playerstats.php?s=PctShots">%Shots</a></th>
+<th scope="col" class="divide"><a href="playerstats.php?s=eFG">eFG%</a></th>
+<th scope="col"><a href="playerstats.php?s=TS">TS%</a></th>
+<th scope="col" class="divide"><a href="playerstats.php?s=ORPct">OR%</a></th>
+<th scope="col"><a href="playerstats.php?s=DRPct">DR%</a></th>
+<th scope="col" class="divide"><a href="playerstats.php?s=ARate">ARate</a></th>
+<th scope="col"><a href="playerstats.php?s=TORate">TORate</a></th>
+<th scope="col" class="divide"><a href="playerstats.php?s=PctBlocks">Blk%</a></th>
+<th scope="col"><a href="playerstats.php?s=PctStls">Stl%</a></th>
+<th scope="col" class="divide"><a href="playerstats.php?s=FCper40">FC/40</a></th>
+<th scope="col"><a href="playerstats.php?s=FDper40">FD/40</a></th>
+<th scope="col"><a href="playerstats.php?s=FTRate">FTRate</a></th>
+<th scope="col" class="divide">FTM-FTA</th>
+<th scope="col"><a href="playerstats.php?s=FTPct">Pct</a></th>
+<th scope="col" class="divide">2PM-2PA</th>
+<th scope="col"><a href="playerstats.php?s=FG2Pct">Pct</a></th>
+<th scope="col" class="divide">3PM-3PA</th>
+<th scope="col"><a href="playerstats.php?s=FG3Pct">Pct</a></th>
+</tr>
+</thead>
+<tbody>
+
+<tr class="label"><td>&nbsp;</td><td colspan=26 class="extra-padding">Significant Contributors (20-24% of possessions used)</td></tr>
+<tr class="player"><td>44</td><td style="text-align:left"><a href="player.php?p=26256"><b>Justin Jackson</b></a><br />
+	    <span class="plrank">National Rank</span></td>
+<td>6-8</td><td>210</td><td>Jr</td><td>39</td>
+<td class="divide">80.2<br /><span class="plrank">312</span></td><td class="divide">119.5<br /><span class="plrank">138</span></td><td>23.9<br /><span class="plrank">475</span></td><td>28.4<br /><span class="plrank">171</span></td><td class="divide">53.0<br /><span class="plrank">466</span></td><td>55.5</td><td class="divide">4.9</td><td>10.8</td><td class="divide">16.0</td><td>12.2<br /><span class="plrank">193</span></td><td class="divide">0.8</td><td>1.4</td><td class="divide">1.7<br /><span class="plrank">43</span></td><td>3.8</td><td>22.4</td><td class="divide">98-131</td><td>.748</td><td class="divide">156-306</td><td>.510</td><td class="divide">103-280</td><td>.368</td></tr>
+<tr class="player"><td>2</td><td style="text-align:left"><a href="player.php?p=26253"><b>Joel Berry</b></a><br />
+	    <span class="plrank">National Rank</span></td>
+<td>6-0</td><td>195</td><td>Jr</td><td>37</td>
+<td class="divide">72.3</td><td class="divide">117.7<br /><span class="plrank">196</span></td><td>21.3</td><td>22.6</td><td class="divide">53.0<br /><span class="plrank">469</span></td><td>56.8<br /><span class="plrank">431</span></td><td class="divide">1.4</td><td>9.5</td><td class="divide">19.7<br /><span class="plrank">432</span></td><td>16.2</td><td class="divide">0.5</td><td>2.4<br /><span class="plrank">421</span></td><td class="divide">2.9</td><td>4.1</td><td>32.7</td><td class="divide">106-137</td><td>.774<br /><span class="plrank">405</span></td><td class="divide">93-194</td><td>.479</td><td class="divide">86-225</td><td>.382<br /><span class="plrank">424</span></td></tr>
+<tr class="player"><td>3</td><td style="text-align:left"><a href="player.php?p=20082"><b>Kennedy Meeks</b></a><br />
+	    <span class="plrank">National Rank</span></td>
+<td>6-10</td><td>260</td><td>Sr</td><td>39</td>
+<td class="divide">60.9</td><td class="divide">119.5<br /><span class="plrank">137</span></td><td>22.6</td><td>23.3</td><td class="divide">54.7<br /><span class="plrank">320</span></td><td>56.2</td><td class="divide">16.4<br /><span class="plrank">10</span></td><td>25.0<br /><span class="plrank">49</span></td><td class="divide">7.6</td><td>11.8<br /><span class="plrank">160</span></td><td class="divide">5.4<br /><span class="plrank">148</span></td><td>2.1</td><td class="divide">3.9</td><td>4.6</td><td>37.1</td><td class="divide">83-135</td><td>.615</td><td class="divide">199-364</td><td>.547<br /><span class="plrank">408</span></td><td class="divide">0-0</td><td>.000</td></tr>
+<tr class="player"><td>4</td><td style="text-align:left"><a href="player.php?p=20084"><b>Isaiah Hicks</b></a><br />
+	    <span class="plrank">National Rank</span></td>
+<td>6-9</td><td>242</td><td>Sr</td><td>38</td>
+<td class="divide">56.2</td><td class="divide">118.4<br /><span class="plrank">175</span></td><td>21.5</td><td>20.0</td><td class="divide">57.4</td><td>62.0</td><td class="divide">8.5<br /><span class="plrank">382</span></td><td>16.7</td><td class="divide">10.9</td><td>18.4</td><td class="divide">3.7<br /><span class="plrank">287</span></td><td>1.0</td><td class="divide">5.4</td><td>4.9<br /><span class="plrank">390</span></td><td>47.4</td><td class="divide">107-137</td><td>.781<br /><span class="plrank">354</span></td><td class="divide">166-289</td><td>.574<br /><span class="plrank">240</span></td><td class="divide">0-0</td><td>.000</td></tr>
+<tr class="player"><td>5</td><td style="text-align:left"><a href="player.php?p=39722">Tony Bradley</a></td>
+<td>6-11</td><td>240</td><td>Fr</td><td>37</td>
+<td class="divide">34.3</td><td class="divide">123.2</td><td>21.4</td><td>19.5</td><td class="divide">56.4</td><td>58.2</td><td class="divide">18.2</td><td>19.0</td><td class="divide">7.4</td><td>11.5</td><td class="divide">4.5</td><td>1.0</td><td class="divide">5.0</td><td>5.5</td><td>57.6</td><td class="divide">61-99</td><td>.616</td><td class="divide">97-172</td><td>.564</td><td class="divide">0-0</td><td>.000</td></tr>
+<tr class="player"><td>21</td><td style="text-align:left"><a href="player.php?p=39629">Seventh Woods</a></td>
+<td>6-2</td><td>180</td><td>Fr</td><td>39</td>
+<td class="divide">18.7</td><td class="divide">74.2</td><td>20.1</td><td>11.9</td><td class="divide">31.6</td><td>39.6</td><td class="divide">1.8</td><td>17.1</td><td class="divide">23.4</td><td>38.6</td><td class="divide">0.8</td><td>4.0</td><td class="divide">3.8</td><td>4.2</td><td>64.9</td><td class="divide">23-37</td><td>.622</td><td class="divide">15-48</td><td>.312</td><td class="divide">2-9</td><td>.222</td></tr>
+<tr class="label"><td>&nbsp;</td><td colspan=26 class="extra-padding">Role Players (16-20% of possessions used)</td></tr>
+<tr class="player"><td>1</td><td style="text-align:left"><a href="player.php?p=26252">Theo Pinson</a></td>
+<td>6-6</td><td>211</td><td>Jr</td><td>21</td>
+<td class="divide">31.9</td><td class="divide">107.5</td><td>16.6</td><td>13.8</td><td class="divide">42.0</td><td>47.3</td><td class="divide">5.9</td><td>15.0</td><td class="divide">22.9</td><td>20.6</td><td class="divide">0.9</td><td>2.0</td><td class="divide">3.0</td><td>3.3</td><td>41.6</td><td class="divide">33-47</td><td>.702</td><td class="divide">34-75</td><td>.453</td><td class="divide">9-38</td><td>.237</td></tr>
+<tr class="player"><td>32</td><td style="text-align:left"><a href="player.php?p=31216">Luke Maye</a></td>
+<td>6-8</td><td>235</td><td>So</td><td>35</td>
+<td class="divide">31.8</td><td class="divide">113.7</td><td>19.7</td><td>20.0</td><td class="divide">52.8</td><td>53.6</td><td class="divide">12.3</td><td>17.4</td><td class="divide">13.7</td><td>16.9</td><td class="divide">1.6</td><td>1.7</td><td class="divide">5.1</td><td>3.0</td><td>23.3</td><td class="divide">22-38</td><td>.579</td><td class="divide">62-123</td><td>.504</td><td class="divide">16-40</td><td>.400</td></tr>
+<tr class="label"><td>&nbsp;</td><td colspan=26 class="extra-padding">Limited roles (12-16% of possessions used)</td></tr>
+<tr class="player"><td>0</td><td style="text-align:left"><a href="player.php?p=20081"><b>Nate Britt</b></a><br />
+	    <span class="plrank">National Rank</span></td>
+<td>6-1</td><td>175</td><td>Sr</td><td>39</td>
+<td class="divide">47.5</td><td class="divide">104.0</td><td>13.9</td><td>14.3</td><td class="divide">42.2</td><td>45.4</td><td class="divide">1.6</td><td>8.8</td><td class="divide">18.1</td><td>19.2</td><td class="divide">0.3</td><td>2.8<br /><span class="plrank">216</span></td><td class="divide">3.6</td><td>2.2</td><td>20.1</td><td class="divide">26-35</td><td>.743</td><td class="divide">36-100</td><td>.360</td><td class="divide">25-74</td><td>.338</td></tr>
+<tr class="player"><td>24</td><td style="text-align:left"><a href="player.php?p=31215">Kenny Williams</a></td>
+<td>6-4</td><td>180</td><td>So</td><td><a href="https://www.google.com/search?hl=en&gl=us&tbm=nws&q=%22Kenny Williams%22+North Carolina+injury" 
+		    target="_blank"><span style="color:red; font-weight:bold;">25</span></a></td>
+<td class="divide">37.7</td><td class="divide">113.5</td><td>13.7</td><td>13.7</td><td class="divide">51.1</td><td>52.6</td><td class="divide">5.5</td><td>9.4</td><td class="divide">13.7</td><td>18.4</td><td class="divide">1.3</td><td>1.9</td><td class="divide">2.6</td><td>2.3</td><td>22.6</td><td class="divide">19-30</td><td>.633</td><td class="divide">29-56</td><td>.518</td><td class="divide">26-77</td><td>.338</td></tr>
+<tr class="player"><td>14</td><td style="text-align:left"><a href="player.php?p=38182">Brandon Robinson</a></td>
+<td>6-5</td><td>162</td><td>Fr</td><td><a href="https://www.google.com/search?hl=en&gl=us&tbm=nws&q=%22Brandon Robinson%22+North Carolina+injury" 
+		    target="_blank"><span style="color:red; font-weight:bold;">36</span></a></td>
+<td class="divide">17.1</td><td class="divide">99.4</td><td>14.9</td><td>13.9</td><td class="divide">37.7</td><td>43.4</td><td class="divide">4.3</td><td>11.8</td><td class="divide">13.1</td><td>18.0</td><td class="divide">0.4</td><td>1.9</td><td class="divide">4.5</td><td>3.4</td><td>44.3</td><td class="divide">18-27</td><td>.667</td><td class="divide">14-33</td><td>.424</td><td class="divide">6-28</td><td>.214</td></tr>
+<tr class="label"><td>&nbsp;</td><td colspan=26 class="extra-padding">Benchwarmers (played in fewer than 10% of team's minutes)</td></tr>
+<tr class="benchwarmer"><td>30</td><td style="text-align:left"><a href="player.php?p=13024">Stilman White</a></td>
+<td>6-1</td><td>178</td><td>Sr</td><td>26</td>
+<td class="divide">5.7</td><td class="divide">133.8</td><td>14.6</td><td>13.0</td><td class="divide">52.6</td><td>64.3</td><td class="divide">5.9</td><td>7.3</td><td class="divide">6.8</td><td>12.7</td><td class="divide">0.0</td><td>1.2</td><td class="divide">3.1</td><td>4.7</td><td>73.7</td><td class="divide">13-14</td><td>.929</td><td class="divide">7-15</td><td>.467</td><td class="divide">2-4</td><td>.500</td></tr>
+</tbody></table>
+<form id="commit" action="favorite.php" method="POST">
+<input type="hidden" name="change" value="North Carolina">
+<div id="commit">You are a committed fan of <b>BYU</b>. You can commit to <a href="javascript:void(0);" onclick="document.getElementById('commit').submit()">North Carolina</a> if you'd like. (<a href="popular.php">Who's most popular?</a>)</div></form><br/><h3>Depth chart over the past 5 games</h3>
+<table id="dc-table"><thead>
+<tr><td style="min-width:150px; border-right:1px solid" colspan="2">PG</td><td style="min-width:150px; border-right:1px solid" colspan="2">SG</td><td style="min-width:150px; border-right:1px solid" colspan="2">SF</td><td style="min-width:150px; border-right:1px solid" colspan="2">PF</td><td style="min-width:150px" colspan="2">C</td></tr>
+</thead><tbody>
+<tr>
+<td><div style="border:2px solid #000; background-color:#89fc8f; padding:1px 2px"><span class="seed-gray">2</span> <a href="player.php?p=26253">Joel Berry</a><br/><span class="seed-gray">6-0 &nbsp;195 &nbsp;Jr</div></td><td style="border-right:1px solid">86%<br /><span class="seed-gray">&nbsp;</span></span></td><td><div style="border:1px solid #555; background-color:#b2fbba; padding:1px 2px"><span class="seed-gray">1</span> <a href="player.php?p=26252">Theo Pinson</a><br/><span class="seed-gray">6-6 &nbsp;211 &nbsp;Jr</div></td><td style="border-right:1px solid">60%<br /><span class="seed-gray">&nbsp;</span></span></td><td><div style="border:2px solid #000; background-color:#90fb96; padding:1px 2px"><span class="seed-gray">44</span> <a href="player.php?p=26256">Justin Jackson</a><br/><span class="seed-gray">6-8 &nbsp;210 &nbsp;Jr</div></td><td style="border-right:1px solid">86%<br /><span class="seed-gray">&nbsp;</span></span></td><td><div style="border:2px solid #000; background-color:#f1f9fc; padding:1px 2px"><span class="seed-gray">4</span> <a href="player.php?p=20084">Isaiah Hicks</a><br/><span class="seed-gray">6-9 &nbsp;242 &nbsp;Sr</div></td><td style="border-right:1px solid">61%<br /><span class="seed-gray">&nbsp;</span></span></td><td><div style="border:2px solid #000; background-color:#f1f9fc; padding:1px 2px"><span class="seed-gray">3</span> <a href="player.php?p=20082">Kennedy Meeks</a><br/><span class="seed-gray">6-10 &nbsp;260 &nbsp;Sr</div></td><td>69%<br /><span class="seed-gray">&nbsp;</span></span></td></tr>
+<tr>
+<td><div style="border:2px solid #000; background-color:#d6fae0; padding:1px 2px"><span class="seed-gray">21</span> <a href="player.php?p=39629">Seventh Woods</a><br/><span class="seed-gray">6-2 &nbsp;180 &nbsp;Fr</div></td><td style="border-right:1px solid">9%<br /><span class="seed-gray">&nbsp;</span></span></td><td><div style="border:1px dotted #555; background-color:#9afba1; padding:1px 2px"><span class="seed-gray">0</span> <a href="player.php?p=20081">Nate Britt</a><br/><span class="seed-gray">6-1 &nbsp;175 &nbsp;Sr</div></td><td style="border-right:1px solid">36%<br /><span class="seed-gray">&nbsp;</span></span></td><td><div style="border:1px solid #555; background-color:#b2fbba; padding:1px 2px"><span class="seed-gray">1</span> <a href="player.php?p=26252">Theo Pinson</a><br/><span class="seed-gray">6-6 &nbsp;211 &nbsp;Jr</div></td><td style="border-right:1px solid">14%<br /><span class="seed-gray">&nbsp;</span></span></td><td><div style="border:1px solid #555; background-color:#c0fac8; padding:1px 2px"><span class="seed-gray">32</span> <a href="player.php?p=31216">Luke Maye</a><br/><span class="seed-gray">6-8 &nbsp;235 &nbsp;So</div></td><td style="border-right:1px solid">33%<br /><span class="seed-gray">&nbsp;</span></span></td><td><div style="border:2px solid #000; background-color:#f1f9fc; padding:1px 2px"><span class="seed-gray">5</span> <a href="player.php?p=39722">Tony Bradley</a><br/><span class="seed-gray">6-11 &nbsp;240 &nbsp;Fr</div></td><td>31%<br /><span class="seed-gray">&nbsp;</span></span></td></tr>
+<tr>
+<td><div style="border:1px dotted #555; background-color:#9afba1; padding:1px 2px"><span class="seed-gray">0</span> <a href="player.php?p=20081">Nate Britt</a><br/><span class="seed-gray">6-1 &nbsp;175 &nbsp;Sr</div></td><td style="border-right:1px solid">5%<br /><span class="seed-gray">&nbsp;</span></span></td><td></td><td style="border-right:1px solid"></td>
+<td></td><td style="border-right:1px solid"></td>
+<td><div style="border:2px solid #000; background-color:#90fb96; padding:1px 2px"><span class="seed-gray">44</span> <a href="player.php?p=26256">Justin Jackson</a><br/><span class="seed-gray">6-8 &nbsp;210 &nbsp;Jr</div></td><td style="border-right:1px solid">5%<br /><span class="seed-gray">&nbsp;</span></span></td><td></td><td></td>
+</tr>
+</tbody></table>
+<div id="players">
+<h3>Most frequent lineups over the past 5 games <a href="blog/most-frequent-lineups"><img src="assets/help.gif" style="vertical-align:top" /></a></h3>
+<table id="dc-table2">
+<tr><td></td><td style="min-width:150px">PG</td><td style="min-width:150px">SG</td><td style="min-width:150px">SF</td><td style="min-width:150px">PF</td><td style="min-width:150px">C</td><td>Pct</td></tr>
+<tr><td>1</td><td><div style="border:2px solid #000; background-color:#89fc8f"><span class="seed-gray">2</span> <a href="player.php?p=26253">Joel Berry</a><br/><span class="seed-gray">6-0 &nbsp;195 &nbsp;Jr</span></div></td><td><div style="border:1px solid #555; background-color:#b2fbba"><span class="seed-gray">1</span> <a href="player.php?p=26252">Theo Pinson</a><br/><span class="seed-gray">6-6 &nbsp;211 &nbsp;Jr</span></div></td><td><div style="border:2px solid #000; background-color:#90fb96"><span class="seed-gray">44</span> <a href="player.php?p=26256">Justin Jackson</a><br/><span class="seed-gray">6-8 &nbsp;210 &nbsp;Jr</span></div></td><td><div style="border:2px solid #000; background-color:#f1f9fc"><span class="seed-gray">4</span> <a href="player.php?p=20084">Isaiah Hicks</a><br/><span class="seed-gray">6-9 &nbsp;242 &nbsp;Sr</span></div></td><td><div style="border:2px solid #000; background-color:#f1f9fc"><span class="seed-gray">3</span> <a href="player.php?p=20082">Kennedy Meeks</a><br/><span class="seed-gray">6-10 &nbsp;260 &nbsp;Sr</span></div></td><td>35.2<br /><span class="seed-gray">&nbsp;</span></td></tr>
+<tr><td>2</td><td><div style="border:2px solid #000; background-color:#89fc8f"><span class="seed-gray">2</span> <a href="player.php?p=26253">Joel Berry</a><br/><span class="seed-gray">6-0 &nbsp;195 &nbsp;Jr</span></div></td><td><div style="border:1px solid #555; background-color:#b2fbba"><span class="seed-gray">1</span> <a href="player.php?p=26252">Theo Pinson</a><br/><span class="seed-gray">6-6 &nbsp;211 &nbsp;Jr</span></div></td><td><div style="border:2px solid #000; background-color:#90fb96"><span class="seed-gray">44</span> <a href="player.php?p=26256">Justin Jackson</a><br/><span class="seed-gray">6-8 &nbsp;210 &nbsp;Jr</span></div></td><td><div style="border:1px solid #555; background-color:#c0fac8"><span class="seed-gray">32</span> <a href="player.php?p=31216">Luke Maye</a><br/><span class="seed-gray">6-8 &nbsp;235 &nbsp;So</span></div></td><td><div style="border:2px solid #000; background-color:#f1f9fc"><span class="seed-gray">3</span> <a href="player.php?p=20082">Kennedy Meeks</a><br/><span class="seed-gray">6-10 &nbsp;260 &nbsp;Sr</span></div></td><td>12.7<br /><span class="seed-gray">&nbsp;</span></td></tr>
+<tr><td>3</td><td><div style="border:2px solid #000; background-color:#89fc8f"><span class="seed-gray">2</span> <a href="player.php?p=26253">Joel Berry</a><br/><span class="seed-gray">6-0 &nbsp;195 &nbsp;Jr</span></div></td><td><div style="border:1px solid #555; background-color:#b2fbba"><span class="seed-gray">1</span> <a href="player.php?p=26252">Theo Pinson</a><br/><span class="seed-gray">6-6 &nbsp;211 &nbsp;Jr</span></div></td><td><div style="border:2px solid #000; background-color:#90fb96"><span class="seed-gray">44</span> <a href="player.php?p=26256">Justin Jackson</a><br/><span class="seed-gray">6-8 &nbsp;210 &nbsp;Jr</span></div></td><td><div style="border:2px solid #000; background-color:#f1f9fc"><span class="seed-gray">4</span> <a href="player.php?p=20084">Isaiah Hicks</a><br/><span class="seed-gray">6-9 &nbsp;242 &nbsp;Sr</span></div></td><td><div style="border:2px solid #000; background-color:#f1f9fc"><span class="seed-gray">5</span> <a href="player.php?p=39722">Tony Bradley</a><br/><span class="seed-gray">6-11 &nbsp;240 &nbsp;Fr</span></div></td><td>9.0<br /><span class="seed-gray">&nbsp;</span></td></tr>
+<tr><td>4</td><td><div style="border:2px solid #000; background-color:#89fc8f"><span class="seed-gray">2</span> <a href="player.php?p=26253">Joel Berry</a><br/><span class="seed-gray">6-0 &nbsp;195 &nbsp;Jr</span></div></td><td><div style="border:1px dotted #555; background-color:#9afba1"><span class="seed-gray">0</span> <a href="player.php?p=20081">Nate Britt</a><br/><span class="seed-gray">6-1 &nbsp;175 &nbsp;Sr</span></div></td><td><div style="border:2px solid #000; background-color:#90fb96"><span class="seed-gray">44</span> <a href="player.php?p=26256">Justin Jackson</a><br/><span class="seed-gray">6-8 &nbsp;210 &nbsp;Jr</span></div></td><td><div style="border:2px solid #000; background-color:#f1f9fc"><span class="seed-gray">4</span> <a href="player.php?p=20084">Isaiah Hicks</a><br/><span class="seed-gray">6-9 &nbsp;242 &nbsp;Sr</span></div></td><td><div style="border:2px solid #000; background-color:#f1f9fc"><span class="seed-gray">5</span> <a href="player.php?p=39722">Tony Bradley</a><br/><span class="seed-gray">6-11 &nbsp;240 &nbsp;Fr</span></div></td><td>8.2<br /><span class="seed-gray">&nbsp;</span></td></tr>
+<tr><td>5</td><td><div style="border:2px solid #000; background-color:#89fc8f"><span class="seed-gray">2</span> <a href="player.php?p=26253">Joel Berry</a><br/><span class="seed-gray">6-0 &nbsp;195 &nbsp;Jr</span></div></td><td><div style="border:1px dotted #555; background-color:#9afba1"><span class="seed-gray">0</span> <a href="player.php?p=20081">Nate Britt</a><br/><span class="seed-gray">6-1 &nbsp;175 &nbsp;Sr</span></div></td><td><div style="border:1px solid #555; background-color:#b2fbba"><span class="seed-gray">1</span> <a href="player.php?p=26252">Theo Pinson</a><br/><span class="seed-gray">6-6 &nbsp;211 &nbsp;Jr</span></div></td><td><div style="border:2px solid #000; background-color:#90fb96"><span class="seed-gray">44</span> <a href="player.php?p=26256">Justin Jackson</a><br/><span class="seed-gray">6-8 &nbsp;210 &nbsp;Jr</span></div></td><td><div style="border:2px solid #000; background-color:#f1f9fc"><span class="seed-gray">3</span> <a href="player.php?p=20082">Kennedy Meeks</a><br/><span class="seed-gray">6-10 &nbsp;260 &nbsp;Sr</span></div></td><td>6.8<br /><span class="seed-gray">&nbsp;</span></td></tr>
+<tr><td>6</td><td><div style="border:2px solid #000; background-color:#89fc8f"><span class="seed-gray">2</span> <a href="player.php?p=26253">Joel Berry</a><br/><span class="seed-gray">6-0 &nbsp;195 &nbsp;Jr</span></div></td><td><div style="border:1px dotted #555; background-color:#9afba1"><span class="seed-gray">0</span> <a href="player.php?p=20081">Nate Britt</a><br/><span class="seed-gray">6-1 &nbsp;175 &nbsp;Sr</span></div></td><td><div style="border:2px solid #000; background-color:#90fb96"><span class="seed-gray">44</span> <a href="player.php?p=26256">Justin Jackson</a><br/><span class="seed-gray">6-8 &nbsp;210 &nbsp;Jr</span></div></td><td><div style="border:2px solid #000; background-color:#f1f9fc"><span class="seed-gray">4</span> <a href="player.php?p=20084">Isaiah Hicks</a><br/><span class="seed-gray">6-9 &nbsp;242 &nbsp;Sr</span></div></td><td><div style="border:2px solid #000; background-color:#f1f9fc"><span class="seed-gray">3</span> <a href="player.php?p=20082">Kennedy Meeks</a><br/><span class="seed-gray">6-10 &nbsp;260 &nbsp;Sr</span></div></td><td>4.5<br /><span class="seed-gray">&nbsp;</span></td></tr>
+<tr><td>7</td><td><div style="border:2px solid #000; background-color:#89fc8f"><span class="seed-gray">2</span> <a href="player.php?p=26253">Joel Berry</a><br/><span class="seed-gray">6-0 &nbsp;195 &nbsp;Jr</span></div></td><td><div style="border:1px dotted #555; background-color:#9afba1"><span class="seed-gray">0</span> <a href="player.php?p=20081">Nate Britt</a><br/><span class="seed-gray">6-1 &nbsp;175 &nbsp;Sr</span></div></td><td><div style="border:2px solid #000; background-color:#90fb96"><span class="seed-gray">44</span> <a href="player.php?p=26256">Justin Jackson</a><br/><span class="seed-gray">6-8 &nbsp;210 &nbsp;Jr</span></div></td><td><div style="border:1px solid #555; background-color:#c0fac8"><span class="seed-gray">32</span> <a href="player.php?p=31216">Luke Maye</a><br/><span class="seed-gray">6-8 &nbsp;235 &nbsp;So</span></div></td><td><div style="border:2px solid #000; background-color:#f1f9fc"><span class="seed-gray">5</span> <a href="player.php?p=39722">Tony Bradley</a><br/><span class="seed-gray">6-11 &nbsp;240 &nbsp;Fr</span></div></td><td>3.2<br /><span class="seed-gray">&nbsp;</span></td></tr>
+<tr><td>8</td><td><div style="border:2px solid #000; background-color:#89fc8f"><span class="seed-gray">2</span> <a href="player.php?p=26253">Joel Berry</a><br/><span class="seed-gray">6-0 &nbsp;195 &nbsp;Jr</span></div></td><td><div style="border:1px dotted #555; background-color:#9afba1"><span class="seed-gray">0</span> <a href="player.php?p=20081">Nate Britt</a><br/><span class="seed-gray">6-1 &nbsp;175 &nbsp;Sr</span></div></td><td><div style="border:2px solid #000; background-color:#90fb96"><span class="seed-gray">44</span> <a href="player.php?p=26256">Justin Jackson</a><br/><span class="seed-gray">6-8 &nbsp;210 &nbsp;Jr</span></div></td><td><div style="border:1px solid #555; background-color:#c0fac8"><span class="seed-gray">32</span> <a href="player.php?p=31216">Luke Maye</a><br/><span class="seed-gray">6-8 &nbsp;235 &nbsp;So</span></div></td><td><div style="border:2px solid #000; background-color:#f1f9fc"><span class="seed-gray">3</span> <a href="player.php?p=20082">Kennedy Meeks</a><br/><span class="seed-gray">6-10 &nbsp;260 &nbsp;Sr</span></div></td><td>2.3<br /><span class="seed-gray">&nbsp;</span></td></tr>
+<tr><td>9</td><td><div style="border:2px solid #000; background-color:#d6fae0"><span class="seed-gray">21</span> <a href="player.php?p=39629">Seventh Woods</a><br/><span class="seed-gray">6-2 &nbsp;180 &nbsp;Fr</span></div></td><td><div style="border:1px dotted #555; background-color:#9afba1"><span class="seed-gray">0</span> <a href="player.php?p=20081">Nate Britt</a><br/><span class="seed-gray">6-1 &nbsp;175 &nbsp;Sr</span></div></td><td><div style="border:1px solid #555; background-color:#b2fbba"><span class="seed-gray">1</span> <a href="player.php?p=26252">Theo Pinson</a><br/><span class="seed-gray">6-6 &nbsp;211 &nbsp;Jr</span></div></td><td><div style="border:1px solid #555; background-color:#c0fac8"><span class="seed-gray">32</span> <a href="player.php?p=31216">Luke Maye</a><br/><span class="seed-gray">6-8 &nbsp;235 &nbsp;So</span></div></td><td><div style="border:2px solid #000; background-color:#f1f9fc"><span class="seed-gray">5</span> <a href="player.php?p=39722">Tony Bradley</a><br/><span class="seed-gray">6-11 &nbsp;240 &nbsp;Fr</span></div></td><td>1.9<br /><span class="seed-gray">&nbsp;</span></td></tr>
+<tr><td>10</td><td><div style="border:2px solid #000; background-color:#89fc8f"><span class="seed-gray">2</span> <a href="player.php?p=26253">Joel Berry</a><br/><span class="seed-gray">6-0 &nbsp;195 &nbsp;Jr</span></div></td><td><div style="border:1px dotted #555; background-color:#9afba1"><span class="seed-gray">0</span> <a href="player.php?p=20081">Nate Britt</a><br/><span class="seed-gray">6-1 &nbsp;175 &nbsp;Sr</span></div></td><td><div style="border:1px solid #555; background-color:#b2fbba"><span class="seed-gray">1</span> <a href="player.php?p=26252">Theo Pinson</a><br/><span class="seed-gray">6-6 &nbsp;211 &nbsp;Jr</span></div></td><td><div style="border:1px solid #555; background-color:#c0fac8"><span class="seed-gray">32</span> <a href="player.php?p=31216">Luke Maye</a><br/><span class="seed-gray">6-8 &nbsp;235 &nbsp;So</span></div></td><td><div style="border:2px solid #000; background-color:#f1f9fc"><span class="seed-gray">5</span> <a href="player.php?p=39722">Tony Bradley</a><br/><span class="seed-gray">6-11 &nbsp;240 &nbsp;Fr</span></div></td><td>1.9<br /><span class="seed-gray">&nbsp;</span></td></tr>
+<tr><td colspan="5"></td><td>UNKNOWN</td><td>35.9</td></tr>
+<tr><td colspan="7" style="text-align:left">Border thickness proportional to player %Poss, green shading proportional to 3PA/(.475*FTA+FGA)</td></tr>
+<tr><td colspan="7" style="text-align:left">Position designation is estimated by an algorithm and may not reflect reality.</td></tr>
+</table>
+</div>
+
+		<script type="text/javascript">
+		$(function() {
+			$(':checkbox').attr('checked',false);
+			tableStart();
+		});
+		$(':checkbox').click(function() {
+			var checked = this.checked;
+			if (checked) {
+				$("td#effText").html("Efficiency");
+				$("td#tempoText").html("Tempo");
+$("td#OE").html("<a href=\"summary.php?s=RankAdjOE\">115.6</a> <span class=\"seed\">1</span>");
+$("td#OE").css("background-color",getColor(1,15));
+$("td#DE").html("<a href=\"summary.php?s=RankAdjDE\">102.6</a> <span class=\"seed\">4</span>");
+$("td#DE").css("background-color",getColor(4,15));
+$("td#Tempo").html("<span style=\"background-color:#f3e9db; padding:3px 8px\"><a href=\"summary.php?s=RankAdjTempo\">70.2</a> <span class=\"seed\">5</span></span>");
+$("td#APLO").html("<a href=\"summary.php?s=RankAPL_Off\">16.3</a> <span class=\"seed\">3</span>");
+$("td#APLO").css("background-color",getTempoColor(3,15));
+$("td#APLD").html("<a href=\"summary.php?s=RankAPL_Def\">17.9</a> <span class=\"seed\">8</span>");
+$("td#APLD").css("background-color",getTempoColor(8,15));
+$("td#eFG").html("<a href=\"stats.php?s=RankeFG_Pct\">51.9</a> <span class=\"seed\">10</span>");
+$("td#eFG").css("background-color",getColor(10,15));
+$("td#DeFG").html("<a href=\"stats.php?s=RankDeFG_Pct\">50.8</a> <span class=\"seed\">8</span>");
+$("td#DeFG").css("background-color",getColor(8,15));
+$("td#TOPct").html("<a href=\"stats.php?s=RankTO_Pct\">16.1</a> <span class=\"seed\">6</span>");
+$("td#TOPct").css("background-color",getColor(6,15));
+$("td#DTOPct").html("<a href=\"stats.php?s=RankDTO_Pct\">17.3</a> <span class=\"seed\">8</span>");
+$("td#DTOPct").css("background-color",getColor(8,15));
+$("td#ORPct").html("<a href=\"stats.php?s=RankOR_Pct\">42.1</a> <span class=\"seed\">1</span>");
+$("td#ORPct").css("background-color",getColor(1,15));
+$("td#DORPct").html("<a href=\"stats.php?s=RankDOR_Pct\">24.2</a> <span class=\"seed\">1</span>");
+$("td#DORPct").css("background-color",getColor(1,15));
+$("td#FTR").html("<a href=\"stats.php?s=RankFT_Rate\">28.1</a> <span class=\"seed\">13</span>");
+$("td#FTR").css("background-color",getColor(13,15));
+$("td#DFTR").html("<a href=\"stats.php?s=RankDFT_Rate\">32.7</a> <span class=\"seed\">9</span>");
+$("td#DFTR").css("background-color",getColor(9,15));
+				$("td#3Pct").html("<a href=\"teamstats.php?s=RankFG3Pct\">36.5</a> <span class=\"seed\">10</span>");
+				$("td#3Pct").css("background-color",getColor(10,15));
+				$("td#D3Pct").html("<a href=\"teamstats.php?s=RankFG3Pct&od=d\">35.9</a> <span class=\"seed\">7</span>");
+				$("td#D3Pct").css("background-color",getColor(7,15));
+				$("td#2Pct").html("<a href=\"teamstats.php?s=RankFG2Pct\">50.5</a> <span class=\"seed\">8</span>");
+				$("td#2Pct").css("background-color",getColor(8,15));
+				$("td#D2Pct").html("<a href=\"teamstats.php?s=RankFG2Pct&od=d\">48.6</a> <span class=\"seed\">6</span>");
+				$("td#D2Pct").css("background-color",getColor(6,15));
+				$("td#FTPct").html("<a href=\"teamstats.php?s=RankFTPct\">69.0</a> <span class=\"seed\">12</span>");
+				$("td#FTPct").css("background-color",getColor(12,15));
+				$("td#DFTPct").html("<a href=\"teamstats.php?s=RankFTPct&od=d\">71.6</a> <span class=\"seed\">8</span>");
+				$("td#DFTPct").css("background-color",getColor(8,15));
+				$("td#BlockPct").html("<a href=\"teamstats.php?s=RankBlockPct\">11.4</a> <span class=\"seed\">12</span>");
+				$("td#BlockPct").css("background-color",getColor(12,15));
+				$("td#DBlockPct").html("<a href=\"teamstats.php?s=RankBlockPct&od=d\">10.2</a> <span class=\"seed\">7</span>");
+				$("td#DBlockPct").css("background-color",getColor(7,15));
+				$("td#StlRate").html("<a href=\"teamstats.php?s=RankStlRate\">9.0</a> <span class=\"seed\">12</span>");
+				$("td#StlRate").css("background-color",getColor(12,15));
+				$("td#DStlRate").html("<a href=\"teamstats.php?s=RankStlRate&od=d\">9.0</a> <span class=\"seed\">7</span>");
+				$("td#DStlRate").css("background-color",getColor(7,15));
+				$("td#3PARate").html("<a href=\"teamstats.php?s=RankF3GRate\">31.4</a> <span class=\"seed\">14</span>");
+				$("td#D3PARate").html("<a href=\"teamstats.php?s=RankF3GRate&od=d\">40.8</a> <span class=\"seed\">15</span>");
+				$("td#ARate").html("<a href=\"teamstats.php?s=RankARate\">57.0</a> <span class=\"seed\">3</span>");
+				$("td#DARate").html("<a href=\"teamstats.php?s=RankARate&od=d\">50.4</a> <span class=\"seed\">6</span>");
+				$("td#PD3").html("<a href=\"pointdist.php?s=RankOff_3\">27.9</a> <span class=\"seed\">13</span>");
+				$("td#DPD3").html("<a href=\"pointdist.php?s=RankDef_3\">35.1</a> <span class=\"seed\">2</span>");
+				$("td#PD2").html("<a href=\"pointdist.php?s=RankOff_2\">56.3</a> <span class=\"seed\">2</span>");
+				$("td#DPD2").html("<a href=\"pointdist.php?s=RankDef_2\">46.1</a> <span class=\"seed\">14</span>");
+				$("td#PD1").html("<a href=\"pointdist.php?s=RankOff_1\">15.8</a> <span class=\"seed\">13</span>");
+				$("td#DPD1").html("<a href=\"pointdist.php?s=RankDef_1\">18.8</a> <span class=\"seed\">8</span>");
+			
+
+			}
+			else {
+				tableStart();
+			}
+			
+		});
+		function tableStart() {
+			$("td#effText").html("Adj. Efficiency");
+			$("td#tempoText").html("Adj. Tempo");
+$("td#OE").html("<a href=\"summary.php?s=RankAdjOE\">120.7</a> <span class=\"seed\">9</span>");
+$("td#OE").css("background-color",getColor(9,351));
+$("td#DE").html("<a href=\"summary.php?s=RankAdjDE\">92.5</a> <span class=\"seed\">11</span>");
+$("td#DE").css("background-color",getColor(11,351));
+$("td#Tempo").html("<span style=\"background-color:#f6cbae; padding:3px 8px\"><a href=\"summary.php?s=RankAdjTempo\">71.2</a> <span class=\"seed\">41</span></span>");
+$("td#APLO").html("<a href=\"summary.php?s=RankAPL_Off\">15.4</a> <span class=\"seed\">25</span>");
+$("td#APLO").css("background-color",getTempoColor(25,351));
+$("td#APLD").html("<a href=\"summary.php?s=RankAPL_Def\">17.7</a> <span class=\"seed\">261</span>");
+$("td#APLD").css("background-color",getTempoColor(261,351));
+			$("td#eFG").html("<a href=\"stats.php?s=RankeFG_Pct\">51.7</a> <span class=\"seed\">115</span>");
+			$("td#eFG").css("background-color",getColor(115,351));
+			$("td#DeFG").html("<a href=\"stats.php?s=RankDeFG_Pct\">48.1</a> <span class=\"seed\">71</span>");
+			$("td#DeFG").css("background-color",getColor(71,351));
+			$("td#TOPct").html("<a href=\"stats.php?s=RankTO_Pct\">16.2</a> <span class=\"seed\">39</span>");
+			$("td#TOPct").css("background-color",getColor(39,351));
+			$("td#DTOPct").html("<a href=\"stats.php?s=RankDTO_Pct\">18.6</a> <span class=\"seed\">168</span>");
+			$("td#DTOPct").css("background-color",getColor(168,351));
+			$("td#ORPct").html("<a href=\"stats.php?s=RankOR_Pct\">41.3</a> <span class=\"seed\">1</span>");
+			$("td#ORPct").css("background-color",getColor(1,351));
+			$("td#DORPct").html("<a href=\"stats.php?s=RankDOR_Pct\">25.0</a> <span class=\"seed\">25</span>");
+			$("td#DORPct").css("background-color",getColor(25,351));
+			$("td#FTR").html("<a href=\"stats.php?s=RankFT_Rate\">34.3</a> <span class=\"seed\">208</span>");
+			$("td#FTR").css("background-color",getColor(208,351));
+			$("td#DFTR").html("<a href=\"stats.php?s=RankDFT_Rate\">31.6</a> <span class=\"seed\">82</span>");
+			$("td#DFTR").css("background-color",getColor(82,351));
+			$("td#3Pct").html("<a href=\"teamstats.php?s=RankFG3Pct\">35.5</a> <span class=\"seed\">148</span>");
+			$("td#3Pct").css("background-color",getColor(148,351));
+			$("td#D3Pct").html("<a href=\"teamstats.php?s=RankFG3Pct&od=d\">33.9</a> <span class=\"seed\">110</span>");
+			$("td#D3Pct").css("background-color",getColor(110,351));
+			$("td#2Pct").html("<a href=\"teamstats.php?s=RankFG2Pct\">51.0</a> <span class=\"seed\">102</span>");
+			$("td#2Pct").css("background-color",getColor(102,351));
+			$("td#D2Pct").html("<a href=\"teamstats.php?s=RankFG2Pct&od=d\">46.3</a> <span class=\"seed\">59</span>");
+			$("td#D2Pct").css("background-color",getColor(59,351));
+			$("td#FTPct").html("<a href=\"teamstats.php?s=RankFTPct\">70.2</a> <span class=\"seed\">172</span>");
+			$("td#FTPct").css("background-color",getColor(172,351));
+			$("td#DFTPct").html("<a href=\"teamstats.php?s=RankFTPct&od=d\">72.7</a> <span class=\"seed\">292</span>");
+			$("td#DFTPct").css("background-color",getColor(292,351));
+			$("td#BlockPct").html("<a href=\"teamstats.php?s=RankBlockPct\">9.8</a> <span class=\"seed\">231</span>");
+			$("td#BlockPct").css("background-color",getColor(231,351));
+			$("td#DBlockPct").html("<a href=\"teamstats.php?s=RankBlockPct&od=d\">9.6</a> <span class=\"seed\">140</span>");
+			$("td#DBlockPct").css("background-color",getColor(140,351));
+			$("td#StlRate").html("<a href=\"teamstats.php?s=RankStlRate\">8.6</a> <span class=\"seed\">159</span>");
+			$("td#StlRate").css("background-color",getColor(159,351));
+			$("td#DStlRate").html("<a href=\"teamstats.php?s=RankStlRate&od=d\">9.6</a> <span class=\"seed\">99</span>");
+			$("td#DStlRate").css("background-color",getColor(99,351));
+			$("td#3PARate").html("<a href=\"teamstats.php?s=RankF3GRate\">30.3</a> <span class=\"seed\">306</span>");
+			$("td#D3PARate").html("<a href=\"teamstats.php?s=RankF3GRate&od=d\">39.3</a> <span class=\"seed\">273</span>");
+			$("td#ARate").html("<a href=\"teamstats.php?s=RankARate\">59.2</a> <span class=\"seed\">39</span>");
+			$("td#DARate").html("<a href=\"teamstats.php?s=RankARate&od=d\">46.9</a> <span class=\"seed\">48</span>");
+			$("td#PD3").html("<a href=\"pointdist.php?s=RankOff_3\">25.3</a> <span class=\"seed\">294</span>");
+			$("td#DPD3").html("<a href=\"pointdist.php?s=RankDef_3\">33.6</a> <span class=\"seed\">65</span>");
+			$("td#PD2").html("<a href=\"pointdist.php?s=RankOff_2\">55.8</a> <span class=\"seed\">38</span>");
+			$("td#DPD2").html("<a href=\"pointdist.php?s=RankDef_2\">47.2</a> <span class=\"seed\">271</span>");
+			$("td#PD1").html("<a href=\"pointdist.php?s=RankOff_1\">18.9</a> <span class=\"seed\">224</span>");
+			$("td#DPD1").html("<a href=\"pointdist.php?s=RankDef_1\">19.3</a> <span class=\"seed\">193</span>");
+			
+
+		}
+		function dechex(d) {return d.toString(16);}
+		function addZeroToHex(d,h) {
+			if (d<16) h = "0" + h;
+			return h.substr(0,2); 
+		}
+		function getColor(rank,teams) {
+			if (teams>1) {var decimalColor = (rank-1)/(teams-1);}
+			else {var decimalColor = 0.5;}
+			if (decimalColor<=.5) {
+			  	var fraction = Math.pow((1-(.5-decimalColor)/.5),.2);
+			  	var red = 94.9*fraction;
+				var green = (1-fraction)*1.96+98.04;
+				var blue = 99.22*fraction;
+			}
+			else {
+			  	var fraction = Math.pow((1+(.5-decimalColor)/.5),.2);
+				var red = (1-fraction)*5.1+94.9;
+				var green = 98.84*fraction;
+				var blue = fraction*99.22;
+			}
+			red=2.55*red;
+			green=2.55*green;
+			blue=2.55*blue;
+			var hexRed = dechex(red);	
+			var hexGreen = dechex(green);	
+			var hexBlue = dechex(blue);
+			hexRed = addZeroToHex(red,hexRed);	
+			hexGreen = addZeroToHex(green,hexGreen);	
+			hexBlue = addZeroToHex(blue,hexBlue);	
+			var bgColor = "#"+hexRed+hexGreen+hexBlue
+						
+			return bgColor;
+		}
+		function getTempoColor(rank,teams) {
+			if (teams>1) {var decimalColor = (rank-1)/(teams-1);}
+			else {var decimalColor = 0.5;}
+			if (decimalColor<=.5) {
+			  	var fraction = Math.pow((1-(.5-decimalColor)/.5),.25);
+			  	var red = (1-fraction)*5.1+94.9;
+				var green = 35+fraction*65;
+				var blue = 99.22*fraction;
+			}
+			else {
+			  	var fraction = (.6+Math.pow((1+(.5-decimalColor)/.5),.25))/1.6;
+				var red = fraction*94.9;
+				var green = fraction*100;
+				var blue = (1-fraction)*0.78+99.22;
+			}
+			red=2.55*red;
+			green=2.55*green;
+			blue=2.55*blue;
+			var hexRed = dechex(red);	
+			var hexGreen = dechex(green);	
+			var hexBlue = dechex(blue);
+			hexRed = addZeroToHex(red,hexRed);	
+			hexGreen = addZeroToHex(green,hexGreen);	
+			hexBlue = addZeroToHex(blue,hexBlue);	
+			var bgColor = "#"+hexRed+hexGreen+hexBlue
+						
+			return bgColor;
+		}
+		</script>		
+</div> <!-- end data-area div -->
+</div>
+<div id="team-footer">
+&copy; 1999-2017 The Forecast Factory LLC. All rights reserved.
+	
+	| <a href="terms.php">Terms of Use</a> | <a href="privacy.php">Privacy Policy</a>
+	| Stats provided by <a href="https://www.stats.com">STATS LLC</a><br />
+</div></div>
+	
+   <!-- end wrapper div -->
+
+</body>
+   
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.11.0/themes/smoothness/jquery-ui.min.css">
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/ui/1.11.0/jquery-ui.min.js"></script>
+<script>
+  $(function() {
+    var availableTags = [
+"Abilene Christian","Air Force","Akron","Alabama","Alabama A&M","Alabama St.","Albany","Alcorn St.","American","Appalachian St.",
+"Arizona","Arizona St.","Arkansas","Little Rock","Arkansas Pine Bluff","Arkansas St.","Army","Auburn","Austin Peay",
+"Ball St.","Baylor","Belmont","Bethune Cookman","Binghamton","Boise St.","Boston College","Boston University","Bowling Green",
+"Bradley","Brown","Bryant","Bucknell","Buffalo","Butler","BYU","Cal Poly","Cal St. Bakersfield","Cal St. Fullerton",
+"Cal St. Northridge","California","Campbell","Canisius","Central Arkansas","Central Connecticut","Central Michigan",
+"Charleston Southern","Charlotte","Chattanooga","Chicago St.","Cincinnati","Clemson","Cleveland St.","Coastal Carolina",
+"Colgate","College of Charleston","Colorado","Colorado St.","Columbia","Connecticut","Coppin St.","Cornell","Creighton",
+"Dartmouth","Davidson","Dayton","Delaware","Delaware St.","Denver","DePaul","Detroit","Drake","Drexel","Duke","Duquesne",
+"East Carolina","East Tennessee St.","Eastern Illinois","Eastern Kentucky","Eastern Michigan","Eastern Washington","Elon",
+"Evansville","Fairfield","Fairleigh Dickinson","FIU","Florida","Florida A&M","Florida Atlantic","Florida Gulf Coast","Florida St.",
+"Fordham","Fresno St.","Furman","Gardner Webb","George Mason","George Washington","Georgetown","Georgia","Georgia Southern",
+"Georgia St.","Georgia Tech","Gonzaga","Grambling St.","Grand Canyon","Green Bay","Hampton","Hartford","Harvard","Hawaii",
+"High Point","Hofstra","Holy Cross","Houston","Houston Baptist","Howard","Idaho","Idaho St.","Illinois","Illinois Chicago",
+"Illinois St.","Incarnate Word","Indiana","Indiana St.","Iona","Iowa","Iowa St.","Fort Wayne","IUPUI","Jackson St.","Jacksonville",
+"Jacksonville St.","James Madison","Kansas","Kansas St.","Kennesaw St.","Kent St.","Kentucky","La Salle","Lafayette","Lamar",
+"Lehigh","Liberty","Lipscomb","LIU Brooklyn","Long Beach St.","Longwood","Louisiana Lafayette","Louisiana Monroe","Louisiana Tech",
+"Louisville","Loyola Chicago","Loyola Marymount","Loyola MD","LSU","Maine","Manhattan","Marist","Marquette","Marshall","Maryland",
+"Maryland Eastern Shore","Massachusetts","McNeese St.","Memphis","Mercer","Miami FL","Miami OH","Michigan","Michigan St.",
+"Middle Tennessee","Milwaukee","Minnesota","Mississippi","Mississippi St.","Mississippi Valley St.","Missouri","Missouri St.",
+"Monmouth","Montana","Montana St.","Morehead St.","Morgan St.","Mount St. Mary's","Murray St.","Navy","Nebraska","Nebraska Omaha",
+"Nevada","New Hampshire","New Mexico","New Mexico St.","New Orleans","Niagara","Nicholls St.","NJIT","Norfolk St.",
+"North Carolina","North Carolina A&T","North Carolina Central","North Carolina St.","North Dakota","North Dakota St.",
+"North Florida","North Texas","Northeastern","Northern Arizona","Northern Colorado","Northern Illinois","Northern Iowa",
+"Northern Kentucky","Northwestern","Northwestern St.","Notre Dame","Oakland","Ohio","Ohio St.","Oklahoma","Oklahoma St.",
+"Old Dominion","Oral Roberts","Oregon","Oregon St.","Pacific","Penn","Penn St.","Pepperdine","Pittsburgh","Portland",
+"Portland St.","Prairie View A&M","Presbyterian","Princeton","Providence","Purdue","Quinnipiac","Radford","Rhode Island",
+"Rice","Richmond","Rider","Robert Morris","Rutgers","Sacramento St.","Sacred Heart","Saint Joseph's","Saint Louis",
+"Saint Mary's","Saint Peter's","Sam Houston St.","Samford","San Diego","San Diego St.","San Francisco","San Jose St.",
+"Santa Clara","Savannah St.","Seattle","Seton Hall","Siena","SIU Edwardsville","SMU","South Alabama","South Carolina",
+"South Carolina St.","South Dakota","South Dakota St.","South Florida","Southeast Missouri St.","Southeastern Louisiana",
+"Southern","Southern Illinois","Southern Miss","Southern Utah","St. Bonaventure","St. Francis NY","St. Francis PA","St. John's",
+"Stanford","Stephen F. Austin","Stetson","Stony Brook","Syracuse","TCU","Temple","Tennessee","Tennessee Martin","Tennessee St.",
+"Tennessee Tech","Texas","Texas A&M","Texas A&M Corpus Chris","UT Rio Grande Valley","Texas Southern","Texas St.","Texas Tech",
+"The Citadel","Toledo","Towson","Troy","Tulane","Tulsa","UAB","UC Davis","UC Irvine","UC Riverside","UC Santa Barbara","UCF",
+"UCLA","UMass Lowell","UMBC","UMKC","UNC Asheville","UNC Greensboro","UNC Wilmington","UNLV","USC","USC Upstate","UT Arlington",
+"Utah","Utah St.","Utah Valley","UTEP","UTSA","Valparaiso","Vanderbilt","VCU","Vermont","Villanova","Virginia","Virginia Tech",
+"VMI","Wagner","Wake Forest","Washington","Washington St.","Weber St.","West Virginia","Western Carolina","Western Illinois",
+"Western Kentucky","Western Michigan","Wichita St.","William & Mary","Winthrop","Wisconsin","Wofford","Wright St.","Wyoming",
+"Xavier","Yale","Youngstown St."
+    ];
+    $( "#teams" ).autocomplete({
+	  minLength: 2,
+      source: availableTags,
+      select: function(event, ui) {
+          location.href = '/team.php?team=' + ui.item.value.replace("&","%26");
+      }
+    
+    });
+  });
+$(function() {
+    var availableTags = ["Joe Scott","Dan Hipsher","Mark Gottfried","Vann Pettaway","Rob Spivery","Will Brown","Davey Whitney",
+"Jeff Jones","Houston Fancher","Lute Olson","Rob Evans","Nolan Richardson","Porter Moser","Harold Blevins","Dickey Nutt",
+"Pat Harris","Cliff Ellis","Dave Loos","Tim Buckley","Dave Bliss","Rick Byrd","Clifford Reed Jr","Al Walker","Duane Reboul",
+"Rod Jensen","Al Skinner","Dennis Wolff","Dan Dakich","Jim Molinari","Glen Miller","Pat Flannery","Reggie Witherspoon","Todd Lickliter",
+"Steve Cleveland","Kevin Bromley","Donny Daniels","Bobby Braswell","Ben Braun","Billy Lee","Mike MacDonald","Kevin Johnson",
+"Howie Dickenman","Jay Smith","Jim Platt","Bobby Lutz","Henry Dickerson","Bo Ellis","Bob Huggins","Larry Shyatt","Rollie Massimino",
+"Pete Strickland","Emmett Davis","John Kresse","Ricardo Patton","Dale Layer","Armond Hill","Jim Calhoun","Ron Mitchell",
+"Steve Donahue","Dana Altman","Dave Faucher","Bob McKillop","Oliver Purnell","David Henderson","Greg Jackson","Terry Carroll",
+"Pat Kennedy","Perry Watson","Kurt Kanaskie","Bruiser Flint","Mike Krzyzewski","Danny Nee","Bill Herrion","Ed DeChellis","Rick Samuels",
+"Travis Ford","Jim Boone","Ray Giacoletti","Mark Simons","Jim Crews","Tim O'Toole","Tom Green","Donnie Marsh","Billy Donovan",
+"Mike Gillespie","Sidney Green","Steve Robinson","Bob Hill","Jerry Tarkanian","Larry Davis","Rick Scruggs","Jim Larranaga","Karl Hobbs",
+"Craig Esherick","Jim Harrick","Jeff Price","Lefty Driesell","Paul Hewitt","Mark Few","Larry Wright","Mike Heideman","Steve Merfeld",
+"Larry Harrison","Frank Sullivan","Riley Wallace","Jerry Steele","Tom Pecora","Ralph Willard","Ray McCallum","Frankie Allen",
+"Leonard Perry","Doug Oliver","Bill Self","Jimmy Collins","Tom Richardson","Mike Davis","Royce Waltman","Jeff Ruland","Steve Alford",
+"Larry Eustachy","Doug Noll","Ron Hunter","Andy Stoglin","Hugh Durham","Mike LaPlante","Sherman Dillard","Roy Williams","Jim Wooldridge",
+"Stan Heath","Tubby Smith","Billy Hahn","Fran O'Hanlon","Mike Deane","Sal Mentesana","Mel Hankinson","Scott Sanderson","Ray Martin",
+"Wayne Morgan","Jessie Evans","Mike Vining","Keith Richard","Rick Pitino","Larry Farmer","Steve Aggers","Scott Hicks","John Brady",
+"John Giannini","Bobby Gonzalez","Dave Magarity","Tom Crean","Greg White","Gary Williams","Thomas Trotter","Steve Lappas","Tic Price",
+"John Calipari","Mark Slonaker","Perry Clark","Charlie Coles","Tommy Amaker","Tom Izzo","Randy Wiel","Bruce Pearl","Dan Monson","Rod Barnes",
+"Rick Stansbury","Lafayette Stribling","Quin Snyder","Dave Calloway","Don Holst","Mick Durham","Kyle Macy","Butch Beard","Derek Thompson",
+"Jim Phelan","Tevester Anderson","Don DeVoe","Barry Collier","Trent Johnson","Phil Rowe","Fran Fraschilla","Lou Henson","Monte Towe",
+"Joe Mihalich","Rickey Broussard","Wil Jones","Matt Doherty","Curtis Hunter","Herb Sendek","Johnny Jones","Ron Everhart","Mike Adras",
+"Rob Judson","Greg McDermott","Bill Carmody","Mike McConathy","Mike Brey","Greg Kampe","Tim O'Shea",
+"Jim O'Brien","Kelvin Sampson","Eddie Sutton","Blaine Taylor","Scott Sutton","Ernie Kent","Ritchie McKay","Bob Thomason",
+"Fran Dunphy","Jerry Dunn","Paul Westphal","Ben Howland","Michael Holton","Joel Sobotka","Elwood Plummer","John Thompson III",
+"Tim Welsh","Gene Keady","Joe DeSantis","Ron Bradley","Jim Baron","Willis Wilson","John Beilein","Don Harnum","Mark Schmidt",
+"Gary Waters","Jerome Jenkins","Dave Bike","Phil Martelli","Lorenzo Romar","Randy Bennett","Bob Leckie","Bob Marlin",
+"Jimmy Tillette","Brad Holland","Steve Fisher","Phillip Matthews","Phil Johnson","Dick Davey","Jack Grant","Louis Orr",
+"Rob Lanier","Mike Dement","John Pelphrey","Dave Odom","Cy Alexander","Seth Greenberg","Gary Garner","Billy Kennedy",
+"Ben Jobe","Bruce Weber","James Green","Bill Evans","Barry Hinson","Dennis Nutt","Jan van Breda Kolff","Ron Ganulin",
+"Bobby Jones","Mike Jarvis","Mike Montgomery","Danny Kaspar","Derek Waugh","Nick Macarchuk","Jim Boeheim","Billy Tubbs",
+"John Chaney","Buzz Peterson","Bret Campbell","Nolan Richardson III","Jeff Lebo","Rick Barnes","Melvin Watkins","Ronnie Arrow",
+"Bob Hoffman","Ronnie Courtney","Bob Knight","Pat Dennis","Stan Joplin","Michael Hunt","Don Maestri","Shawn Finney",
+"John Phillips","Murray Bartow","Pat Douglass","John Masi","Bob Williams","Kirk Speraw","Steve Lavin","Tom Sullivan",
+"Rich Zvosec","Eddie Biedenbach","Eddie Payne","Jerry Wainwright","Charlie Spoonhour","Henry Bibby","Eddie McCarter",
+"Rick Majerus","Stew Morrill","Jason Rabedeaux","Tim Carter","Homer Drew","Kevin Stallings","Mack McCarthy","Tom Brennan",
+"Jay Wright","Pete Gillen","Ricky Stokes","Bart Bellairs","Dereck Whittenburg","Skip Prosser","Bob Bender","Paul Graham",
+"Joe Cravens","Gale Catlett","Steve Shurina","Jim Kerwin","Dennis Felton","Robert McCullum","Mark Turgeon","Rick Boyages",
+"Gregg Marshall","Bo Ryan","Richard Johnson","Ed Schilling","Steve McClain","Thad Matta","James Jones","John Robic","Van Holt",
+"Greg Graham","Jim Les","Tom Herrion","Dave Leitao","Leonard Hamilton","Ray Lopes","Bobby Collins","Jim Christian","Billy Taylor",
+"Randy Dunton","Larry Reynolds","Jim Ferry","Kermit Davis Jr","Lynn Ramage","Brad Brownell","Ricky Blanton","Dwight Freeman",
+"Jay John","Heath Schroyer","Jerry Francis","Byron Samuels","Ed Daniels Jr","Brad Soderberg","Mike Sutton","Neil Dougherty",
+"Billy Gillispie","Mike Anderson","Scott Drew","Jeff Capel","Tod Kowalczyk","Mike Young","Samuel West","Steve Shields",
+"Bob Burton","Robbie Laing","Kevin Jones","Mike Garland","Joe Jones","Brian Gregory","Tom Davis","Murry Bartow","Ernie Nestor",
+"Michael Perry","Bart Lundy","Ted Woodward","Ron Jirsa","Milan Brown","Mick Cronin","Jerry Eaves","Jamie Dixon","Ben Betts",
+"Michael Grant","Matt Painter","Anthony Solomon","Kevin Clark","Dick Bennett","Derek Thomas","Darrin Horn","Steve Hawkins",
+"Tony Shaver","Paul Biancardi","Chris Mooney","Keith Dambrot","Gary Stewart","John Shulman","Terry Dunn","Mike Burns",
+"Sergio Rouco","Tom Penders","Dean Keener","Mike Gillian","Robert Lee","Jim Whitesell","Jimmy Patsos","Matt Brady",
+"Larry Lessett","Randy Monroe","Frank Haith","Larry Krystkowiak","Billy Lange","Fran McCaffery","Mark Fox","Lon Kruger",
+"JP Piper","Craig Rasmuson","Jim Saia","Chris Lowery","Jimmy Tubbs","Norm Roberts","Doc Sadler","Robert Davenport",
+"Dick Hunsaker","Sean Miller","Jeff Bzdelik","Lewis Jackson","Dave Rose","Rob Flaska","Barclay Radebaugh","Andy Kennedy",
+"Mike Miller","Jeff Neubauer","Charles Ramsey","Gil Jackson","Cliff Warren","Tony Ingle","Orlando Early","Rodney Tention",
+"Reggie Theus","Tim Miles","Matt Kilcullen","Ken Bone","Darrell Hawkins","Tommy Dempsey","George Nessman","Horace Broadnax",
+"Scott Nagy","Jim Yarbrough","Tim Floyd","Brian Nash","Steve Pikiell","Dave Dickerson","Doug Wojcik","David Spencer",
+"Mike Lonergan","Duggar Baucom","Larry Hunter","Rob Jeter","Jerry Slocum","Ronny Thompson","Craig Robinson","Tom Parrotta",
+"Ernie Zeigler","Bobby Cremins","Monte Ross","Ed Cooley","Rex Walters","Jeff Jackson","Kevin Nickelberry","Dan Leibovitz",
+"George Pfeifer","Joe O'Brien","Steve Roccaforte","Barry Rohrssen","Dave Simmons","Wayne Tinkle","Brad Huse","Donnie Tyndall",
+"Todd Bozeman","Benny Moss","Buzz Williams","Sidney Lowe","Bill Coen","Tad Boyle","Ben Jacobson","Sean Sutton","Vance Walberg",
+"Eric Reveno","Byron Rimm II","Fred Hill","Jamal Brown","Scott Edgar","John Dunne","Scott Cross","Tony Barbee","Tom Schuberth",
+"Brooks Thompson","Doug Davalos","Ed Conroy","Vonn Webb","Anthony Grant","Tony Bennett","Randy Rahe","James Paul Casciano",
+"Rand Chappell","Jeff Reynolds","Kevin O'Neill","Kevin Broadus","Brad Stevens","Keith Brown","Benjy Taylor","Keno Davis",
+"Kirk Earlywine","Marty Simmons","Eugene Harris","Dave Balza","Bob Nash","Tim Jankovich","Kevin McKenna","Kevin Willard",
+"Dane Fife","Frank Martin","Brett Reed","Kerry Rupp","Donnie Jones","Meredith Smith","Matt Brown","Marvin Menzies",
+"Joe Pasternack","Anthony Evans","Saul Phillips","Gregg Nibert","Sydney Johnson","Tom Moore","Brad Greenberg","Mike Rice",
+"Bill Grier","Kerry Keating","Roger Reid","Robert Moreland","Jim Boylen","Dino Gaudio","Randy Peele","Larry Smith",
+"Russ Pennell","George Ivory","Jesse Agel","Dave Paulsen","Greg Gary","Mark Phelps","Ricky Duckett","Don Verlin",
+"Geno Ford","Max Good","Chuck Martin","Derek Kellogg","Sean Woods","Cuonzo Martin","Jim Engles","John Groce","Tom Asbury",
+"Brian Katz","Zac Roman","Don Friday","Johnny Dawkins","Tony Harvey","Pat Knight","Gene Cross","Ken McDonald","Ron Cottrell",
+"Lennox Forrester","Zach Spiker","Mark Macon","Pat Chambers","Joe Callero","Matt Matheny","Greg Vetrone","Isiah Thomas",
+"Charlton Young","Bobby Washington","Edward Joyner Jr","Scott Cherry","Sean Kearney","Josh Pastner","David Carter",
+"LeVelle Moton","Brian Jones","Matthew Driscoll","Tyler Geving","Cameron Dollar","Dave Boots","Jason James","John Cooper",
+"Ryan Marks","Shaka Smart","Chris Mack","Jason Capel","Leon Rice","Adam Walsh","Corliss Williamson","Alan Major","Tracy Dildy",
+"Kyle Smith","Bill Courtney","Paul Cormier","Chris Holtmann","John Gallagher","Gib Arnold","Mo Cassara","James Dickey",
+"Howard Moore","Greg Lansing","Tim Cluess","Fred Hoiberg","Robert Burke","BJ Hill","Jerome Allen","Andrew Toole","Jason Hooten",
+"Mitch Buonaguro","Glenn Braica","Chuck Driesell","Russell Turner","Dan Hurley","Brian Wardle","Billy Donlon","Willie Hayes",
+"Luther Riley","Gravelle Craig","Matt Langel","Archie Miller","Rob Murphy","Jim Hayford","Clemon Johnson","Andy Enfield",
+"Rodney Terry","Deane Martin","Tony Jasick","Todd Howard","Lewis Preston","Rob Senderoff","Michael White","Steve Masiello",
+"Paul Lusk","King Rice","Steve Prohm","Wes Miller","Derrin Hansen","Dave Rice","Mark Montgomery","Marty Wilson","Mitch Henderson",
+"Mike Jones","Roman Banks","Casey Alexander","Steve Payne","Pat Skerry","Bryce Drew","John Becker","Ray Harper","Dave Pilipovich",
+"Mike Martin","Andy Newman","Kevin Ollie","Jay Spoonhour","Richard Pitino","Joseph Price","Dan Muller","Jack Perri","Aki Thomas",
+"Rick Ray","Chico Potts","Jamion Christian","Mark Slessinger","Tony Benford","Jack Murphy","Dave Bezold","Kevin Baggett",
+"Bennie Seltzer","Larry Brown","Nick Robinson","Rob Krimmel","Travis Williams","Chris Walker","Danny Manning","Jerod Haase",
+"James Johnson","Bashir Mason","Pat Kelsey","Mike Brennan","James Whitford","Bobby Hurley","Brandon Miller","Dedrique Taylor",
+"Kevin McGeehan","Clarence Finley","Will Wade","Greg Herenda","Joe Dooley","Niko Medved","Tim Craft","Mark Byington",
+"Wayne Brent","Jayson Gee","G.G. Smith","Jeff Bower","Kareem Richardson","Nicholas McDevitt","Craig Neal","Chris Casey",
+"Robert Jones","Chris Collins","Ron Verlin","Eddie Jordan","Anthony Latina","Dave Wojcik","Matthew Graves","Murray Garvin",
+"Joey James","Brad Underwood","Corey Williams","Phil Cunningham","Dennis Cutts","Joe Golding","Ken Burmeister","Dan Majerle",
+"Pat Duquette","Jim Fox","Chris Jans","Earl Grant","Keith Walker","Michael Curry","Shawn Walker","Jon Coffman","Jason Gardner",
+"Jimmy Lallathin","Mike Dunlap","Bob Walsh","Mike Maker","Steve Wojciechowski","Dan D'Antoni","Andre Payne","Kim Anderson",
+"Travis DeCuire","Brian Fish","Kevin Keatts","Dave Richman","Mike Rhoades","Scott Padgett","Craig Smith","Orlando Antigua",
+"Jay Ladner","Dana Ford","Billy Wright","Avery Johnson","Montez Robinson","Chris Beard","Michael Huger","Nathan Davis",
+"Nate Oats","Mark Price","Matt McCall","Steve Forbes","Dan McHale","Linc Darner","Eran Ganot","Eric Konkol","Matt McMahon",
+"Eric Musselman","John Brannen","Lamont Smith","Jon Harris","Chris Mullin","Tim Duryea","Mark Pope","Dan Earl","Richie Riley",
+"LaVall Jordan","Jeff Linder","Terry Porter","T.J. Otzelberger","Bacari Alexander","Lew Hill","Martin Inglesby","Byron Smith",
+"Allen Edwards","Jay Joyner","Mike Dunleavy","Donyell Marshall","Paul Weir","Dave McLaughlin","Rob Ehsan","Brian Kennedy",
+"Wes Flanagan","Matt Lottich","Brian Earl","Damon Stoudamire","Grant McCasland","Steve Henson","Maurice Joseph","Rodney Billups",
+"Jimmy Allen","Anthony Stewart","Ryan Odom","Jeff Boals","Kyle Keller","Louis Rowe"];
+                         
+    $( "#coaches" ).autocomplete({
+      minLength: 3,
+      source: availableTags,
+      select: function(event, ui) {
+          location.href = '/history.php?c=' + ui.item.value;
+      }
+    });
+  });  
+	$(function() {
+	    var availableTags = [
+];
+   $( "#players2" ).autocomplete({
+	 minLength: 4,
+     source: availableTags,
+     select: function(event, ui) {
+         location.href = '/getplayer.php?x=' + ui.item.value;
+     }
+   });
+ });  
+
+	// This adds 'placeholder' to the items listed in the jQuery .support object. 
+	jQuery(function() {
+	   jQuery.support.placeholder = false;
+	   test = document.createElement('input');
+	   if('placeholder' in test) jQuery.support.placeholder = true;
+	});
+	/*!
+	 * jQuery Placeholder Plugin v2.1.3
+	 * https://github.com/mathiasbynens/jquery-placeholder
+	 *
+	 * Copyright 2011, 2015 Mathias Bynens
+	 * Released under the MIT license
+	 */
+	(function(factory) {
+	    if (typeof define === 'function' && define.amd) {
+	        // AMD
+	        define(['jquery'], factory);
+	    } else if (typeof module === 'object' && module.exports) {
+	        factory(require('jquery'));
+	    } else {
+	        // Browser globals
+	        factory(jQuery);
+	    }
+	}(function($) {
+
+	    /****
+	     * Allows plugin behavior simulation in modern browsers for easier debugging. 
+	     * When setting to true, use attribute "placeholder-x" rather than the usual "placeholder" in your inputs/textareas 
+	     * i.e. <input type="text" placeholder-x="my placeholder text" />
+	     */
+	    var debugMode = false; 
+
+	    // Opera Mini v7 doesn't support placeholder although its DOM seems to indicate so
+	    var isOperaMini = Object.prototype.toString.call(window.operamini) === '[object OperaMini]';
+	    var isInputSupported = 'placeholder' in document.createElement('input') && !isOperaMini && !debugMode;
+	    var isTextareaSupported = 'placeholder' in document.createElement('textarea') && !isOperaMini && !debugMode;
+	    var valHooks = $.valHooks;
+	    var propHooks = $.propHooks;
+	    var hooks;
+	    var placeholder;
+	    var settings = {};
+
+	    if (isInputSupported && isTextareaSupported) {
+
+	        placeholder = $.fn.placeholder = function() {
+	            return this;
+	        };
+
+	        placeholder.input = true;
+	        placeholder.textarea = true;
+
+	    } else {
+
+	        placeholder = $.fn.placeholder = function(options) {
+
+	            var defaults = {customClass: 'placeholder'};
+	            settings = $.extend({}, defaults, options);
+
+	            return this.filter((isInputSupported ? 'textarea' : ':input') + '[' + (debugMode ? 'placeholder-x' : 'placeholder') + ']')
+	                .not('.'+settings.customClass)
+	                .not(':radio, :checkbox, :hidden')
+	                .bind({
+	                    'focus.placeholder': clearPlaceholder,
+	                    'blur.placeholder': setPlaceholder
+	                })
+	                .data('placeholder-enabled', true)
+	                .trigger('blur.placeholder');
+	        };
+
+	        placeholder.input = isInputSupported;
+	        placeholder.textarea = isTextareaSupported;
+
+	        hooks = {
+	            'get': function(element) {
+
+	                var $element = $(element);
+	                var $passwordInput = $element.data('placeholder-password');
+
+	                if ($passwordInput) {
+	                    return $passwordInput[0].value;
+	                }
+
+	                return $element.data('placeholder-enabled') && $element.hasClass(settings.customClass) ? '' : element.value;
+	            },
+	            'set': function(element, value) {
+
+	                var $element = $(element);
+	                var $replacement;
+	                var $passwordInput;
+
+	                if (value !== '') {
+
+	                    $replacement = $element.data('placeholder-textinput');
+	                    $passwordInput = $element.data('placeholder-password');
+
+	                    if ($replacement) {
+	                        clearPlaceholder.call($replacement[0], true, value) || (element.value = value);
+	                        $replacement[0].value = value;
+
+	                    } else if ($passwordInput) {
+	                        clearPlaceholder.call(element, true, value) || ($passwordInput[0].value = value);
+	                        element.value = value;
+	                    }
+	                }
+
+	                if (!$element.data('placeholder-enabled')) {
+	                    element.value = value;
+	                    return $element;
+	                }
+
+	                if (value === '') {
+	                    
+	                    element.value = value;
+	                    
+	                    // Setting the placeholder causes problems if the element continues to have focus.
+	                    if (element != safeActiveElement()) {
+	                        // We can't use `triggerHandler` here because of dummy text/password inputs :(
+	                        setPlaceholder.call(element);
+	                    }
+
+	                } else {
+	                    
+	                    if ($element.hasClass(settings.customClass)) {
+	                        clearPlaceholder.call(element);
+	                    }
+
+	                    element.value = value;
+	                }
+	                // `set` can not return `undefined`; see http://jsapi.info/jquery/1.7.1/val#L2363
+	                return $element;
+	            }
+	        };
+
+	        if (!isInputSupported) {
+	            valHooks.input = hooks;
+	            propHooks.value = hooks;
+	        }
+
+	        if (!isTextareaSupported) {
+	            valHooks.textarea = hooks;
+	            propHooks.value = hooks;
+	        }
+
+	        $(function() {
+	            // Look for forms
+	            $(document).delegate('form', 'submit.placeholder', function() {
+	                
+	                // Clear the placeholder values so they don't get submitted
+	                var $inputs = $('.'+settings.customClass, this).each(function() {
+	                    clearPlaceholder.call(this, true, '');
+	                });
+
+	                setTimeout(function() {
+	                    $inputs.each(setPlaceholder);
+	                }, 10);
+	            });
+	        });
+
+	        // Clear placeholder values upon page reload
+	        $(window).bind('beforeunload.placeholder', function() {
+	            $('.'+settings.customClass).each(function() {
+	                this.value = '';
+	            });
+	        });
+	    }
+
+	    function args(elem) {
+	        // Return an object of element attributes
+	        var newAttrs = {};
+	        var rinlinejQuery = /^jQuery\d+$/;
+
+	        $.each(elem.attributes, function(i, attr) {
+	            if (attr.specified && !rinlinejQuery.test(attr.name)) {
+	                newAttrs[attr.name] = attr.value;
+	            }
+	        });
+
+	        return newAttrs;
+	    }
+
+	    function clearPlaceholder(event, value) {
+	        
+	        var input = this;
+	        var $input = $(this);
+	        
+	        if (input.value === $input.attr((debugMode ? 'placeholder-x' : 'placeholder')) && $input.hasClass(settings.customClass)) {
+	            
+	            input.value = '';
+	            $input.removeClass(settings.customClass);
+
+	            if ($input.data('placeholder-password')) {
+
+	                $input = $input.hide().nextAll('input[type="password"]:first').show().attr('id', $input.removeAttr('id').data('placeholder-id'));
+	                
+	                // If `clearPlaceholder` was called from `$.valHooks.input.set`
+	                if (event === true) {
+	                    $input[0].value = value;
+
+	                    return value;
+	                }
+
+	                $input.focus();
+
+	            } else {
+	                input == safeActiveElement() && input.select();
+	            }
+	        }
+	    }
+
+	    function setPlaceholder(event) {
+	        var $replacement;
+	        var input = this;
+	        var $input = $(this);
+	        var id = input.id;
+
+	        // If the placeholder is activated, triggering blur event (`$input.trigger('blur')`) should do nothing.
+	        if (event && event.type === 'blur' && $input.hasClass(settings.customClass)) {
+	            return;
+	        }
+
+	        if (input.value === '') {
+	            if (input.type === 'password') {
+	                if (!$input.data('placeholder-textinput')) {
+	                    
+	                    try {
+	                        $replacement = $input.clone().prop({ 'type': 'text' });
+	                    } catch(e) {
+	                        $replacement = $('<input>').attr($.extend(args(this), { 'type': 'text' }));
+	                    }
+
+	                    $replacement
+	                        .removeAttr('name')
+	                        .data({
+	                            'placeholder-enabled': true,
+	                            'placeholder-password': $input,
+	                            'placeholder-id': id
+	                        })
+	                        .bind('focus.placeholder', clearPlaceholder);
+
+	                    $input
+	                        .data({
+	                            'placeholder-textinput': $replacement,
+	                            'placeholder-id': id
+	                        })
+	                        .before($replacement);
+	                }
+
+	                input.value = '';
+	                $input = $input.removeAttr('id').hide().prevAll('input[type="text"]:first').attr('id', $input.data('placeholder-id')).show();
+
+	            } else {
+	                
+	                var $passwordInput = $input.data('placeholder-password');
+
+	                if ($passwordInput) {
+	                    $passwordInput[0].value = '';
+	                    $input.attr('id', $input.data('placeholder-id')).show().nextAll('input[type="password"]:last').hide().removeAttr('id');
+	                }
+	            }
+
+	            $input.addClass(settings.customClass);
+	            $input[0].value = $input.attr((debugMode ? 'placeholder-x' : 'placeholder'));
+
+	        } else {
+	            $input.removeClass(settings.customClass);
+	        }
+	    }
+
+	    function safeActiveElement() {
+	        // Avoid IE9 `document.activeElement` of death
+	        try {
+	            return document.activeElement;
+	        } catch (exception) {}
+	    }
+	}));
+	$('input, textarea').placeholder();
+</script>
+
+<script type='text/javascript'>
+$(function() {
+	$( 'th' ).tooltip({    
+		position: {
+        	  my: "center bottom-10",
+        	  at: "center"
+    	},
+    	content: function() {
+        	return $(this).attr('title');
+    	}
+	});
+});
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11558853-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</html>
+
+

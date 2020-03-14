@@ -1,0 +1,770 @@
+<table id="schedule-table">
+<tbody>
+</tbody><thead>
+<tr>
+<th scope="col" width="12"></th>
+<th scope="col" style="width:40px"></th><th scope="col"></th>
+<th style="text-align:left;width:136px;">Opponent</th>
+<th scope="col" style="width:64px;">Result</th>
+<th scope="col" style="width:20px"></th>
+<th scope="col" style="width:62px">Site</th>
+<th scope="col"></th>
+<th width="17"></th>
+<th scope="col">St</th><th scope="col">MP</th>
+<th scope="col">ORtg</th><th scope="col">%Ps</th>
+<th scope="col">Pts</th><th scope="col" style="width:37px">2Pt</th>
+<th scope="col" style="width:37px">3Pt</th><th scope="col" style="width:37px">FT</th>
+<th scope="col" style="width:18px">OR</th><th scope="col" style="width:18px">DR</th>
+<th scope="col" style="width:18px">A</th><th scope="col" style="width:18px">TO</th>
+<th scope="col" style="width:18px">Blk</th><th scope="col" style="width:18px">Stl</th>
+<th scope="col" style="width:18px">PF</th>
+<th scope="col" width="12"></th>
+</tr>
+</thead>
+<tbody><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-03-29">Mar 29</a></td>
+<td class="rank">5</td><td class="opp"><a href="team.php?team=Wisconsin&amp;y=2014">Wisconsin</a></td>
+<td><a href="box.php?g=6236&amp;y=2014">L, 64-63</a></td>
+<td style="font-size:12px">OT</td><td style="font-size:12px">Neutral</td><td style="font-size:10px">NCAA-T</td><td></td><td>•</td>
+<td>29</td>
+<td>42</td>
+<td>5</td>
+<td>1</td>
+<td>0-2</td>
+<td class="zero">0-0</td>
+<td>1-2</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="w">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-03-27">Mar 27</a></td>
+<td class="rank">23</td><td class="opp"><a href="team.php?team=San+Diego+St.&amp;y=2014">San Diego St.</a></td>
+<td><a href="box.php?g=6222&amp;y=2014">W, 70-64</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td style="font-size:10px">NCAA-T</td><td></td><td>•</td>
+<td>27</td>
+<td>96</td>
+<td>15</td>
+<td>4</td>
+<td>0-2</td>
+<td>1-4</td>
+<td>1-2</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>4</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="w">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-03-23">Mar 23</a></td>
+<td class="rank">24</td><td class="opp"><a href="team.php?team=Gonzaga&amp;y=2014">Gonzaga</a></td>
+<td><a href="box.php?g=6195&amp;y=2014">W, 84-61</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td style="font-size:10px">NCAA-T</td><td></td><td>•</td>
+<td>25</td>
+<td>103</td>
+<td>22</td>
+<td>11</td>
+<td>3-5</td>
+<td>1-5</td>
+<td>2-3</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>1</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2014-03-21">Mar 21</a></td>
+<td class="rank">172</td><td class="opp"><a href="team.php?team=Weber+St.&amp;y=2014">Weber St.</a></td>
+<td><a href="box.php?g=6072&amp;y=2014">W, 68-59</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td style="font-size:10px">NCAA-T</td><td></td><td>•</td>
+<td>30</td>
+<td>125</td>
+<td>16</td>
+<td>9</td>
+<td>1-2</td>
+<td>2-4</td>
+<td>1-2</td>
+<td class="zero">0</td>
+<td>4</td>
+<td>3</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-03-15">Mar 15</a></td>
+<td class="rank">14</td><td class="opp"><a href="team.php?team=UCLA&amp;y=2014">UCLA</a></td>
+<td><a href="box.php?g=6044&amp;y=2014">L, 75-71</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td style="font-size:10px">P12-T</td><td></td><td></td>
+<td>20</td>
+<td>130</td>
+<td>17</td>
+<td>11</td>
+<td>1-1</td>
+<td>3-7</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="w">
+<td><img height="12" src="https://kenpom.com/assets/b.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-03-14">Mar 14</a></td>
+<td class="rank">67</td><td class="opp"><a href="team.php?team=Colorado&amp;y=2014">Colorado</a></td>
+<td><a href="box.php?g=5993&amp;y=2014">W, 63-43</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td style="font-size:10px">P12-T</td><td></td><td>•</td>
+<td>27</td>
+<td>83</td>
+<td>12</td>
+<td>3</td>
+<td class="zero">0-0</td>
+<td>1-5</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/b.gif"/></td></tr><tr class="w">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-03-13">Mar 13</a></td>
+<td class="rank">40</td><td class="opp"><a href="team.php?team=Utah&amp;y=2014">Utah</a></td>
+<td><a href="box.php?g=5955&amp;y=2014">W, 71-39</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td style="font-size:10px">P12-T</td><td></td><td>•</td>
+<td>29</td>
+<td>104</td>
+<td>14</td>
+<td>6</td>
+<td>0-2</td>
+<td>2-6</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>3</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-03-08">Mar 8</a></td>
+<td class="rank">28</td><td class="opp"><a href="team.php?team=Oregon&amp;y=2014">Oregon</a></td>
+<td><a href="box.php?g=5325&amp;y=2014">L, 64-57</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">P12</td><td></td><td>•</td>
+<td>28</td>
+<td>36</td>
+<td>8</td>
+<td>0</td>
+<td>0-1</td>
+<td>0-2</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>4</td>
+<td>3</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="zero">0</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="w">
+<td><img height="12" src="https://kenpom.com/assets/b.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-03-05">Mar 5</a></td>
+<td class="rank">107</td><td class="opp"><a href="team.php?team=Oregon+St.&amp;y=2014">Oregon St.</a></td>
+<td><a href="box.php?g=5197&amp;y=2014">W, 74-69</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">P12</td><td></td><td>•</td>
+<td>27</td>
+<td>138</td>
+<td>14</td>
+<td>12</td>
+<td class="zero">0-0</td>
+<td>4-9</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/b.gif"/></td></tr><tr class="w">
+<td><img height="12" src="https://kenpom.com/assets/b.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-03-02">Mar 2</a></td>
+<td class="rank">34</td><td class="opp"><a href="team.php?team=Stanford&amp;y=2014">Stanford</a></td>
+<td><a href="box.php?g=5158&amp;y=2014">W, 79-66</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">P12</td><td></td><td></td>
+<td>24</td>
+<td>116</td>
+<td>18</td>
+<td>12</td>
+<td>1-4</td>
+<td>3-5</td>
+<td>1-1</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/b.gif"/></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2014-02-26">Feb 26</a></td>
+<td class="rank">60</td><td class="opp"><a href="team.php?team=California&amp;y=2014">California</a></td>
+<td><a href="box.php?g=4901&amp;y=2014">W, 87-59</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">P12</td><td></td><td>•</td>
+<td>26</td>
+<td>122</td>
+<td>14</td>
+<td>3</td>
+<td>0-4</td>
+<td>1-3</td>
+<td class="zero">0-0</td>
+<td>4</td>
+<td>1</td>
+<td>5</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-02-22">Feb 22</a></td>
+<td class="rank">67</td><td class="opp"><a href="team.php?team=Colorado&amp;y=2014">Colorado</a></td>
+<td><a href="box.php?g=4719&amp;y=2014">W, 88-61</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">P12</td><td></td><td>•</td>
+<td>30</td>
+<td>105</td>
+<td>9</td>
+<td>4</td>
+<td>0-1</td>
+<td>1-3</td>
+<td>1-2</td>
+<td class="zero">0</td>
+<td>10</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="w">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-02-19">Feb 19</a></td>
+<td class="rank">40</td><td class="opp"><a href="team.php?team=Utah&amp;y=2014">Utah</a></td>
+<td><a href="box.php?g=4545&amp;y=2014">W, 67-63</a></td>
+<td style="font-size:12px">OT</td><td style="font-size:12px">Away</td><td style="font-size:10px">P12</td><td><span style="font-size:10px; color:#a17f1a; font-style:italic">MVP</span></td><td>•</td>
+<td>36</td>
+<td>128</td>
+<td>18</td>
+<td>15</td>
+<td>3-4</td>
+<td>3-6</td>
+<td class="zero">0-0</td>
+<td>1</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-02-14">Feb 14</a></td>
+<td class="rank">39</td><td class="opp"><a href="team.php?team=Arizona+St.&amp;y=2014">Arizona St.</a></td>
+<td><a href="box.php?g=4340&amp;y=2014">L, 69-66</a></td>
+<td style="font-size:12px">2OT</td><td style="font-size:12px">Away</td><td style="font-size:10px">P12</td><td></td><td></td>
+<td>14</td>
+<td>14</td>
+<td>23</td>
+<td>0</td>
+<td>0-2</td>
+<td>0-4</td>
+<td class="zero">0-0</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2014-02-09">Feb 9</a></td>
+<td class="rank">107</td><td class="opp"><a href="team.php?team=Oregon+St.&amp;y=2014">Oregon St.</a></td>
+<td><a href="box.php?g=4172&amp;y=2014">W, 76-54</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">P12</td><td></td><td></td>
+<td>23</td>
+<td>87</td>
+<td>11</td>
+<td>3</td>
+<td>0-2</td>
+<td>1-2</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td><img height="12" src="https://kenpom.com/assets/b.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-02-06">Feb 6</a></td>
+<td class="rank">28</td><td class="opp"><a href="team.php?team=Oregon&amp;y=2014">Oregon</a></td>
+<td><a href="box.php?g=3983&amp;y=2014">W, 67-65</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">P12</td><td></td><td></td>
+<td>24</td>
+<td>118</td>
+<td>16</td>
+<td>8</td>
+<td>1-1</td>
+<td>1-2</td>
+<td>3-6</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/b.gif"/></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-02-01">Feb 1</a></td>
+<td class="rank">60</td><td class="opp"><a href="team.php?team=California&amp;y=2014">California</a></td>
+<td><a href="box.php?g=3699&amp;y=2014">L, 60-58</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">P12</td><td></td><td></td>
+<td>20</td>
+<td>105</td>
+<td>12</td>
+<td>5</td>
+<td>1-2</td>
+<td>1-2</td>
+<td class="zero">0-0</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="w">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-01-29">Jan 29</a></td>
+<td class="rank">34</td><td class="opp"><a href="team.php?team=Stanford&amp;y=2014">Stanford</a></td>
+<td><a href="box.php?g=3590&amp;y=2014">W, 60-57</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">P12</td><td></td><td></td>
+<td>16</td>
+<td>176</td>
+<td>11</td>
+<td>5</td>
+<td class="zero">0-0</td>
+<td>1-2</td>
+<td>2-2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="w">
+<td><img height="12" src="https://kenpom.com/assets/b.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-01-26">Jan 26</a></td>
+<td class="rank">40</td><td class="opp"><a href="team.php?team=Utah&amp;y=2014">Utah</a></td>
+<td><a href="box.php?g=3519&amp;y=2014">W, 65-56</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">P12</td><td></td><td></td>
+<td>14</td>
+<td>106</td>
+<td>14</td>
+<td>3</td>
+<td>1-1</td>
+<td>0-3</td>
+<td>1-1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/b.gif"/></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2014-01-23">Jan 23</a></td>
+<td class="rank">67</td><td class="opp"><a href="team.php?team=Colorado&amp;y=2014">Colorado</a></td>
+<td><a href="box.php?g=3327&amp;y=2014">W, 69-57</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">P12</td><td></td><td></td>
+<td>21</td>
+<td>112</td>
+<td>24</td>
+<td>9</td>
+<td>1-2</td>
+<td>2-7</td>
+<td>1-2</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>3</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="w">
+<td><img height="12" src="https://kenpom.com/assets/b.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-01-16">Jan 16</a></td>
+<td class="rank">39</td><td class="opp"><a href="team.php?team=Arizona+St.&amp;y=2014">Arizona St.</a></td>
+<td><a href="box.php?g=3000&amp;y=2014">W, 91-68</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">P12</td><td></td><td></td>
+<td>21</td>
+<td>124</td>
+<td>19</td>
+<td>10</td>
+<td>0-2</td>
+<td>3-5</td>
+<td>1-2</td>
+<td>1</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>4</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/b.gif"/></td></tr><tr class="w">
+<td><img height="12" src="https://kenpom.com/assets/b.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-01-12">Jan 12</a></td>
+<td class="rank">151</td><td class="opp"><a href="team.php?team=USC&amp;y=2014">USC</a></td>
+<td><a href="box.php?g=2854&amp;y=2014">W, 73-53</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">P12</td><td></td><td></td>
+<td>11</td>
+<td>53</td>
+<td>26</td>
+<td>2</td>
+<td>0-1</td>
+<td>0-3</td>
+<td>2-2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/b.gif"/></td></tr><tr class="w">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-01-09">Jan 9</a></td>
+<td class="rank">14</td><td class="opp"><a href="team.php?team=UCLA&amp;y=2014">UCLA</a></td>
+<td><a href="box.php?g=2678&amp;y=2014">W, 79-75</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">P12</td><td></td><td></td>
+<td>18</td>
+<td>164</td>
+<td>21</td>
+<td>12</td>
+<td class="zero">0-0</td>
+<td>3-6</td>
+<td>3-4</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2014-01-04">Jan 4</a></td>
+<td class="rank">98</td><td class="opp"><a href="team.php?team=Washington&amp;y=2014">Washington</a></td>
+<td><a href="box.php?g=2407&amp;y=2014">W, 71-62</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">P12</td><td></td><td></td>
+<td>17</td>
+<td>122</td>
+<td>12</td>
+<td>5</td>
+<td>1-3</td>
+<td>1-2</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2014-01-02">Jan 2</a></td>
+<td class="rank">190</td><td class="opp"><a href="team.php?team=Washington+St.&amp;y=2014">Washington St.</a></td>
+<td><a href="box.php?g=2298&amp;y=2014">W, 60-25</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">P12</td><td></td><td></td>
+<td>22</td>
+<td>136</td>
+<td>14</td>
+<td>7</td>
+<td class="zero">0-0</td>
+<td>2-3</td>
+<td>1-2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-12-23">Dec 23</a></td>
+<td class="rank">262</td><td class="opp"><a href="team.php?team=Northern+Arizona&amp;y=2014">Northern Arizona</a></td>
+<td><a href="box.php?g=2047&amp;y=2014">W, 77-44</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td></td>
+<td>26</td>
+<td>168</td>
+<td>16</td>
+<td>10</td>
+<td>2-3</td>
+<td>2-4</td>
+<td class="zero">0-0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>4</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>4</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-12-19">Dec 19</a></td>
+<td class="rank">198</td><td class="opp"><a href="team.php?team=Southern&amp;y=2014">Southern</a></td>
+<td><a href="box.php?g=1870&amp;y=2014">W, 69-43</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td></td>
+<td>22</td>
+<td>121</td>
+<td>12</td>
+<td>6</td>
+<td>0-1</td>
+<td>2-3</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="w">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2013-12-14">Dec 14</a></td>
+<td class="rank">12</td><td class="opp"><a href="team.php?team=Michigan&amp;y=2014">Michigan</a></td>
+<td><a href="box.php?g=1633&amp;y=2014">W, 72-70</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td></td>
+<td>13</td>
+<td>72</td>
+<td>27</td>
+<td>4</td>
+<td>0-3</td>
+<td>1-3</td>
+<td>1-2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-12-11">Dec 11</a></td>
+<td class="rank">72</td><td class="opp"><a href="team.php?team=New+Mexico+St.&amp;y=2014">New Mexico St.</a></td>
+<td><a href="box.php?g=1588&amp;y=2014">W, 74-48</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td></td>
+<td>23</td>
+<td>30</td>
+<td>8</td>
+<td>1</td>
+<td>0-1</td>
+<td>0-2</td>
+<td>1-2</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-12-07">Dec 7</a></td>
+<td class="rank">79</td><td class="opp"><a href="team.php?team=UNLV&amp;y=2014">UNLV</a></td>
+<td><a href="box.php?g=1478&amp;y=2014">W, 63-58</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td></td>
+<td>6</td>
+<td>-</td><td>-</td>
+<td>0</td>
+<td class="zero">0-0</td>
+<td>0-1</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-12-03">Dec 3</a></td>
+<td class="rank">80</td><td class="opp"><a href="team.php?team=Texas+Tech&amp;y=2014">Texas Tech</a></td>
+<td><a href="box.php?g=1282&amp;y=2014">W, 79-58</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td></td>
+<td>20</td>
+<td>118</td>
+<td>22</td>
+<td>8</td>
+<td>1-4</td>
+<td>2-6</td>
+<td class="zero">0-0</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="w">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2013-11-29">Nov 29</a></td>
+<td class="rank">8</td><td class="opp"><a href="team.php?team=Duke&amp;y=2014">Duke</a></td>
+<td><a href="box.php?g=5482&amp;y=2014">W, 72-66</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td></td><td></td><td></td>
+<td>14</td>
+<td>125</td>
+<td>18</td>
+<td>7</td>
+<td>1-1</td>
+<td>1-4</td>
+<td>2-2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-11-27">Nov 27</a></td>
+<td class="rank">129</td><td class="opp"><a href="team.php?team=Drexel&amp;y=2014">Drexel</a></td>
+<td><a href="box.php?g=5404&amp;y=2014">W, 66-62</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td></td><td></td><td></td>
+<td>14</td>
+<td>46</td>
+<td>21</td>
+<td>2</td>
+<td>0-4</td>
+<td>0-2</td>
+<td>2-2</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-11-19">Nov 19</a></td>
+<td class="rank">115</td><td class="opp"><a href="team.php?team=Rhode+Island&amp;y=2014">Rhode Island</a></td>
+<td><a href="box.php?g=5402&amp;y=2014">W, 87-59</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td></td>
+<td>21</td>
+<td>117</td>
+<td>15</td>
+<td>8</td>
+<td>1-2</td>
+<td>2-4</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-11-18">Nov 18</a></td>
+<td class="rank">282</td><td class="opp"><a href="team.php?team=Fairleigh+Dickinson&amp;y=2014">Fairleigh Dickinson</a></td>
+<td><a href="box.php?g=601&amp;y=2014">W, 100-50</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td></td>
+<td>19</td>
+<td>196</td>
+<td>18</td>
+<td>20</td>
+<td>4-5</td>
+<td>4-6</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="w">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2013-11-14">Nov 14</a></td>
+<td class="rank">23</td><td class="opp"><a href="team.php?team=San+Diego+St.&amp;y=2014">San Diego St.</a></td>
+<td><a href="box.php?g=405&amp;y=2014">W, 69-60</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td></td>
+<td>22</td>
+<td>71</td>
+<td>14</td>
+<td>4</td>
+<td>1-3</td>
+<td>0-2</td>
+<td>2-2</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-11-11">Nov 11</a></td>
+<td class="rank">144</td><td class="opp"><a href="team.php?team=Long+Beach+St.&amp;y=2014">Long Beach St.</a></td>
+<td><a href="box.php?g=231&amp;y=2014">W, 91-57</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td><span style="font-size:10px; color:#a17f1a; font-style:italic">MVP</span></td><td></td>
+<td>23</td>
+<td>200</td>
+<td>18</td>
+<td>14</td>
+<td class="zero">0-0</td>
+<td>4-7</td>
+<td>2-2</td>
+<td class="zero">0</td>
+<td>4</td>
+<td>6</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2013-11-08">Nov 8</a></td>
+<td class="rank">176</td><td class="opp"><a href="team.php?team=Cal+Poly&amp;y=2014">Cal Poly</a></td>
+<td><a href="box.php?g=12&amp;y=2014">W, 73-62</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td>•</td>
+<td>26</td>
+<td>122</td>
+<td>21</td>
+<td>12</td>
+<td>1-2</td>
+<td>2-4</td>
+<td>4-7</td>
+<td class="zero">0</td>
+<td>5</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr></tbody><thead>
+<tr>
+<th scope="col" width="12"></th>
+<th scope="col" style="width:40px"></th><th scope="col"></th>
+<th style="text-align:left;width:136px;">Opponent</th>
+<th scope="col" style="width:64px;">Result</th>
+<th scope="col" style="width:20px"></th>
+<th scope="col" style="width:62px">Site</th>
+<th scope="col"></th>
+<th width="17"></th>
+<th scope="col">St</th><th scope="col">MP</th>
+<th scope="col">ORtg</th><th scope="col">%Ps</th>
+<th scope="col">Pts</th><th scope="col" style="width:37px">2Pt</th>
+<th scope="col" style="width:37px">3Pt</th><th scope="col" style="width:37px">FT</th>
+<th scope="col" style="width:18px">OR</th><th scope="col" style="width:18px">DR</th>
+<th scope="col" style="width:18px">A</th><th scope="col" style="width:18px">TO</th>
+<th scope="col" style="width:18px">Blk</th><th scope="col" style="width:18px">Stl</th>
+<th scope="col" style="width:18px">PF</th>
+<th scope="col" width="12"></th>
+</tr>
+</thead>
+</table>

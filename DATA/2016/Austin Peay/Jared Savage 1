@@ -1,0 +1,729 @@
+<table id="schedule-table">
+<tbody>
+</tbody><thead>
+<tr>
+<th scope="col" width="12"></th>
+<th scope="col" style="width:40px"></th><th scope="col"></th>
+<th style="text-align:left;width:136px;">Opponent</th>
+<th scope="col" style="width:64px;">Result</th>
+<th scope="col" style="width:20px"></th>
+<th scope="col" style="width:62px">Site</th>
+<th scope="col"></th>
+<th width="17"></th>
+<th scope="col">St</th><th scope="col">MP</th>
+<th scope="col">ORtg</th><th scope="col">%Ps</th>
+<th scope="col">Pts</th><th scope="col" style="width:37px">2Pt</th>
+<th scope="col" style="width:37px">3Pt</th><th scope="col" style="width:37px">FT</th>
+<th scope="col" style="width:18px">OR</th><th scope="col" style="width:18px">DR</th>
+<th scope="col" style="width:18px">A</th><th scope="col" style="width:18px">TO</th>
+<th scope="col" style="width:18px">Blk</th><th scope="col" style="width:18px">Stl</th>
+<th scope="col" style="width:18px">PF</th>
+<th scope="col" width="12"></th>
+</tr>
+</thead>
+<tbody><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2016-03-17">Mar 17</a></td>
+<td class="rank">3</td><td class="opp"><a href="team.php?team=Kansas&amp;y=2016">Kansas</a></td>
+<td><a href="box.php?g=5862&amp;y=2016">L, 105-79</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td style="font-size:10px">NCAA-T</td><td></td><td>•</td>
+<td>28</td>
+<td>79</td>
+<td>11</td>
+<td>4</td>
+<td>1-3</td>
+<td>0-3</td>
+<td>2-3</td>
+<td>1</td>
+<td>4</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>4</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2016-03-05">Mar 5</a></td>
+<td class="rank">209</td><td class="opp"><a href="team.php?team=Tennessee+Martin&amp;y=2016">Tennessee Martin</a></td>
+<td><a href="box.php?g=5646&amp;y=2016">W, 83-73</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td style="font-size:10px">OVC-T</td><td></td><td>•</td>
+<td>38</td>
+<td>146</td>
+<td>19</td>
+<td>24</td>
+<td class="zero">0-0</td>
+<td>8-14</td>
+<td class="zero">0-0</td>
+<td>1</td>
+<td>8</td>
+<td>2</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2016-03-04">Mar 4</a></td>
+<td class="rank">129</td><td class="opp"><a href="team.php?team=Belmont&amp;y=2016">Belmont</a></td>
+<td><a href="box.php?g=5619&amp;y=2016">W, 97-96</a></td>
+<td style="font-size:12px">OT</td><td style="font-size:12px">Semi-Away</td><td style="font-size:10px">OVC-T</td><td></td><td>•</td>
+<td>45</td>
+<td>223</td>
+<td>10</td>
+<td>21</td>
+<td>2-2</td>
+<td>5-7</td>
+<td>2-2</td>
+<td>1</td>
+<td>4</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2016-03-03">Mar 3</a></td>
+<td class="rank">164</td><td class="opp"><a href="team.php?team=Tennessee+St.&amp;y=2016">Tennessee St.</a></td>
+<td><a href="box.php?g=5610&amp;y=2016">W, 74-72</a></td>
+<td></td><td style="font-size:12px">Semi-Away</td><td style="font-size:10px">OVC-T</td><td></td><td>•</td>
+<td>35</td>
+<td>127</td>
+<td>14</td>
+<td>13</td>
+<td>1-2</td>
+<td>3-6</td>
+<td>2-3</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2016-03-02">Mar 2</a></td>
+<td class="rank">196</td><td class="opp"><a href="team.php?team=Tennessee+Tech&amp;y=2016">Tennessee Tech</a></td>
+<td><a href="box.php?g=5592&amp;y=2016">W, 92-72</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td style="font-size:10px">OVC-T</td><td></td><td>•</td>
+<td>22</td>
+<td>148</td>
+<td>13</td>
+<td>9</td>
+<td class="zero">0-0</td>
+<td>3-7</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>4</td>
+<td>3</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>4</td>
+<td class="divide"></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2016-02-27">Feb 27</a></td>
+<td class="rank">340</td><td class="opp"><a href="team.php?team=Southeast+Missouri+St.&amp;y=2016">Southeast Missouri St.</a></td>
+<td><a href="box.php?g=5084&amp;y=2016">W, 83-75</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">OVC</td><td></td><td>•</td>
+<td>24</td>
+<td>151</td>
+<td>10</td>
+<td>8</td>
+<td>1-1</td>
+<td>2-5</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>4</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>3</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2016-02-25">Feb 25</a></td>
+<td class="rank">311</td><td class="opp"><a href="team.php?team=SIU+Edwardsville&amp;y=2016">SIU Edwardsville</a></td>
+<td><a href="box.php?g=4967&amp;y=2016">W, 80-75</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">OVC</td><td></td><td>•</td>
+<td>29</td>
+<td>148</td>
+<td>15</td>
+<td>11</td>
+<td>1-1</td>
+<td>1-4</td>
+<td>6-7</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>3</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2016-02-20">Feb 20</a></td>
+<td class="rank">163</td><td class="opp"><a href="team.php?team=Murray+St.&amp;y=2016">Murray St.</a></td>
+<td><a href="box.php?g=4766&amp;y=2016">L, 76-60</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">OVC</td><td></td><td></td>
+<td>8</td>
+<td>-</td><td>-</td>
+<td>3</td>
+<td class="zero">0-0</td>
+<td>1-1</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2016-02-13">Feb 13</a></td>
+<td class="rank">209</td><td class="opp"><a href="team.php?team=Tennessee+Martin&amp;y=2016">Tennessee Martin</a></td>
+<td><a href="box.php?g=4448&amp;y=2016">L, 85-84</a></td>
+<td style="font-size:12px">OT</td><td style="font-size:12px">Home</td><td style="font-size:10px">OVC</td><td></td><td></td>
+<td>15</td>
+<td>131</td>
+<td>15</td>
+<td>6</td>
+<td class="zero">0-0</td>
+<td>2-5</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2016-02-10">Feb 10</a></td>
+<td class="rank">266</td><td class="opp"><a href="team.php?team=Eastern+Illinois&amp;y=2016">Eastern Illinois</a></td>
+<td><a href="box.php?g=4242&amp;y=2016">W, 79-70</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">OVC</td><td></td><td></td>
+<td>14</td>
+<td>127</td>
+<td>8</td>
+<td>3</td>
+<td class="zero">0-0</td>
+<td>1-3</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2016-02-06">Feb 6</a></td>
+<td class="rank">163</td><td class="opp"><a href="team.php?team=Murray+St.&amp;y=2016">Murray St.</a></td>
+<td><a href="box.php?g=4092&amp;y=2016">W, 76-73</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">OVC</td><td></td><td></td>
+<td>21</td>
+<td>121</td>
+<td>7</td>
+<td>3</td>
+<td class="zero">0-0</td>
+<td>1-3</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2016-02-04">Feb 4</a></td>
+<td class="rank">209</td><td class="opp"><a href="team.php?team=Tennessee+Martin&amp;y=2016">Tennessee Martin</a></td>
+<td><a href="box.php?g=3938&amp;y=2016">L, 86-77</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">OVC</td><td></td><td></td>
+<td>25</td>
+<td>132</td>
+<td>16</td>
+<td>14</td>
+<td class="zero">0-0</td>
+<td>4-9</td>
+<td>2-2</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2016-01-30">Jan 30</a></td>
+<td class="rank">340</td><td class="opp"><a href="team.php?team=Southeast+Missouri+St.&amp;y=2016">Southeast Missouri St.</a></td>
+<td><a href="box.php?g=3808&amp;y=2016">W, 86-80</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">OVC</td><td></td><td></td>
+<td>18</td>
+<td>95</td>
+<td>19</td>
+<td>6</td>
+<td>2-3</td>
+<td>0-2</td>
+<td>2-2</td>
+<td>1</td>
+<td>3</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>5</td>
+<td class="divide"></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/b.gif"/></td><td class="divide"><a href="fanmatch.php?d=2016-01-27">Jan 27</a></td>
+<td class="rank">126</td><td class="opp"><a href="team.php?team=Morehead+St.&amp;y=2016">Morehead St.</a></td>
+<td><a href="box.php?g=3574&amp;y=2016">L, 75-65</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">OVC</td><td></td><td></td>
+<td>19</td>
+<td>165</td>
+<td>15</td>
+<td>8</td>
+<td>2-2</td>
+<td>1-3</td>
+<td>1-1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/b.gif"/></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2016-01-23">Jan 23</a></td>
+<td class="rank">266</td><td class="opp"><a href="team.php?team=Eastern+Illinois&amp;y=2016">Eastern Illinois</a></td>
+<td><a href="box.php?g=3427&amp;y=2016">L, 87-86</a></td>
+<td style="font-size:12px">OT</td><td style="font-size:12px">Home</td><td style="font-size:10px">OVC</td><td></td><td></td>
+<td>35</td>
+<td>141</td>
+<td>10</td>
+<td>11</td>
+<td>2-3</td>
+<td>2-4</td>
+<td>1-2</td>
+<td>1</td>
+<td>5</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>4</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2016-01-21">Jan 21</a></td>
+<td class="rank">311</td><td class="opp"><a href="team.php?team=SIU+Edwardsville&amp;y=2016">SIU Edwardsville</a></td>
+<td><a href="box.php?g=3298&amp;y=2016">W, 90-86</a></td>
+<td style="font-size:12px">OT</td><td style="font-size:12px">Home</td><td style="font-size:10px">OVC</td><td></td><td></td>
+<td>26</td>
+<td>105</td>
+<td>10</td>
+<td>5</td>
+<td>1-1</td>
+<td>1-4</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/b.gif"/></td><td class="divide"><a href="fanmatch.php?d=2016-01-16">Jan 16</a></td>
+<td class="rank">129</td><td class="opp"><a href="team.php?team=Belmont&amp;y=2016">Belmont</a></td>
+<td><a href="box.php?g=3084&amp;y=2016">L, 76-58</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">OVC</td><td></td><td></td>
+<td>17</td>
+<td>58</td>
+<td>14</td>
+<td>2</td>
+<td>0-1</td>
+<td>0-4</td>
+<td>2-2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/b.gif"/></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2016-01-14">Jan 14</a></td>
+<td class="rank">164</td><td class="opp"><a href="team.php?team=Tennessee+St.&amp;y=2016">Tennessee St.</a></td>
+<td><a href="box.php?g=2968&amp;y=2016">L, 66-52</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">OVC</td><td></td><td></td>
+<td>23</td>
+<td>74</td>
+<td>20</td>
+<td>6</td>
+<td>0-1</td>
+<td>2-6</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>5</td>
+<td>1</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2016-01-09">Jan 9</a></td>
+<td class="rank">196</td><td class="opp"><a href="team.php?team=Tennessee+Tech&amp;y=2016">Tennessee Tech</a></td>
+<td><a href="box.php?g=2764&amp;y=2016">L, 72-66</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">OVC</td><td></td><td></td>
+<td>4</td>
+<td>-</td><td>-</td>
+<td>0</td>
+<td class="zero">0-0</td>
+<td>0-2</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2016-01-07">Jan 7</a></td>
+<td class="rank">296</td><td class="opp"><a href="team.php?team=Jacksonville+St.&amp;y=2016">Jacksonville St.</a></td>
+<td><a href="box.php?g=2639&amp;y=2016">W, 73-54</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">OVC</td><td></td><td></td>
+<td>15</td>
+<td>66</td>
+<td>13</td>
+<td>2</td>
+<td>1-1</td>
+<td>0-2</td>
+<td>0-2</td>
+<td>1</td>
+<td>3</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2016-01-02">Jan 2</a></td>
+<td class="rank">201</td><td class="opp"><a href="team.php?team=Eastern+Kentucky&amp;y=2016">Eastern Kentucky</a></td>
+<td><a href="box.php?g=2409&amp;y=2016">L, 79-70</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">OVC</td><td></td><td></td>
+<td>19</td>
+<td>127</td>
+<td>18</td>
+<td>10</td>
+<td>1-1</td>
+<td>2-5</td>
+<td>2-2</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-12-30">Dec 30</a></td>
+<td class="rank">NR</td><td class="opp">Westminster MO</td>
+<td><a href="box.php?g=2256&amp;y=2016">W, 112-61</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td></td>
+<td>15</td>
+<td>161</td>
+<td>13</td>
+<td>11</td>
+<td>1-1</td>
+<td>3-4</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-12-28">Dec 28</a></td>
+<td class="rank">170</td><td class="opp"><a href="team.php?team=Texas+A%26M+Corpus+Chris&amp;y=2016">Texas A&amp;M Corpus Chris</a></td>
+<td><a href="box.php?g=2138&amp;y=2016">L, 74-70</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td></td>
+<td>11</td>
+<td>91</td>
+<td>25</td>
+<td>5</td>
+<td class="zero">0-0</td>
+<td>1-3</td>
+<td>2-2</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-12-22">Dec 22</a></td>
+<td class="rank">187</td><td class="opp"><a href="team.php?team=Wofford&amp;y=2016">Wofford</a></td>
+<td><a href="box.php?g=2030&amp;y=2016">W, 84-77</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td></td>
+<td>14</td>
+<td>0</td>
+<td>6</td>
+<td>0</td>
+<td>0-1</td>
+<td>0-1</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-12-20">Dec 20</a></td>
+<td class="rank">274</td><td class="opp"><a href="team.php?team=Lipscomb&amp;y=2016">Lipscomb</a></td>
+<td><a href="box.php?g=1900&amp;y=2016">W, 92-84</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td></td>
+<td>23</td>
+<td>137</td>
+<td>11</td>
+<td>8</td>
+<td>1-2</td>
+<td>2-3</td>
+<td class="zero">0-0</td>
+<td>2</td>
+<td>4</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-12-16">Dec 16</a></td>
+<td class="rank">177</td><td class="opp"><a href="team.php?team=North+Florida&amp;y=2016">North Florida</a></td>
+<td><a href="box.php?g=1716&amp;y=2016">L, 80-70</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td></td>
+<td>17</td>
+<td>117</td>
+<td>22</td>
+<td>9</td>
+<td>0-1</td>
+<td>3-7</td>
+<td class="zero">0-0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/b.gif"/></td><td class="divide"><a href="fanmatch.php?d=2015-12-12">Dec 12</a></td>
+<td class="rank">135</td><td class="opp"><a href="team.php?team=IPFW&amp;y=2016">IPFW</a></td>
+<td><a href="box.php?g=1585&amp;y=2016">L, 85-68</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td></td>
+<td>20</td>
+<td>148</td>
+<td>9</td>
+<td>6</td>
+<td>0-1</td>
+<td>2-4</td>
+<td class="zero">0-0</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/b.gif"/></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-12-05">Dec 5</a></td>
+<td class="rank">281</td><td class="opp"><a href="team.php?team=Troy&amp;y=2016">Troy</a></td>
+<td><a href="box.php?g=1323&amp;y=2016">W, 80-71</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td></td>
+<td>11</td>
+<td>66</td>
+<td>13</td>
+<td>2</td>
+<td>1-3</td>
+<td>0-1</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-12-02">Dec 2</a></td>
+<td class="rank">170</td><td class="opp"><a href="team.php?team=Texas+A%26M+Corpus+Chris&amp;y=2016">Texas A&amp;M Corpus Chris</a></td>
+<td><a href="box.php?g=1147&amp;y=2016">L, 61-48</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td></td>
+<td>9</td>
+<td>-</td><td>-</td>
+<td>2</td>
+<td>1-3</td>
+<td class="zero">0-0</td>
+<td class="zero">0-0</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="divide"></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-11-28">Nov 28</a></td>
+<td class="rank">221</td><td class="opp"><a href="team.php?team=Samford&amp;y=2016">Samford</a></td>
+<td><a href="box.php?g=956&amp;y=2016">W, 74-73</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td></td>
+<td>7</td>
+<td>-</td><td>-</td>
+<td>0</td>
+<td>0-2</td>
+<td class="zero">0-0</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-11-25">Nov 25</a></td>
+<td class="rank">NR</td><td class="opp">Oakland City</td>
+<td><a href="box.php?g=821&amp;y=2016">W, 83-55</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td></td>
+<td>20</td>
+<td>89</td>
+<td>13</td>
+<td>2</td>
+<td>1-4</td>
+<td class="zero">0-0</td>
+<td class="zero">0-0</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>4</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-11-22">Nov 22</a></td>
+<td class="rank">314</td><td class="opp"><a href="team.php?team=Northern+Colorado&amp;y=2016">Northern Colorado</a></td>
+<td><a href="box.php?g=5416&amp;y=2016">W, 91-76</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td></td>
+<td>14</td>
+<td>244</td>
+<td>8</td>
+<td>5</td>
+<td class="zero">0-0</td>
+<td>1-1</td>
+<td>2-2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-11-21">Nov 21</a></td>
+<td class="rank">203</td><td class="opp"><a href="team.php?team=Cal+Poly&amp;y=2016">Cal Poly</a></td>
+<td><a href="box.php?g=572&amp;y=2016">L, 73-64</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td></td><td></td><td></td>
+<td>15</td>
+<td>100</td>
+<td>10</td>
+<td>3</td>
+<td class="zero">0-0</td>
+<td>1-2</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-11-18">Nov 18</a></td>
+<td class="rank">135</td><td class="opp"><a href="team.php?team=IPFW&amp;y=2016">IPFW</a></td>
+<td><a href="box.php?g=425&amp;y=2016">L, 80-77</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td></td>
+<td>15</td>
+<td>200</td>
+<td>7</td>
+<td>4</td>
+<td>2-2</td>
+<td class="zero">0-0</td>
+<td class="zero">0-0</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="divide"></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2015-11-16">Nov 16</a></td>
+<td class="rank">11</td><td class="opp"><a href="team.php?team=Indiana&amp;y=2016">Indiana</a></td>
+<td><a href="box.php?g=255&amp;y=2016">L, 102-76</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td></td>
+<td>16</td>
+<td>70</td>
+<td>17</td>
+<td>3</td>
+<td>1-2</td>
+<td>0-2</td>
+<td>1-2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2015-11-13">Nov 13</a></td>
+<td class="rank">25</td><td class="opp"><a href="team.php?team=Vanderbilt&amp;y=2016">Vanderbilt</a></td>
+<td><a href="box.php?g=95&amp;y=2016">L, 80-41</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td></td>
+<td>23</td>
+<td>29</td>
+<td>16</td>
+<td>2</td>
+<td>0-3</td>
+<td>0-4</td>
+<td>2-2</td>
+<td class="zero">0</td>
+<td>7</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr></tbody><thead>
+<tr>
+<th scope="col" width="12"></th>
+<th scope="col" style="width:40px"></th><th scope="col"></th>
+<th style="text-align:left;width:136px;">Opponent</th>
+<th scope="col" style="width:64px;">Result</th>
+<th scope="col" style="width:20px"></th>
+<th scope="col" style="width:62px">Site</th>
+<th scope="col"></th>
+<th width="17"></th>
+<th scope="col">St</th><th scope="col">MP</th>
+<th scope="col">ORtg</th><th scope="col">%Ps</th>
+<th scope="col">Pts</th><th scope="col" style="width:37px">2Pt</th>
+<th scope="col" style="width:37px">3Pt</th><th scope="col" style="width:37px">FT</th>
+<th scope="col" style="width:18px">OR</th><th scope="col" style="width:18px">DR</th>
+<th scope="col" style="width:18px">A</th><th scope="col" style="width:18px">TO</th>
+<th scope="col" style="width:18px">Blk</th><th scope="col" style="width:18px">Stl</th>
+<th scope="col" style="width:18px">PF</th>
+<th scope="col" width="12"></th>
+</tr>
+</thead>
+</table>

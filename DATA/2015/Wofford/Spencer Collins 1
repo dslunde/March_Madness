@@ -1,0 +1,714 @@
+<table id="schedule-table">
+<tbody>
+</tbody><thead>
+<tr>
+<th scope="col" width="12"></th>
+<th scope="col" style="width:40px"></th><th scope="col"></th>
+<th style="text-align:left;width:136px;">Opponent</th>
+<th scope="col" style="width:64px;">Result</th>
+<th scope="col" style="width:20px"></th>
+<th scope="col" style="width:62px">Site</th>
+<th scope="col"></th>
+<th width="17"></th>
+<th scope="col">St</th><th scope="col">MP</th>
+<th scope="col">ORtg</th><th scope="col">%Ps</th>
+<th scope="col">Pts</th><th scope="col" style="width:37px">2Pt</th>
+<th scope="col" style="width:37px">3Pt</th><th scope="col" style="width:37px">FT</th>
+<th scope="col" style="width:18px">OR</th><th scope="col" style="width:18px">DR</th>
+<th scope="col" style="width:18px">A</th><th scope="col" style="width:18px">TO</th>
+<th scope="col" style="width:18px">Blk</th><th scope="col" style="width:18px">Stl</th>
+<th scope="col" style="width:18px">PF</th>
+<th scope="col" width="12"></th>
+</tr>
+</thead>
+<tbody><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2015-03-19">Mar 19</a></td>
+<td class="rank">29</td><td class="opp"><a href="team.php?team=Arkansas&amp;y=2015">Arkansas</a></td>
+<td><a href="box.php?g=5850&amp;y=2015">L, 56-53</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td style="font-size:10px">NCAA-T</td><td></td><td>•</td>
+<td>28</td>
+<td>136</td>
+<td>26</td>
+<td>16</td>
+<td>3-6</td>
+<td>2-5</td>
+<td>4-5</td>
+<td>3</td>
+<td>6</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-03-09">Mar 9</a></td>
+<td class="rank">309</td><td class="opp"><a href="team.php?team=Furman&amp;y=2015">Furman</a></td>
+<td><a href="box.php?g=5717&amp;y=2015">W, 67-64</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td style="font-size:10px">SC-T</td><td></td><td>•</td>
+<td>32</td>
+<td>79</td>
+<td>29</td>
+<td>10</td>
+<td>3-10</td>
+<td>0-2</td>
+<td>4-4</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>3</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-03-08">Mar 8</a></td>
+<td class="rank">234</td><td class="opp"><a href="team.php?team=Western+Carolina&amp;y=2015">Western Carolina</a></td>
+<td><a href="box.php?g=5648&amp;y=2015">W, 73-61</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td style="font-size:10px">SC-T</td><td><span style="font-size:10px; color:#a17f1a; font-style:italic">MVP</span></td><td>•</td>
+<td>31</td>
+<td>125</td>
+<td>28</td>
+<td>17</td>
+<td>2-3</td>
+<td>1-2</td>
+<td>10-13</td>
+<td class="zero">0</td>
+<td>5</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-03-07">Mar 7</a></td>
+<td class="rank">285</td><td class="opp"><a href="team.php?team=UNC+Greensboro&amp;y=2015">UNC Greensboro</a></td>
+<td><a href="box.php?g=5629&amp;y=2015">W, 70-52</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td style="font-size:10px">SC-T</td><td><span style="font-size:10px; color:#a17f1a; font-style:italic">MVP</span></td><td>•</td>
+<td>32</td>
+<td>139</td>
+<td>27</td>
+<td>21</td>
+<td>8-8</td>
+<td>1-6</td>
+<td>2-2</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-02-28">Feb 28</a></td>
+<td class="rank">309</td><td class="opp"><a href="team.php?team=Furman&amp;y=2015">Furman</a></td>
+<td><a href="box.php?g=4991&amp;y=2015">W, 62-60</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">SC</td><td></td><td>•</td>
+<td>30</td>
+<td>90</td>
+<td>20</td>
+<td>9</td>
+<td>3-4</td>
+<td>1-4</td>
+<td>0-1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-02-26">Feb 26</a></td>
+<td class="rank">185</td><td class="opp"><a href="team.php?team=Mercer&amp;y=2015">Mercer</a></td>
+<td><a href="box.php?g=4911&amp;y=2015">W, 76-72</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">SC</td><td><span style="font-size:10px; color:#a17f1a; font-style:italic">MVP</span></td><td>•</td>
+<td>35</td>
+<td>152</td>
+<td>23</td>
+<td>26</td>
+<td>3-5</td>
+<td>4-6</td>
+<td>8-9</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-02-21">Feb 21</a></td>
+<td class="rank">329</td><td class="opp"><a href="team.php?team=The+Citadel&amp;y=2015">The Citadel</a></td>
+<td><a href="box.php?g=4767&amp;y=2015">W, 78-52</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">SC</td><td></td><td>•</td>
+<td>23</td>
+<td>160</td>
+<td>23</td>
+<td>15</td>
+<td>3-5</td>
+<td>2-3</td>
+<td>3-3</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-02-19">Feb 19</a></td>
+<td class="rank">285</td><td class="opp"><a href="team.php?team=UNC+Greensboro&amp;y=2015">UNC Greensboro</a></td>
+<td><a href="box.php?g=4622&amp;y=2015">W, 77-62</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">SC</td><td></td><td>•</td>
+<td>32</td>
+<td>136</td>
+<td>16</td>
+<td>10</td>
+<td>2-2</td>
+<td>1-4</td>
+<td>3-3</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>5</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-02-14">Feb 14</a></td>
+<td class="rank">234</td><td class="opp"><a href="team.php?team=Western+Carolina&amp;y=2015">Western Carolina</a></td>
+<td><a href="box.php?g=4433&amp;y=2015">W, 75-55</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">SC</td><td></td><td>•</td>
+<td>19</td>
+<td>136</td>
+<td>20</td>
+<td>8</td>
+<td class="zero">0-0</td>
+<td>2-3</td>
+<td>2-2</td>
+<td class="zero">0</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-02-12">Feb 12</a></td>
+<td class="rank">166</td><td class="opp"><a href="team.php?team=Chattanooga&amp;y=2015">Chattanooga</a></td>
+<td><a href="box.php?g=4282&amp;y=2015">L, 56-46</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">SC</td><td></td><td>•</td>
+<td>28</td>
+<td>55</td>
+<td>26</td>
+<td>7</td>
+<td>2-10</td>
+<td>1-4</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-02-07">Feb 7</a></td>
+<td class="rank">294</td><td class="opp"><a href="team.php?team=VMI&amp;y=2015">VMI</a></td>
+<td><a href="box.php?g=4103&amp;y=2015">W, 65-62</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">SC</td><td></td><td>•</td>
+<td>21</td>
+<td>99</td>
+<td>25</td>
+<td>10</td>
+<td>2-6</td>
+<td>1-2</td>
+<td>3-6</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-02-05">Feb 5</a></td>
+<td class="rank">218</td><td class="opp"><a href="team.php?team=East+Tennessee+St.&amp;y=2015">East Tennessee St.</a></td>
+<td><a href="box.php?g=3909&amp;y=2015">W, 74-64</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">SC</td><td></td><td>•</td>
+<td>31</td>
+<td>152</td>
+<td>14</td>
+<td>12</td>
+<td>3-4</td>
+<td>0-2</td>
+<td>6-6</td>
+<td>1</td>
+<td>3</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-01-31">Jan 31</a></td>
+<td class="rank">185</td><td class="opp"><a href="team.php?team=Mercer&amp;y=2015">Mercer</a></td>
+<td><a href="box.php?g=3785&amp;y=2015">W, 49-46</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">SC</td><td></td><td>•</td>
+<td>25</td>
+<td>108</td>
+<td>25</td>
+<td>11</td>
+<td>4-11</td>
+<td>1-1</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-01-29">Jan 29</a></td>
+<td class="rank">285</td><td class="opp"><a href="team.php?team=UNC+Greensboro&amp;y=2015">UNC Greensboro</a></td>
+<td><a href="box.php?g=3616&amp;y=2015">W, 58-42</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">SC</td><td><span style="font-size:10px; color:#a17f1a; font-style:italic">MVP</span></td><td>•</td>
+<td>33</td>
+<td>152</td>
+<td>16</td>
+<td>14</td>
+<td>4-4</td>
+<td>1-2</td>
+<td>3-4</td>
+<td class="zero">0</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-01-24">Jan 24</a></td>
+<td class="rank">218</td><td class="opp"><a href="team.php?team=East+Tennessee+St.&amp;y=2015">East Tennessee St.</a></td>
+<td><a href="box.php?g=3439&amp;y=2015">W, 72-64</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">SC</td><td></td><td>•</td>
+<td>29</td>
+<td>108</td>
+<td>19</td>
+<td>12</td>
+<td>2-5</td>
+<td>2-4</td>
+<td>2-3</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-01-22">Jan 22</a></td>
+<td class="rank">309</td><td class="opp"><a href="team.php?team=Furman&amp;y=2015">Furman</a></td>
+<td><a href="box.php?g=3298&amp;y=2015">W, 74-49</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">SC</td><td></td><td>•</td>
+<td>27</td>
+<td>137</td>
+<td>21</td>
+<td>14</td>
+<td>3-7</td>
+<td>2-3</td>
+<td>2-2</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-01-17">Jan 17</a></td>
+<td class="rank">234</td><td class="opp"><a href="team.php?team=Western+Carolina&amp;y=2015">Western Carolina</a></td>
+<td><a href="box.php?g=3106&amp;y=2015">W, 62-43</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">SC</td><td></td><td>•</td>
+<td>28</td>
+<td>101</td>
+<td>26</td>
+<td>10</td>
+<td>3-7</td>
+<td>1-4</td>
+<td>1-3</td>
+<td>3</td>
+<td>5</td>
+<td>4</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="divide"></td></tr><tr class="l">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-01-15">Jan 15</a></td>
+<td class="rank">329</td><td class="opp"><a href="team.php?team=The+Citadel&amp;y=2015">The Citadel</a></td>
+<td><a href="box.php?g=2951&amp;y=2015">L, 69-66</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">SC</td><td></td><td>•</td>
+<td>31</td>
+<td>113</td>
+<td>24</td>
+<td>12</td>
+<td>4-6</td>
+<td>0-4</td>
+<td>4-4</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-01-10">Jan 10</a></td>
+<td class="rank">293</td><td class="opp"><a href="team.php?team=Samford&amp;y=2015">Samford</a></td>
+<td><a href="box.php?g=2774&amp;y=2015">W, 72-62</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">SC</td><td></td><td>•</td>
+<td>32</td>
+<td>112</td>
+<td>25</td>
+<td>16</td>
+<td>5-8</td>
+<td>1-2</td>
+<td>3-3</td>
+<td class="zero">0</td>
+<td>4</td>
+<td>2</td>
+<td>3</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-01-08">Jan 8</a></td>
+<td class="rank">294</td><td class="opp"><a href="team.php?team=VMI&amp;y=2015">VMI</a></td>
+<td><a href="box.php?g=2626&amp;y=2015">W, 75-70</a></td>
+<td></td><td style="font-size:12px">Home</td><td style="font-size:10px">SC</td><td></td><td>•</td>
+<td>26</td>
+<td>62</td>
+<td>24</td>
+<td>6</td>
+<td>0-4</td>
+<td>1-6</td>
+<td>3-4</td>
+<td class="zero">0</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-01-05">Jan 5</a></td>
+<td class="rank">166</td><td class="opp"><a href="team.php?team=Chattanooga&amp;y=2015">Chattanooga</a></td>
+<td><a href="box.php?g=2454&amp;y=2015">W, 68-64</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">SC</td><td></td><td>•</td>
+<td>22</td>
+<td>73</td>
+<td>18</td>
+<td>5</td>
+<td>1-4</td>
+<td>1-2</td>
+<td>0-2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2015-01-03">Jan 3</a></td>
+<td class="rank">293</td><td class="opp"><a href="team.php?team=Samford&amp;y=2015">Samford</a></td>
+<td><a href="box.php?g=2386&amp;y=2015">W, 68-65</a></td>
+<td></td><td style="font-size:12px">Away</td><td style="font-size:10px">SC</td><td></td><td>•</td>
+<td>27</td>
+<td>121</td>
+<td>15</td>
+<td>10</td>
+<td>3-6</td>
+<td>1-2</td>
+<td>1-1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-12-31">Dec 31</a></td>
+<td class="rank">3</td><td class="opp"><a href="team.php?team=Duke&amp;y=2015">Duke</a></td>
+<td><a href="box.php?g=2210&amp;y=2015">L, 84-55</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td>•</td>
+<td>26</td>
+<td>73</td>
+<td>17</td>
+<td>4</td>
+<td>0-2</td>
+<td>0-3</td>
+<td>4-4</td>
+<td>2</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-12-22">Dec 22</a></td>
+<td class="rank">25</td><td class="opp"><a href="team.php?team=West+Virginia&amp;y=2015">West Virginia</a></td>
+<td><a href="box.php?g=1975&amp;y=2015">L, 77-44</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td>•</td>
+<td>28</td>
+<td>81</td>
+<td>27</td>
+<td>12</td>
+<td>1-6</td>
+<td>2-3</td>
+<td>4-6</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>1</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2014-12-17">Dec 17</a></td>
+<td class="rank">195</td><td class="opp"><a href="team.php?team=Charleston+Southern&amp;y=2015">Charleston Southern</a></td>
+<td><a href="box.php?g=1689&amp;y=2015">W, 64-58</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td>•</td>
+<td>23</td>
+<td>116</td>
+<td>24</td>
+<td>11</td>
+<td>2-4</td>
+<td>1-2</td>
+<td>4-4</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-12-14">Dec 14</a></td>
+<td class="rank">32</td><td class="opp"><a href="team.php?team=North+Carolina+St.&amp;y=2015">North Carolina St.</a></td>
+<td><a href="box.php?g=1562&amp;y=2015">W, 55-54</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td>•</td>
+<td>20</td>
+<td>70</td>
+<td>27</td>
+<td>6</td>
+<td>1-4</td>
+<td>1-5</td>
+<td>1-2</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2014-12-06">Dec 6</a></td>
+<td class="rank">NR</td><td class="opp">Florida National</td>
+<td><a href="box.php?g=1308&amp;y=2015">W, 88-57</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td>•</td>
+<td>25</td>
+<td>79</td>
+<td>26</td>
+<td>12</td>
+<td>3-7</td>
+<td>2-5</td>
+<td>0-1</td>
+<td>1</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>3</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>1</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2014-12-03">Dec 3</a></td>
+<td class="rank">326</td><td class="opp"><a href="team.php?team=Presbyterian&amp;y=2015">Presbyterian</a></td>
+<td><a href="box.php?g=1154&amp;y=2015">W, 66-45</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td>•</td>
+<td>29</td>
+<td>148</td>
+<td>12</td>
+<td>11</td>
+<td>1-3</td>
+<td>3-5</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>1</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="divide"></td></tr><tr class="newmonth"><td colspan="25"> </td></tr>
+<tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/b.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-11-29">Nov 29</a></td>
+<td class="rank">116</td><td class="opp"><a href="team.php?team=William+%26+Mary&amp;y=2015">William &amp; Mary</a></td>
+<td><a href="box.php?g=955&amp;y=2015">L, 66-62</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td>•</td>
+<td>33</td>
+<td>110</td>
+<td>29</td>
+<td>18</td>
+<td>6-9</td>
+<td>1-2</td>
+<td>3-5</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>3</td>
+<td>3</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>2</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/b.gif"/></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2014-11-25">Nov 25</a></td>
+<td class="rank">NR</td><td class="opp">Ohio Valley</td>
+<td><a href="box.php?g=773&amp;y=2015">W, 82-54</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td>•</td>
+<td>22</td>
+<td>135</td>
+<td>28</td>
+<td>18</td>
+<td>4-5</td>
+<td>2-4</td>
+<td>4-4</td>
+<td class="zero">0</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td class="divide"></td></tr><tr class="w">
+<td><img height="12" src="https://kenpom.com/assets/b.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-11-23">Nov 23</a></td>
+<td class="rank">95</td><td class="opp"><a href="team.php?team=Sam+Houston+St.&amp;y=2015">Sam Houston St.</a></td>
+<td><a href="box.php?g=657&amp;y=2015">W, 64-53</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td></td><td></td><td>•</td>
+<td>31</td>
+<td>148</td>
+<td>16</td>
+<td>13</td>
+<td>5-6</td>
+<td class="zero">0-0</td>
+<td>3-4</td>
+<td class="zero">0</td>
+<td>5</td>
+<td>3</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/b.gif"/></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2014-11-22">Nov 22</a></td>
+<td class="rank">219</td><td class="opp"><a href="team.php?team=South+Dakota&amp;y=2015">South Dakota</a></td>
+<td><a href="box.php?g=622&amp;y=2015">W, 72-68</a></td>
+<td></td><td style="font-size:12px">Neutral</td><td></td><td></td><td>•</td>
+<td>24</td>
+<td>91</td>
+<td>15</td>
+<td>7</td>
+<td>2-4</td>
+<td>1-2</td>
+<td class="zero">0-0</td>
+<td>1</td>
+<td>1</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2014-11-21">Nov 21</a></td>
+<td class="rank">296</td><td class="opp"><a href="team.php?team=Fairfield&amp;y=2015">Fairfield</a></td>
+<td><a href="box.php?g=503&amp;y=2015">W, 54-36</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td>•</td>
+<td>30</td>
+<td>111</td>
+<td>18</td>
+<td>9</td>
+<td>3-4</td>
+<td>1-3</td>
+<td class="zero">0-0</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>2</td>
+<td class="divide"></td></tr><tr class="w">
+<td></td><td class="divide"><a href="fanmatch.php?d=2014-11-18">Nov 18</a></td>
+<td class="rank">100</td><td class="opp"><a href="team.php?team=Iona&amp;y=2015">Iona</a></td>
+<td><a href="box.php?g=382&amp;y=2015">W, 86-73</a></td>
+<td></td><td style="font-size:12px">Home</td><td></td><td></td><td>•</td>
+<td>26</td>
+<td>99</td>
+<td>16</td>
+<td>9</td>
+<td>3-5</td>
+<td>1-2</td>
+<td class="zero">0-0</td>
+<td class="zero">0</td>
+<td>4</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>1</td>
+<td>3</td>
+<td class="divide"></td></tr><tr class="l">
+<td><img height="12" src="https://kenpom.com/assets/a.gif"/></td><td class="divide"><a href="fanmatch.php?d=2014-11-14">Nov 14</a></td>
+<td class="rank">39</td><td class="opp"><a href="team.php?team=Stanford&amp;y=2015">Stanford</a></td>
+<td><a href="box.php?g=122&amp;y=2015">L, 74-59</a></td>
+<td></td><td style="font-size:12px">Away</td><td></td><td></td><td>•</td>
+<td>26</td>
+<td>89</td>
+<td>25</td>
+<td>11</td>
+<td>3-7</td>
+<td>1-3</td>
+<td>2-2</td>
+<td>1</td>
+<td>2</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="zero">0</td>
+<td class="zero">0</td>
+<td>2</td>
+<td class="divide"><img height="12" src="https://kenpom.com/assets/a.gif"/></td></tr></tbody><thead>
+<tr>
+<th scope="col" width="12"></th>
+<th scope="col" style="width:40px"></th><th scope="col"></th>
+<th style="text-align:left;width:136px;">Opponent</th>
+<th scope="col" style="width:64px;">Result</th>
+<th scope="col" style="width:20px"></th>
+<th scope="col" style="width:62px">Site</th>
+<th scope="col"></th>
+<th width="17"></th>
+<th scope="col">St</th><th scope="col">MP</th>
+<th scope="col">ORtg</th><th scope="col">%Ps</th>
+<th scope="col">Pts</th><th scope="col" style="width:37px">2Pt</th>
+<th scope="col" style="width:37px">3Pt</th><th scope="col" style="width:37px">FT</th>
+<th scope="col" style="width:18px">OR</th><th scope="col" style="width:18px">DR</th>
+<th scope="col" style="width:18px">A</th><th scope="col" style="width:18px">TO</th>
+<th scope="col" style="width:18px">Blk</th><th scope="col" style="width:18px">Stl</th>
+<th scope="col" style="width:18px">PF</th>
+<th scope="col" width="12"></th>
+</tr>
+</thead>
+</table>
